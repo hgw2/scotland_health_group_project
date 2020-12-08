@@ -1,0 +1,2815 @@
+year,life_expectancy,sex,simd_quintiles,council_name
+1998,76.6,Female,All,West Dunbartonshire
+1996,76.3,Female,All,West Dunbartonshire
+2008,72.56,Male,All,West Dunbartonshire
+2017,79.2,Female,All,West Dunbartonshire
+2004,70.98,Male,All,West Dunbartonshire
+2014,78.74,Female,All,West Dunbartonshire
+1992,77.04,Female,All,West Dunbartonshire
+1992,69.46,Male,All,West Dunbartonshire
+2002,70.78,Male,All,West Dunbartonshire
+2010,74.24,Male,All,West Dunbartonshire
+2015,78.85,Female,All,West Dunbartonshire
+2001,77.51,Female,All,West Dunbartonshire
+2013,78.62,Female,All,West Dunbartonshire
+2014,74.75,Male,All,West Dunbartonshire
+1994,76.4,Female,All,West Dunbartonshire
+2007,72.1,Male,All,West Dunbartonshire
+2005,77.64,Female,All,West Dunbartonshire
+2013,74.63,Male,All,West Dunbartonshire
+2006,71.95,Male,All,West Dunbartonshire
+2005,71.77,Male,All,West Dunbartonshire
+1997,76.55,Female,All,West Dunbartonshire
+2000,70.82,Male,All,West Dunbartonshire
+2016,75.04,Male,All,West Dunbartonshire
+2017,74.99,Male,All,West Dunbartonshire
+2008,78.36,Female,All,West Dunbartonshire
+1999,76.81,Female,All,West Dunbartonshire
+1993,70.18,Male,All,West Dunbartonshire
+2006,77.88,Female,All,West Dunbartonshire
+2011,78.73,Female,All,West Dunbartonshire
+2010,78.89,Female,All,West Dunbartonshire
+2015,74.73,Male,All,West Dunbartonshire
+2012,79.08,Female,All,West Dunbartonshire
+2011,74.11,Male,All,West Dunbartonshire
+1995,76.29,Female,All,West Dunbartonshire
+1999,70.67,Male,All,West Dunbartonshire
+2001,70.8,Male,All,West Dunbartonshire
+1993,77.12,Female,All,West Dunbartonshire
+2000,77.13,Female,All,West Dunbartonshire
+2003,70.75,Male,All,West Dunbartonshire
+2016,79.09,Female,All,West Dunbartonshire
+1996,69.29,Male,All,West Dunbartonshire
+2007,78.03,Female,All,West Dunbartonshire
+2012,74.15,Male,All,West Dunbartonshire
+1995,70.42,Male,All,West Dunbartonshire
+1997,69.5,Male,All,West Dunbartonshire
+2009,78.22,Female,All,West Dunbartonshire
+1998,69.83,Male,All,West Dunbartonshire
+2002,77.42,Female,All,West Dunbartonshire
+2004,77.49,Female,All,West Dunbartonshire
+2003,77.58,Female,All,West Dunbartonshire
+1994,70.91,Male,All,West Dunbartonshire
+2009,73.69,Male,All,West Dunbartonshire
+2002,77.68,Female,All,West Lothian
+1999,72.39,Male,All,West Lothian
+1997,77,Female,All,West Lothian
+1992,71.35,Male,All,West Lothian
+1999,77.3,Female,All,West Lothian
+2009,79.75,Female,All,West Lothian
+2001,73.41,Male,All,West Lothian
+2005,75.13,Male,All,West Lothian
+2003,78.02,Female,All,West Lothian
+1998,76.83,Female,All,West Lothian
+2002,73.5,Male,All,West Lothian
+2015,78.28,Male,All,West Lothian
+2016,78.08,Male,All,West Lothian
+1993,71.57,Male,All,West Lothian
+2006,75.35,Male,All,West Lothian
+2010,79.96,Female,All,West Lothian
+2011,79.98,Female,All,West Lothian
+2000,72.85,Male,All,West Lothian
+2004,74.26,Male,All,West Lothian
+2015,80.78,Female,All,West Lothian
+2011,77.01,Male,All,West Lothian
+2006,78.91,Female,All,West Lothian
+2005,78.99,Female,All,West Lothian
+2008,75.9,Male,All,West Lothian
+2012,80.14,Female,All,West Lothian
+2014,78.21,Male,All,West Lothian
+2009,76.17,Male,All,West Lothian
+2008,79.53,Female,All,West Lothian
+2001,78.01,Female,All,West Lothian
+2013,80.5,Female,All,West Lothian
+2010,76.74,Male,All,West Lothian
+1997,71.91,Male,All,West Lothian
+1996,72.34,Male,All,West Lothian
+1992,76.89,Female,All,West Lothian
+2012,77.43,Male,All,West Lothian
+2000,77.86,Female,All,West Lothian
+1994,72.01,Male,All,West Lothian
+2013,77.78,Male,All,West Lothian
+2016,80.97,Female,All,West Lothian
+1998,72.08,Male,All,West Lothian
+1995,77.52,Female,All,West Lothian
+2007,75.87,Male,All,West Lothian
+1994,77.37,Female,All,West Lothian
+2004,78.43,Female,All,West Lothian
+1995,72.35,Male,All,West Lothian
+1993,77.6,Female,All,West Lothian
+2003,74.28,Male,All,West Lothian
+2017,80.78,Female,All,West Lothian
+2014,80.8,Female,All,West Lothian
+1996,77.02,Female,All,West Lothian
+2017,77.79,Male,All,West Lothian
+2007,79.17,Female,All,West Lothian
+2008,80.28,Male,5 - least deprived,Scotland Wide
+1999,78.33,Female,All,Scotland Wide
+2006,79.81,Male,5 - least deprived,Scotland Wide
+2011,81.23,Male,5 - least deprived,Scotland Wide
+2013,84.34,Female,5 - least deprived,Scotland Wide
+2007,83.31,Female,5 - least deprived,Scotland Wide
+2005,79.43,Male,5 - least deprived,Scotland Wide
+2006,83.06,Female,5 - least deprived,Scotland Wide
+2003,82.28,Female,5 - least deprived,Scotland Wide
+2016,81.92,Male,5 - least deprived,Scotland Wide
+2002,78.52,Male,5 - least deprived,Scotland Wide
+2016,81.08,Female,All,Scotland Wide
+2009,83.83,Female,5 - least deprived,Scotland Wide
+2015,82.97,Female,4,Scotland Wide
+2015,81.14,Female,All,Scotland Wide
+2017,81.08,Female,All,Scotland Wide
+2002,82.15,Female,5 - least deprived,Scotland Wide
+2004,82.52,Female,5 - least deprived,Scotland Wide
+2010,83.93,Female,5 - least deprived,Scotland Wide
+2008,80.02,Female,All,Scotland Wide
+1993,77.29,Female,All,Scotland Wide
+2017,84.8,Female,5 - least deprived,Scotland Wide
+2012,83.95,Female,5 - least deprived,Scotland Wide
+2004,78.98,Male,5 - least deprived,Scotland Wide
+2014,81.74,Male,5 - least deprived,Scotland Wide
+2014,84.54,Female,5 - least deprived,Scotland Wide
+2009,80.56,Male,5 - least deprived,Scotland Wide
+2007,80.06,Male,5 - least deprived,Scotland Wide
+2015,81.87,Male,5 - least deprived,Scotland Wide
+2015,84.69,Female,5 - least deprived,Scotland Wide
+2012,81.5,Male,5 - least deprived,Scotland Wide
+2013,79.62,Male,4,Scotland Wide
+2003,78,Female,2,Scotland Wide
+2010,79.24,Female,2,Scotland Wide
+2017,77.7,Male,3,Scotland Wide
+2012,79.56,Female,2,Scotland Wide
+2011,79.37,Female,2,Scotland Wide
+2008,76.32,Female,1 - most deprived,Scotland Wide
+2016,77.58,Male,3,Scotland Wide
+2006,79.92,Female,3,Scotland Wide
+2009,76.51,Female,1 - most deprived,Scotland Wide
+2010,82.4,Female,4,Scotland Wide
+2008,75.87,Male,3,Scotland Wide
+2003,76.62,Male,4,Scotland Wide
+2002,75.46,Female,1 - most deprived,Scotland Wide
+2013,79.75,Female,2,Scotland Wide
+2004,72.56,Male,2,Scotland Wide
+2009,78.53,Male,4,Scotland Wide
+2008,78.11,Male,4,Scotland Wide
+2005,77.39,Male,4,Scotland Wide
+2010,78.89,Male,4,Scotland Wide
+2002,76.16,Male,4,Scotland Wide
+2004,76.96,Male,4,Scotland Wide
+2015,79.74,Female,2,Scotland Wide
+2007,78.62,Female,2,Scotland Wide
+2014,82.91,Female,4,Scotland Wide
+2015,79.7,Male,4,Scotland Wide
+2015,71.35,Male,1 - most deprived,Scotland Wide
+2016,82.91,Female,4,Scotland Wide
+2005,79.72,Female,3,Scotland Wide
+2014,71.52,Male,1 - most deprived,Scotland Wide
+2004,68.5,Male,1 - most deprived,Scotland Wide
+2013,71.58,Male,1 - most deprived,Scotland Wide
+2009,70.26,Male,1 - most deprived,Scotland Wide
+2006,75.46,Male,3,Scotland Wide
+2015,77,Female,1 - most deprived,Scotland Wide
+2011,82.49,Female,4,Scotland Wide
+2017,76.7,Female,1 - most deprived,Scotland Wide
+2002,80.28,Female,4,Scotland Wide
+2016,71.14,Male,1 - most deprived,Scotland Wide
+2007,76.06,Female,1 - most deprived,Scotland Wide
+2016,76.8,Female,1 - most deprived,Scotland Wide
+2005,79.53,Female,All,Scotland Wide
+2007,80.04,Female,3,Scotland Wide
+2006,76.07,Female,1 - most deprived,Scotland Wide
+2005,75.91,Female,1 - most deprived,Scotland Wide
+2002,78.86,Female,All,Scotland Wide
+2011,71.03,Male,1 - most deprived,Scotland Wide
+2011,80.74,Female,All,Scotland Wide
+2011,76.96,Male,3,Scotland Wide
+2002,67.82,Male,1 - most deprived,Scotland Wide
+2003,67.99,Male,1 - most deprived,Scotland Wide
+2013,77.25,Female,1 - most deprived,Scotland Wide
+2012,77.19,Female,1 - most deprived,Scotland Wide
+2005,81.01,Female,4,Scotland Wide
+2006,78.51,Female,2,Scotland Wide
+2002,77.74,Female,2,Scotland Wide
+2014,75.46,Male,2,Scotland Wide
+2001,78.78,Female,All,Scotland Wide
+2010,70.64,Male,1 - most deprived,Scotland Wide
+2016,79.65,Female,2,Scotland Wide
+2005,72.8,Male,2,Scotland Wide
+2015,77.69,Male,3,Scotland Wide
+2003,80.63,Female,4,Scotland Wide
+2008,73.42,Male,2,Scotland Wide
+2013,75.3,Male,2,Scotland Wide
+1997,78.02,Female,All,Scotland Wide
+2009,78.97,Female,2,Scotland Wide
+2002,71.77,Male,2,Scotland Wide
+2017,83,Female,4,Scotland Wide
+2015,75.36,Male,2,Scotland Wide
+2006,81.12,Female,4,Scotland Wide
+2016,75.16,Male,2,Scotland Wide
+2009,73.88,Male,2,Scotland Wide
+2006,73,Male,2,Scotland Wide
+2000,78.55,Female,All,Scotland Wide
+2017,79.5,Female,2,Scotland Wide
+2016,79.84,Male,4,Scotland Wide
+2005,68.85,Male,1 - most deprived,Scotland Wide
+2012,79.48,Male,4,Scotland Wide
+2012,77.33,Male,3,Scotland Wide
+2011,79.18,Male,4,Scotland Wide
+2017,81.6,Female,3,Scotland Wide
+2010,74.39,Male,2,Scotland Wide
+2008,78.71,Female,2,Scotland Wide
+2007,73.06,Male,2,Scotland Wide
+2009,80.28,Female,All,Scotland Wide
+2003,79.29,Female,3,Scotland Wide
+2014,77.79,Male,3,Scotland Wide
+2008,80.17,Female,3,Scotland Wide
+2005,78.47,Female,2,Scotland Wide
+2002,74.31,Male,3,Scotland Wide
+2010,76.68,Male,3,Scotland Wide
+1998,78.15,Female,All,Scotland Wide
+2004,74.91,Male,3,Scotland Wide
+2011,74.69,Male,2,Scotland Wide
+2013,77.69,Male,3,Scotland Wide
+2016,81.61,Female,3,Scotland Wide
+2006,68.96,Male,1 - most deprived,Scotland Wide
+2017,80.1,Male,4,Scotland Wide
+2012,81.3,Female,3,Scotland Wide
+2007,77.82,Male,4,Scotland Wide
+2012,82.69,Female,4,Scotland Wide
+2004,80.76,Female,4,Scotland Wide
+2012,71.32,Male,1 - most deprived,Scotland Wide
+2004,78.09,Female,2,Scotland Wide
+2017,75,Male,2,Scotland Wide
+2007,79.82,Female,All,Scotland Wide
+2011,76.53,Male,All,Scotland Wide
+2012,74.91,Male,2,Scotland Wide
+1996,77.85,Female,All,Scotland Wide
+2014,79.61,Male,4,Scotland Wide
+2003,71.99,Male,2,Scotland Wide
+1995,77.71,Female,All,Scotland Wide
+2014,79.88,Female,2,Scotland Wide
+2006,77.49,Male,4,Scotland Wide
+2010,80.97,Male,5 - least deprived,Scotland Wide
+2013,81.71,Male,5 - least deprived,Scotland Wide
+2008,83.53,Female,5 - least deprived,Scotland Wide
+2016,84.69,Female,5 - least deprived,Scotland Wide
+2011,83.96,Female,5 - least deprived,Scotland Wide
+2010,76.23,Male,All,Scotland Wide
+2015,81.6,Female,3,Scotland Wide
+2008,81.68,Female,4,Scotland Wide
+2010,76.87,Female,1 - most deprived,Scotland Wide
+2009,80.42,Female,3,Scotland Wide
+2003,74.53,Male,3,Scotland Wide
+2007,75.58,Male,3,Scotland Wide
+2008,69.6,Male,1 - most deprived,Scotland Wide
+2004,79.45,Female,3,Scotland Wide
+2010,80.81,Female,3,Scotland Wide
+2007,81.36,Female,4,Scotland Wide
+2009,81.99,Female,4,Scotland Wide
+2003,75.45,Female,1 - most deprived,Scotland Wide
+2013,81.51,Female,3,Scotland Wide
+2002,79.26,Female,3,Scotland Wide
+2014,81.52,Female,3,Scotland Wide
+2017,70.9,Male,1 - most deprived,Scotland Wide
+2012,80.9,Female,All,Scotland Wide
+2009,76.23,Male,3,Scotland Wide
+2013,82.79,Female,4,Scotland Wide
+2011,81.09,Female,3,Scotland Wide
+2011,76.99,Female,1 - most deprived,Scotland Wide
+1992,77.11,Female,All,Scotland Wide
+2005,75.26,Male,3,Scotland Wide
+2007,69.14,Male,1 - most deprived,Scotland Wide
+2004,75.71,Female,1 - most deprived,Scotland Wide
+2014,77.14,Female,1 - most deprived,Scotland Wide
+2003,78.73,Male,5 - least deprived,Scotland Wide
+2017,82.1,Male,5 - least deprived,Scotland Wide
+1999,72.84,Male,All,Scotland Wide
+2005,82.91,Female,5 - least deprived,Scotland Wide
+2000,73.1,Male,All,Scotland Wide
+2013,81.07,Female,All,Scotland Wide
+1998,72.64,Male,All,Scotland Wide
+2014,81.13,Female,All,Scotland Wide
+2007,75,Male,All,Scotland Wide
+1997,72.41,Male,All,Scotland Wide
+2010,80.6,Female,All,Scotland Wide
+2003,73.79,Male,All,Scotland Wide
+2009,75.8,Male,All,Scotland Wide
+2006,79.67,Female,All,Scotland Wide
+2008,75.35,Male,All,Scotland Wide
+2005,74.61,Male,All,Scotland Wide
+2012,76.8,Male,All,Scotland Wide
+2013,77.08,Male,All,Scotland Wide
+2004,74.23,Male,All,Scotland Wide
+2014,77.12,Male,All,Scotland Wide
+1994,71.86,Male,All,Scotland Wide
+2006,74.81,Male,All,Scotland Wide
+2015,77.09,Male,All,Scotland Wide
+1995,72.08,Male,All,Scotland Wide
+1994,77.42,Female,All,Scotland Wide
+1992,71.45,Male,All,Scotland Wide
+2016,77.02,Male,All,Scotland Wide
+1993,71.69,Male,All,Scotland Wide
+2002,73.5,Male,All,Scotland Wide
+2017,77.06,Male,All,Scotland Wide
+2001,73.33,Male,All,Scotland Wide
+2004,79.22,Female,All,Scotland Wide
+1996,72.24,Male,All,Scotland Wide
+2003,79.03,Female,All,Scotland Wide
+2005,78.78,Female,All,Clackmannanshire
+1998,78.94,Female,All,Clackmannanshire
+2008,74.97,Male,All,Clackmannanshire
+1996,72.68,Male,All,Clackmannanshire
+2012,77,Male,All,Clackmannanshire
+2009,75.62,Male,All,Clackmannanshire
+2003,79.21,Female,All,Clackmannanshire
+2016,80.2,Female,All,Clackmannanshire
+2016,76.67,Male,All,Clackmannanshire
+2017,76.9,Male,All,Clackmannanshire
+2011,77,Male,All,Clackmannanshire
+2013,80.2,Female,All,Clackmannanshire
+1994,77.32,Female,All,Clackmannanshire
+2001,78.1,Female,All,Clackmannanshire
+2006,74.08,Male,All,Clackmannanshire
+2009,80.52,Female,All,Clackmannanshire
+1996,77.7,Female,All,Clackmannanshire
+1992,71.51,Male,All,Clackmannanshire
+2015,76.72,Male,All,Clackmannanshire
+2000,73.25,Male,All,Clackmannanshire
+2001,73.38,Male,All,Clackmannanshire
+2017,80.67,Female,All,Clackmannanshire
+2007,74.51,Male,All,Clackmannanshire
+1999,78.4,Female,All,Clackmannanshire
+2011,80.43,Female,All,Clackmannanshire
+1993,77.4,Female,All,Clackmannanshire
+2010,76.5,Male,All,Clackmannanshire
+2005,73.2,Male,All,Clackmannanshire
+2002,73.55,Male,All,Clackmannanshire
+1995,77.38,Female,All,Clackmannanshire
+1997,78.09,Female,All,Clackmannanshire
+2002,78.6,Female,All,Clackmannanshire
+2012,79.85,Female,All,Clackmannanshire
+2010,80.57,Female,All,Clackmannanshire
+2003,73.17,Male,All,Clackmannanshire
+2004,73.24,Male,All,Clackmannanshire
+1995,72.96,Male,All,Clackmannanshire
+2008,80.82,Female,All,Clackmannanshire
+2014,76.93,Male,All,Clackmannanshire
+2000,78.26,Female,All,Clackmannanshire
+1992,77.53,Female,All,Clackmannanshire
+2014,80.12,Female,All,Clackmannanshire
+2007,80.32,Female,All,Clackmannanshire
+1997,72.7,Male,All,Clackmannanshire
+2015,80.59,Female,All,Clackmannanshire
+1993,72.02,Male,All,Clackmannanshire
+1999,73.23,Male,All,Clackmannanshire
+1998,72.76,Male,All,Clackmannanshire
+2004,78.72,Female,All,Clackmannanshire
+1994,72.9,Male,All,Clackmannanshire
+2013,77.12,Male,All,Clackmannanshire
+2006,79.37,Female,All,Clackmannanshire
+2002,79.68,Female,All,Dumfries and Galloway
+2009,76.75,Male,All,Dumfries and Galloway
+2014,81.34,Female,All,Dumfries and Galloway
+1994,78.08,Female,All,Dumfries and Galloway
+2004,79.82,Female,All,Dumfries and Galloway
+2007,80.48,Female,All,Dumfries and Galloway
+2010,81.47,Female,All,Dumfries and Galloway
+1997,74.02,Male,All,Dumfries and Galloway
+2011,81.81,Female,All,Dumfries and Galloway
+2014,78.13,Male,All,Dumfries and Galloway
+2000,79.56,Female,All,Dumfries and Galloway
+2017,81.76,Female,All,Dumfries and Galloway
+2010,77.25,Male,All,Dumfries and Galloway
+2012,77.96,Male,All,Dumfries and Galloway
+1992,77.12,Female,All,Dumfries and Galloway
+2017,77.92,Male,All,Dumfries and Galloway
+1997,79.04,Female,All,Dumfries and Galloway
+1998,79.06,Female,All,Dumfries and Galloway
+2013,77.96,Male,All,Dumfries and Galloway
+1996,73.82,Male,All,Dumfries and Galloway
+2013,81.44,Female,All,Dumfries and Galloway
+1999,74.84,Male,All,Dumfries and Galloway
+1999,79.15,Female,All,Dumfries and Galloway
+2015,81.82,Female,All,Dumfries and Galloway
+2004,75.69,Male,All,Dumfries and Galloway
+2001,75.14,Male,All,Dumfries and Galloway
+2008,76.79,Male,All,Dumfries and Galloway
+1995,73.64,Male,All,Dumfries and Galloway
+2003,75.44,Male,All,Dumfries and Galloway
+2002,74.81,Male,All,Dumfries and Galloway
+2005,80.33,Female,All,Dumfries and Galloway
+1998,74.3,Male,All,Dumfries and Galloway
+2000,74.89,Male,All,Dumfries and Galloway
+2015,77.84,Male,All,Dumfries and Galloway
+1994,73.3,Male,All,Dumfries and Galloway
+2001,79.82,Female,All,Dumfries and Galloway
+1993,72.95,Male,All,Dumfries and Galloway
+2016,77.85,Male,All,Dumfries and Galloway
+2005,76.11,Male,All,Dumfries and Galloway
+2006,76.18,Male,All,Dumfries and Galloway
+2007,76.43,Male,All,Dumfries and Galloway
+2011,77.45,Male,All,Dumfries and Galloway
+2016,81.77,Female,All,Dumfries and Galloway
+2009,81.34,Female,All,Dumfries and Galloway
+2012,81.47,Female,All,Dumfries and Galloway
+1992,72.51,Male,All,Dumfries and Galloway
+2008,80.53,Female,All,Dumfries and Galloway
+1995,78.67,Female,All,Dumfries and Galloway
+1993,77.42,Female,All,Dumfries and Galloway
+2003,79.56,Female,All,Dumfries and Galloway
+2006,80.24,Female,All,Dumfries and Galloway
+1996,79.05,Female,All,Dumfries and Galloway
+1994,71.4,Male,All,East Ayrshire
+1994,77.22,Female,All,East Ayrshire
+2014,76.1,Male,All,East Ayrshire
+1996,72.37,Male,All,East Ayrshire
+1998,72.6,Male,All,East Ayrshire
+2016,76.42,Male,All,East Ayrshire
+2003,78.43,Female,All,East Ayrshire
+2003,73.52,Male,All,East Ayrshire
+2008,78.59,Female,All,East Ayrshire
+1997,77.29,Female,All,East Ayrshire
+1999,76.85,Female,All,East Ayrshire
+1996,77.36,Female,All,East Ayrshire
+1993,76.92,Female,All,East Ayrshire
+2012,79.67,Female,All,East Ayrshire
+1992,71.51,Male,All,East Ayrshire
+2013,79.63,Female,All,East Ayrshire
+2004,73.74,Male,All,East Ayrshire
+2008,74.59,Male,All,East Ayrshire
+2011,80.17,Female,All,East Ayrshire
+2015,79.84,Female,All,East Ayrshire
+2004,77.97,Female,All,East Ayrshire
+1998,76.8,Female,All,East Ayrshire
+2013,75.82,Male,All,East Ayrshire
+2011,76.08,Male,All,East Ayrshire
+2014,79.43,Female,All,East Ayrshire
+1995,72.05,Male,All,East Ayrshire
+1997,73.02,Male,All,East Ayrshire
+2009,79.36,Female,All,East Ayrshire
+2000,76.66,Female,All,East Ayrshire
+2007,74.55,Male,All,East Ayrshire
+1999,72.97,Male,All,East Ayrshire
+2016,79.96,Female,All,East Ayrshire
+2001,72.78,Male,All,East Ayrshire
+2012,75.7,Male,All,East Ayrshire
+2017,76.01,Male,All,East Ayrshire
+2002,77.95,Female,All,East Ayrshire
+2015,76.47,Male,All,East Ayrshire
+2006,77.84,Female,All,East Ayrshire
+2005,74.46,Male,All,East Ayrshire
+2017,79.96,Female,All,East Ayrshire
+2002,72.54,Male,All,East Ayrshire
+1992,76.68,Female,All,East Ayrshire
+2005,78.15,Female,All,East Ayrshire
+2007,78.35,Female,All,East Ayrshire
+2009,75.42,Male,All,East Ayrshire
+2010,75.72,Male,All,East Ayrshire
+1993,71.34,Male,All,East Ayrshire
+2006,74.01,Male,All,East Ayrshire
+1995,77.45,Female,All,East Ayrshire
+2010,79.78,Female,All,East Ayrshire
+2001,77.48,Female,All,East Ayrshire
+2000,72.49,Male,All,East Ayrshire
+1998,74.26,Male,All,East Lothian
+2009,77.32,Male,All,East Lothian
+2015,78.26,Male,All,East Lothian
+2014,78.43,Male,All,East Lothian
+1994,78.64,Female,All,East Lothian
+2002,80.13,Female,All,East Lothian
+1999,74.63,Male,All,East Lothian
+1999,79.41,Female,All,East Lothian
+1996,78.72,Female,All,East Lothian
+1997,73.93,Male,All,East Lothian
+2008,76.75,Male,All,East Lothian
+1992,78.84,Female,All,East Lothian
+2009,81.06,Female,All,East Lothian
+2011,78.06,Male,All,East Lothian
+2010,77.49,Male,All,East Lothian
+1995,78.61,Female,All,East Lothian
+2006,76.2,Male,All,East Lothian
+2016,78.28,Male,All,East Lothian
+2005,80.69,Female,All,East Lothian
+2001,79.91,Female,All,East Lothian
+2007,81.22,Female,All,East Lothian
+1992,73.17,Male,All,East Lothian
+1993,73.4,Male,All,East Lothian
+2013,82.08,Female,All,East Lothian
+2006,80.94,Female,All,East Lothian
+1993,78.76,Female,All,East Lothian
+2004,76.16,Male,All,East Lothian
+2012,81.6,Female,All,East Lothian
+1997,78.98,Female,All,East Lothian
+2007,76.61,Male,All,East Lothian
+2000,79.76,Female,All,East Lothian
+1994,73.36,Male,All,East Lothian
+2014,82.49,Female,All,East Lothian
+2005,76.34,Male,All,East Lothian
+2002,75.65,Male,All,East Lothian
+2017,82.37,Female,All,East Lothian
+2001,75.65,Male,All,East Lothian
+2000,75.57,Male,All,East Lothian
+1995,73.7,Male,All,East Lothian
+2010,81.17,Female,All,East Lothian
+2016,82.52,Female,All,East Lothian
+2008,81.11,Female,All,East Lothian
+2004,80.12,Female,All,East Lothian
+2003,80.12,Female,All,East Lothian
+2015,82.69,Female,All,East Lothian
+2003,75.64,Male,All,East Lothian
+1996,73.94,Male,All,East Lothian
+1998,79.42,Female,All,East Lothian
+2012,78.39,Male,All,East Lothian
+2013,78.43,Male,All,East Lothian
+2017,78.64,Male,All,East Lothian
+2011,81.43,Female,All,East Lothian
+1997,80.16,Female,All,East Renfrewshire
+1995,79.46,Female,All,East Renfrewshire
+1995,75.44,Male,All,East Renfrewshire
+1996,79.67,Female,All,East Renfrewshire
+1999,75.87,Male,All,East Renfrewshire
+2017,80.68,Male,All,East Renfrewshire
+2016,83.75,Female,All,East Renfrewshire
+1994,79.38,Female,All,East Renfrewshire
+2014,79.28,Male,All,East Renfrewshire
+2012,79.48,Male,All,East Renfrewshire
+1997,75.88,Male,All,East Renfrewshire
+2010,78.89,Male,All,East Renfrewshire
+2008,77.88,Male,All,East Renfrewshire
+2012,82.87,Female,All,East Renfrewshire
+2001,81.29,Female,All,East Renfrewshire
+2007,77.48,Male,All,East Renfrewshire
+2002,81.1,Female,All,East Renfrewshire
+2015,80.12,Male,All,East Renfrewshire
+2014,83.44,Female,All,East Renfrewshire
+1994,74.88,Male,All,East Renfrewshire
+2017,83.57,Female,All,East Renfrewshire
+2013,79.66,Male,All,East Renfrewshire
+1993,75.03,Male,All,East Renfrewshire
+2001,75.68,Male,All,East Renfrewshire
+2006,77.45,Male,All,East Renfrewshire
+2000,76.02,Male,All,East Renfrewshire
+1993,79.43,Female,All,East Renfrewshire
+1999,80.71,Female,All,East Renfrewshire
+2005,81.9,Female,All,East Renfrewshire
+2008,81.83,Female,All,East Renfrewshire
+2013,82.67,Female,All,East Renfrewshire
+2006,82.37,Female,All,East Renfrewshire
+2004,76.88,Male,All,East Renfrewshire
+1998,80.67,Female,All,East Renfrewshire
+2011,82.78,Female,All,East Renfrewshire
+2015,83.54,Female,All,East Renfrewshire
+2005,77.32,Male,All,East Renfrewshire
+2016,80.5,Male,All,East Renfrewshire
+2009,82.18,Female,All,East Renfrewshire
+2003,76.43,Male,All,East Renfrewshire
+1992,79.19,Female,All,East Renfrewshire
+2004,81.13,Female,All,East Renfrewshire
+2009,78.28,Male,All,East Renfrewshire
+2000,81.12,Female,All,East Renfrewshire
+1992,74.65,Male,All,East Renfrewshire
+1998,76.23,Male,All,East Renfrewshire
+2007,81.85,Female,All,East Renfrewshire
+2010,82.91,Female,All,East Renfrewshire
+1996,75.62,Male,All,East Renfrewshire
+2002,75.94,Male,All,East Renfrewshire
+2003,80.62,Female,All,East Renfrewshire
+2011,79.69,Male,All,East Renfrewshire
+2014,82.89,Female,All,Na h-Eileanan Siar
+2004,72.37,Male,All,Na h-Eileanan Siar
+2013,76.88,Male,All,Na h-Eileanan Siar
+2017,77.44,Male,All,Na h-Eileanan Siar
+2001,72.38,Male,All,Na h-Eileanan Siar
+2000,80.21,Female,All,Na h-Eileanan Siar
+2003,80.07,Female,All,Na h-Eileanan Siar
+2002,71.76,Male,All,Na h-Eileanan Siar
+1996,70.4,Male,All,Na h-Eileanan Siar
+2016,76.81,Male,All,Na h-Eileanan Siar
+2008,73.88,Male,All,Na h-Eileanan Siar
+2009,74.45,Male,All,Na h-Eileanan Siar
+2015,76.64,Male,All,Na h-Eileanan Siar
+2013,82.13,Female,All,Na h-Eileanan Siar
+1993,78.45,Female,All,Na h-Eileanan Siar
+2012,77.06,Male,All,Na h-Eileanan Siar
+2000,72.3,Male,All,Na h-Eileanan Siar
+1997,70.45,Male,All,Na h-Eileanan Siar
+1994,78.18,Female,All,Na h-Eileanan Siar
+1995,70.99,Male,All,Na h-Eileanan Siar
+1995,78.6,Female,All,Na h-Eileanan Siar
+2014,76.75,Male,All,Na h-Eileanan Siar
+2009,82.15,Female,All,Na h-Eileanan Siar
+2001,80.05,Female,All,Na h-Eileanan Siar
+2017,82.75,Female,All,Na h-Eileanan Siar
+2011,76.3,Male,All,Na h-Eileanan Siar
+2010,80.66,Female,All,Na h-Eileanan Siar
+1997,78.81,Female,All,Na h-Eileanan Siar
+1992,78.77,Female,All,Na h-Eileanan Siar
+2006,80.37,Female,All,Na h-Eileanan Siar
+2003,72.4,Male,All,Na h-Eileanan Siar
+2002,79.76,Female,All,Na h-Eileanan Siar
+1994,71.31,Male,All,Na h-Eileanan Siar
+2010,75.59,Male,All,Na h-Eileanan Siar
+2016,82.77,Female,All,Na h-Eileanan Siar
+2004,79.75,Female,All,Na h-Eileanan Siar
+1999,80.32,Female,All,Na h-Eileanan Siar
+1996,78.6,Female,All,Na h-Eileanan Siar
+1999,71.76,Male,All,Na h-Eileanan Siar
+1998,79.47,Female,All,Na h-Eileanan Siar
+2011,80.24,Female,All,Na h-Eileanan Siar
+2006,73.23,Male,All,Na h-Eileanan Siar
+1998,70.94,Male,All,Na h-Eileanan Siar
+2012,80.47,Female,All,Na h-Eileanan Siar
+2007,73.8,Male,All,Na h-Eileanan Siar
+2005,73.29,Male,All,Na h-Eileanan Siar
+1992,70.6,Male,All,Na h-Eileanan Siar
+2007,81.49,Female,All,Na h-Eileanan Siar
+2008,82.1,Female,All,Na h-Eileanan Siar
+1993,71.28,Male,All,Na h-Eileanan Siar
+2005,80.11,Female,All,Na h-Eileanan Siar
+2015,82.69,Female,All,Na h-Eileanan Siar
+1998,73.07,Male,All,Falkirk
+2010,76.87,Male,All,Falkirk
+1992,71.79,Male,All,Falkirk
+2013,77.22,Male,All,Falkirk
+1994,77.1,Female,All,Falkirk
+1995,72.45,Male,All,Falkirk
+2000,73.59,Male,All,Falkirk
+2011,80.55,Female,All,Falkirk
+1993,71.95,Male,All,Falkirk
+2016,80.51,Female,All,Falkirk
+2017,80.3,Female,All,Falkirk
+2002,78.6,Female,All,Falkirk
+2015,77.25,Male,All,Falkirk
+2004,74.47,Male,All,Falkirk
+1996,78.21,Female,All,Falkirk
+2009,80.21,Female,All,Falkirk
+2001,73.62,Male,All,Falkirk
+2006,79.44,Female,All,Falkirk
+2012,76.71,Male,All,Falkirk
+1995,77.56,Female,All,Falkirk
+2014,80.9,Female,All,Falkirk
+1998,78.23,Female,All,Falkirk
+1999,73.29,Male,All,Falkirk
+1999,78.28,Female,All,Falkirk
+2011,76.84,Male,All,Falkirk
+2006,74.92,Male,All,Falkirk
+2002,73.76,Male,All,Falkirk
+2003,78.89,Female,All,Falkirk
+1997,78.4,Female,All,Falkirk
+2009,76.42,Male,All,Falkirk
+2013,80.95,Female,All,Falkirk
+1994,72.35,Male,All,Falkirk
+1992,77.14,Female,All,Falkirk
+2004,79.18,Female,All,Falkirk
+1996,72.7,Male,All,Falkirk
+2014,77.44,Male,All,Falkirk
+2012,80.63,Female,All,Falkirk
+2016,77.19,Male,All,Falkirk
+1997,72.64,Male,All,Falkirk
+2000,78.26,Female,All,Falkirk
+2008,75.99,Male,All,Falkirk
+2008,79.66,Female,All,Falkirk
+2015,80.61,Female,All,Falkirk
+2007,75.2,Male,All,Falkirk
+2001,78.57,Female,All,Falkirk
+2017,77.1,Male,All,Falkirk
+2010,80.3,Female,All,Falkirk
+2003,73.94,Male,All,Falkirk
+2005,74.58,Male,All,Falkirk
+2007,79.51,Female,All,Falkirk
+2005,79.45,Female,All,Falkirk
+1993,76.8,Female,All,Falkirk
+1996,78.59,Female,All,Highland
+2016,77.76,Male,All,Highland
+2007,80.85,Female,All,Highland
+2008,81.16,Female,All,Highland
+2005,75.25,Male,All,Highland
+1995,72.5,Male,All,Highland
+2010,76.61,Male,All,Highland
+2011,81.79,Female,All,Highland
+2000,73.2,Male,All,Highland
+2002,79.44,Female,All,Highland
+2013,82.71,Female,All,Highland
+2014,82.64,Female,All,Highland
+1999,72.9,Male,All,Highland
+1998,79.07,Female,All,Highland
+1995,78.67,Female,All,Highland
+2015,77.94,Male,All,Highland
+2013,78.22,Male,All,Highland
+2008,76.36,Male,All,Highland
+1999,79.26,Female,All,Highland
+1993,78.68,Female,All,Highland
+2017,77.75,Male,All,Highland
+2007,75.95,Male,All,Highland
+2006,80.59,Female,All,Highland
+1992,78.32,Female,All,Highland
+2012,82.14,Female,All,Highland
+2015,82.87,Female,All,Highland
+2001,79.22,Female,All,Highland
+2002,74.41,Male,All,Highland
+2010,81.5,Female,All,Highland
+2011,77.14,Male,All,Highland
+2003,74.56,Male,All,Highland
+2004,80.35,Female,All,Highland
+1994,72.28,Male,All,Highland
+2017,82.35,Female,All,Highland
+2001,73.8,Male,All,Highland
+1994,78.33,Female,All,Highland
+2009,81.47,Female,All,Highland
+2003,79.82,Female,All,Highland
+1993,72.03,Male,All,Highland
+1997,72.83,Male,All,Highland
+2004,75.04,Male,All,Highland
+1996,72.65,Male,All,Highland
+2005,80.59,Female,All,Highland
+2016,82.6,Female,All,Highland
+2012,77.56,Male,All,Highland
+2006,75.91,Male,All,Highland
+1997,79.03,Female,All,Highland
+2000,79.36,Female,All,Highland
+1992,71.52,Male,All,Highland
+1998,72.99,Male,All,Highland
+2014,77.85,Male,All,Highland
+2009,76.46,Male,All,Highland
+1994,75.76,Female,All,Inverclyde
+1997,77.15,Female,All,Inverclyde
+2002,77.75,Female,All,Inverclyde
+1993,75.97,Female,All,Inverclyde
+2005,77.82,Female,All,Inverclyde
+2011,79.92,Female,All,Inverclyde
+1999,69.94,Male,All,Inverclyde
+2009,79.17,Female,All,Inverclyde
+2003,78.02,Female,All,Inverclyde
+2006,72.58,Male,All,Inverclyde
+2016,75.16,Male,All,Inverclyde
+2009,73.24,Male,All,Inverclyde
+2016,79.68,Female,All,Inverclyde
+2013,80.74,Female,All,Inverclyde
+2010,79.6,Female,All,Inverclyde
+2014,75.44,Male,All,Inverclyde
+2000,77.22,Female,All,Inverclyde
+1993,69.16,Male,All,Inverclyde
+1996,76.64,Female,All,Inverclyde
+1992,69.62,Male,All,Inverclyde
+2012,74.61,Male,All,Inverclyde
+2013,75.47,Male,All,Inverclyde
+2014,80.42,Female,All,Inverclyde
+2008,73.31,Male,All,Inverclyde
+1998,77.65,Female,All,Inverclyde
+2004,77.86,Female,All,Inverclyde
+2004,71.11,Male,All,Inverclyde
+1999,77.34,Female,All,Inverclyde
+2017,75.16,Male,All,Inverclyde
+2001,77.24,Female,All,Inverclyde
+1994,69.04,Male,All,Inverclyde
+2012,80.64,Female,All,Inverclyde
+2000,70.3,Male,All,Inverclyde
+2002,70.18,Male,All,Inverclyde
+2007,78.56,Female,All,Inverclyde
+1992,75.4,Female,All,Inverclyde
+2005,72.22,Male,All,Inverclyde
+2017,79.6,Female,All,Inverclyde
+1995,76.34,Female,All,Inverclyde
+2006,78.16,Female,All,Inverclyde
+2001,70.6,Male,All,Inverclyde
+2010,73.19,Male,All,Inverclyde
+2007,72.96,Male,All,Inverclyde
+1996,69.17,Male,All,Inverclyde
+1998,69.67,Male,All,Inverclyde
+2008,78.93,Female,All,Inverclyde
+1997,69.23,Male,All,Inverclyde
+2003,70.31,Male,All,Inverclyde
+2015,80.08,Female,All,Inverclyde
+1995,68.77,Male,All,Inverclyde
+2015,75.64,Male,All,Inverclyde
+2011,73.66,Male,All,Inverclyde
+2015,77.86,Male,All,Midlothian
+2016,77.88,Male,All,Midlothian
+2014,77.35,Male,All,Midlothian
+2012,81.69,Female,All,Midlothian
+2003,79.12,Female,All,Midlothian
+2002,74.69,Male,All,Midlothian
+2005,75.11,Male,All,Midlothian
+2005,79.69,Female,All,Midlothian
+1996,73.11,Male,All,Midlothian
+2013,77.33,Male,All,Midlothian
+2017,81.68,Female,All,Midlothian
+1996,77.49,Female,All,Midlothian
+1992,72.61,Male,All,Midlothian
+1999,78.82,Female,All,Midlothian
+1998,78.56,Female,All,Midlothian
+1993,73.06,Male,All,Midlothian
+2004,75.24,Male,All,Midlothian
+1994,73.16,Male,All,Midlothian
+2011,81.21,Female,All,Midlothian
+2016,81.63,Female,All,Midlothian
+2006,79.73,Female,All,Midlothian
+1995,77.4,Female,All,Midlothian
+1997,78.05,Female,All,Midlothian
+2015,81.42,Female,All,Midlothian
+2000,74.21,Male,All,Midlothian
+1997,73.04,Male,All,Midlothian
+2014,81.48,Female,All,Midlothian
+2010,81.4,Female,All,Midlothian
+2017,77.92,Male,All,Midlothian
+1992,77.37,Female,All,Midlothian
+2011,77.46,Male,All,Midlothian
+2008,76.61,Male,All,Midlothian
+2001,78.62,Female,All,Midlothian
+2013,81.54,Female,All,Midlothian
+1993,77.92,Female,All,Midlothian
+2012,77.16,Male,All,Midlothian
+2010,76.95,Male,All,Midlothian
+2003,74.98,Male,All,Midlothian
+2002,78.62,Female,All,Midlothian
+1998,73.5,Male,All,Midlothian
+1999,73.69,Male,All,Midlothian
+2009,76.63,Male,All,Midlothian
+2006,75.99,Male,All,Midlothian
+2000,78.86,Female,All,Midlothian
+1995,73.41,Male,All,Midlothian
+2007,80.51,Female,All,Midlothian
+2008,81.22,Female,All,Midlothian
+1994,77.25,Female,All,Midlothian
+2001,74.11,Male,All,Midlothian
+2004,79.46,Female,All,Midlothian
+2007,76.4,Male,All,Midlothian
+2009,81.33,Female,All,Midlothian
+2012,77.81,Male,All,Moray
+2008,76.85,Male,All,Moray
+2005,75.88,Male,All,Moray
+2017,81.68,Female,All,Moray
+1993,78.35,Female,All,Moray
+2013,78.51,Male,All,Moray
+1996,73.87,Male,All,Moray
+2004,80.18,Female,All,Moray
+2003,80.17,Female,All,Moray
+1993,72.64,Male,All,Moray
+2004,75.61,Male,All,Moray
+2016,78.69,Male,All,Moray
+2002,74.22,Male,All,Moray
+1999,79.26,Female,All,Moray
+1995,78.65,Female,All,Moray
+2002,80.15,Female,All,Moray
+2009,81.52,Female,All,Moray
+2006,76,Male,All,Moray
+2012,81.59,Female,All,Moray
+2000,79.33,Female,All,Moray
+1994,78.25,Female,All,Moray
+1992,78.63,Female,All,Moray
+2006,80.36,Female,All,Moray
+1994,72.64,Male,All,Moray
+2011,77.29,Male,All,Moray
+2009,77.07,Male,All,Moray
+1997,74.39,Male,All,Moray
+2001,74.02,Male,All,Moray
+2003,74.99,Male,All,Moray
+1999,74.45,Male,All,Moray
+2010,77.08,Male,All,Moray
+2017,78.97,Male,All,Moray
+2015,78.67,Male,All,Moray
+2014,81.7,Female,All,Moray
+1997,79.77,Female,All,Moray
+2007,76.48,Male,All,Moray
+2000,74.28,Male,All,Moray
+2011,81.67,Female,All,Moray
+2005,80.04,Female,All,Moray
+2007,80.6,Female,All,Moray
+2016,81.93,Female,All,Moray
+2013,81.69,Female,All,Moray
+2008,81.16,Female,All,Moray
+1998,79.34,Female,All,Moray
+2014,78.75,Male,All,Moray
+1996,79.22,Female,All,Moray
+2015,82.15,Female,All,Moray
+1995,73,Male,All,Moray
+1992,72.87,Male,All,Moray
+1998,74.61,Male,All,Moray
+2010,81.83,Female,All,Moray
+2001,79.96,Female,All,Moray
+2010,80.22,Female,All,North Ayrshire
+2002,78.47,Female,All,North Ayrshire
+1995,71.87,Male,All,North Ayrshire
+2012,75.88,Male,All,North Ayrshire
+2001,78.25,Female,All,North Ayrshire
+2015,80.52,Female,All,North Ayrshire
+1994,71.6,Male,All,North Ayrshire
+2011,80.66,Female,All,North Ayrshire
+1993,76.89,Female,All,North Ayrshire
+2014,80.79,Female,All,North Ayrshire
+2005,78.98,Female,All,North Ayrshire
+1997,78.11,Female,All,North Ayrshire
+2013,80.98,Female,All,North Ayrshire
+1997,71.97,Male,All,North Ayrshire
+1993,71.55,Male,All,North Ayrshire
+1998,77.8,Female,All,North Ayrshire
+1996,71.81,Male,All,North Ayrshire
+2008,79.18,Female,All,North Ayrshire
+2011,75.93,Male,All,North Ayrshire
+2017,79.88,Female,All,North Ayrshire
+2016,80.16,Female,All,North Ayrshire
+2016,76.06,Male,All,North Ayrshire
+1999,78.03,Female,All,North Ayrshire
+2002,72.67,Male,All,North Ayrshire
+2006,73.81,Male,All,North Ayrshire
+2007,73.94,Male,All,North Ayrshire
+2003,79.09,Female,All,North Ayrshire
+1996,77.69,Female,All,North Ayrshire
+1992,76.43,Female,All,North Ayrshire
+2010,75.19,Male,All,North Ayrshire
+2015,75.92,Male,All,North Ayrshire
+1995,77.73,Female,All,North Ayrshire
+2000,72.48,Male,All,North Ayrshire
+2006,79.02,Female,All,North Ayrshire
+2012,80.94,Female,All,North Ayrshire
+2004,73.82,Male,All,North Ayrshire
+1992,71.1,Male,All,North Ayrshire
+1998,72.49,Male,All,North Ayrshire
+2004,78.92,Female,All,North Ayrshire
+2001,72.26,Male,All,North Ayrshire
+2014,76.12,Male,All,North Ayrshire
+2003,73.26,Male,All,North Ayrshire
+1994,76.91,Female,All,North Ayrshire
+2000,77.7,Female,All,North Ayrshire
+2008,74.12,Male,All,North Ayrshire
+1999,72.57,Male,All,North Ayrshire
+2009,75.14,Male,All,North Ayrshire
+2013,76.39,Male,All,North Ayrshire
+2017,76.34,Male,All,North Ayrshire
+2007,79,Female,All,North Ayrshire
+2005,73.98,Male,All,North Ayrshire
+2009,79.53,Female,All,North Ayrshire
+2004,76.49,Male,All,Orkney Islands
+2017,82.07,Female,All,Orkney Islands
+1998,79.45,Female,All,Orkney Islands
+2013,78.65,Male,All,Orkney Islands
+1997,78.88,Female,All,Orkney Islands
+2001,81.65,Female,All,Orkney Islands
+1993,72.99,Male,All,Orkney Islands
+2005,81.01,Female,All,Orkney Islands
+2000,74.39,Male,All,Orkney Islands
+1996,73.43,Male,All,Orkney Islands
+1997,73.38,Male,All,Orkney Islands
+2007,81.55,Female,All,Orkney Islands
+2011,81.83,Female,All,Orkney Islands
+2017,79.09,Male,All,Orkney Islands
+2016,79.52,Male,All,Orkney Islands
+2003,76.57,Male,All,Orkney Islands
+1994,73.3,Male,All,Orkney Islands
+1992,73.09,Male,All,Orkney Islands
+2016,81.69,Female,All,Orkney Islands
+1995,79.85,Female,All,Orkney Islands
+2014,78.79,Male,All,Orkney Islands
+2000,81.76,Female,All,Orkney Islands
+2015,80.35,Male,All,Orkney Islands
+2008,81.9,Female,All,Orkney Islands
+2004,81.35,Female,All,Orkney Islands
+1995,73.29,Male,All,Orkney Islands
+1999,74.05,Male,All,Orkney Islands
+2006,81.56,Female,All,Orkney Islands
+2007,74.92,Male,All,Orkney Islands
+2001,75.33,Male,All,Orkney Islands
+2002,75.9,Male,All,Orkney Islands
+1994,79.31,Female,All,Orkney Islands
+2006,75.33,Male,All,Orkney Islands
+2009,81.71,Female,All,Orkney Islands
+2014,82.81,Female,All,Orkney Islands
+2005,76.37,Male,All,Orkney Islands
+2012,82.59,Female,All,Orkney Islands
+2008,76,Male,All,Orkney Islands
+2002,81.03,Female,All,Orkney Islands
+2015,82.7,Female,All,Orkney Islands
+1996,79.27,Female,All,Orkney Islands
+1992,78.14,Female,All,Orkney Islands
+2013,82.87,Female,All,Orkney Islands
+2009,77.83,Male,All,Orkney Islands
+1998,73.45,Male,All,Orkney Islands
+2003,80.48,Female,All,Orkney Islands
+2010,81.59,Female,All,Orkney Islands
+1993,78.19,Female,All,Orkney Islands
+2012,78.59,Male,All,Orkney Islands
+1999,81.43,Female,All,Orkney Islands
+2011,79.46,Male,All,Orkney Islands
+2010,79.35,Male,All,Orkney Islands
+1993,78.87,Female,All,Scottish Borders
+2000,75.69,Male,All,Scottish Borders
+1998,74.9,Male,All,Scottish Borders
+2005,76.54,Male,All,Scottish Borders
+2012,79.2,Male,All,Scottish Borders
+2011,81.89,Female,All,Scottish Borders
+2016,78.95,Male,All,Scottish Borders
+1997,79.47,Female,All,Scottish Borders
+2010,81.97,Female,All,Scottish Borders
+2010,77.97,Male,All,Scottish Borders
+2000,80.11,Female,All,Scottish Borders
+2006,76.68,Male,All,Scottish Borders
+1993,74.07,Male,All,Scottish Borders
+1999,75.09,Male,All,Scottish Borders
+1996,74.71,Male,All,Scottish Borders
+2014,78.81,Male,All,Scottish Borders
+1999,79.87,Female,All,Scottish Borders
+2008,77.24,Male,All,Scottish Borders
+2008,81.33,Female,All,Scottish Borders
+2014,82.53,Female,All,Scottish Borders
+2013,79.23,Male,All,Scottish Borders
+2001,80.3,Female,All,Scottish Borders
+2004,75.87,Male,All,Scottish Borders
+1995,74.77,Male,All,Scottish Borders
+1995,79.11,Female,All,Scottish Borders
+2004,80.12,Female,All,Scottish Borders
+1992,73.44,Male,All,Scottish Borders
+2009,77.63,Male,All,Scottish Borders
+2003,79.94,Female,All,Scottish Borders
+2006,80.89,Female,All,Scottish Borders
+2003,75.27,Male,All,Scottish Borders
+2012,82.34,Female,All,Scottish Borders
+1996,79.28,Female,All,Scottish Borders
+2011,78.61,Male,All,Scottish Borders
+2002,79.81,Female,All,Scottish Borders
+2015,78.64,Male,All,Scottish Borders
+2017,78.83,Male,All,Scottish Borders
+2013,82.44,Female,All,Scottish Borders
+2005,80.67,Female,All,Scottish Borders
+2009,81.46,Female,All,Scottish Borders
+1998,79.55,Female,All,Scottish Borders
+1994,74.45,Male,All,Scottish Borders
+2017,82.09,Female,All,Scottish Borders
+2002,75.43,Male,All,Scottish Borders
+2016,82.36,Female,All,Scottish Borders
+2007,80.95,Female,All,Scottish Borders
+2001,75.37,Male,All,Scottish Borders
+1992,78.56,Female,All,Scottish Borders
+2015,82.6,Female,All,Scottish Borders
+1997,74.85,Male,All,Scottish Borders
+1994,78.88,Female,All,Scottish Borders
+2007,77.21,Male,All,Scottish Borders
+2012,82.56,Female,All,Shetland Islands
+2003,80.3,Female,All,Shetland Islands
+2013,82.39,Female,All,Shetland Islands
+2001,81.39,Female,All,Shetland Islands
+1994,78.41,Female,All,Shetland Islands
+2002,73.49,Male,All,Shetland Islands
+2017,79.48,Male,All,Shetland Islands
+1996,80.05,Female,All,Shetland Islands
+1999,74.24,Male,All,Shetland Islands
+2003,74.08,Male,All,Shetland Islands
+2004,80.93,Female,All,Shetland Islands
+2016,78.29,Male,All,Shetland Islands
+2010,81.04,Female,All,Shetland Islands
+2014,81.93,Female,All,Shetland Islands
+1993,77.56,Female,All,Shetland Islands
+2007,74.75,Male,All,Shetland Islands
+2011,77.38,Male,All,Shetland Islands
+1997,79.56,Female,All,Shetland Islands
+2009,80.61,Female,All,Shetland Islands
+1992,78.36,Female,All,Shetland Islands
+2015,82.03,Female,All,Shetland Islands
+2000,81.09,Female,All,Shetland Islands
+2009,76.96,Male,All,Shetland Islands
+2005,76.24,Male,All,Shetland Islands
+2008,75.96,Male,All,Shetland Islands
+1994,71.11,Male,All,Shetland Islands
+2001,74.91,Male,All,Shetland Islands
+1995,79.13,Female,All,Shetland Islands
+2012,77.8,Male,All,Shetland Islands
+2004,75.16,Male,All,Shetland Islands
+1998,79.84,Female,All,Shetland Islands
+1993,71.32,Male,All,Shetland Islands
+1998,72.98,Male,All,Shetland Islands
+2017,83.37,Female,All,Shetland Islands
+1992,72.09,Male,All,Shetland Islands
+2011,81.41,Female,All,Shetland Islands
+2006,82.5,Female,All,Shetland Islands
+2005,81.39,Female,All,Shetland Islands
+2015,77.6,Male,All,Shetland Islands
+2014,77.62,Male,All,Shetland Islands
+1999,80.72,Female,All,Shetland Islands
+2007,81.42,Female,All,Shetland Islands
+2000,74.92,Male,All,Shetland Islands
+2008,81.74,Female,All,Shetland Islands
+2006,75.7,Male,All,Shetland Islands
+2013,77.83,Male,All,Shetland Islands
+2002,80.74,Female,All,Shetland Islands
+1995,71.65,Male,All,Shetland Islands
+1997,72.15,Male,All,Shetland Islands
+2016,83.19,Female,All,Shetland Islands
+1996,72.13,Male,All,Shetland Islands
+2010,77.95,Male,All,Shetland Islands
+2016,81.14,Female,All,South Ayrshire
+2004,74.99,Male,All,South Ayrshire
+2000,74.19,Male,All,South Ayrshire
+2002,74.01,Male,All,South Ayrshire
+2003,74.42,Male,All,South Ayrshire
+2007,75.44,Male,All,South Ayrshire
+2005,75.74,Male,All,South Ayrshire
+1993,77.87,Female,All,South Ayrshire
+1995,78.25,Female,All,South Ayrshire
+1994,77.86,Female,All,South Ayrshire
+1998,73.83,Male,All,South Ayrshire
+2017,81.26,Female,All,South Ayrshire
+1994,73.11,Male,All,South Ayrshire
+1992,72.01,Male,All,South Ayrshire
+2008,75.71,Male,All,South Ayrshire
+2009,76.27,Male,All,South Ayrshire
+1995,73.67,Male,All,South Ayrshire
+1999,74.11,Male,All,South Ayrshire
+2012,77.62,Male,All,South Ayrshire
+1993,72.87,Male,All,South Ayrshire
+2014,81.03,Female,All,South Ayrshire
+2016,77.18,Male,All,South Ayrshire
+2011,77.25,Male,All,South Ayrshire
+1992,77.47,Female,All,South Ayrshire
+2002,79.24,Female,All,South Ayrshire
+1996,73.42,Male,All,South Ayrshire
+1997,78.69,Female,All,South Ayrshire
+2004,80.03,Female,All,South Ayrshire
+2006,75.6,Male,All,South Ayrshire
+2007,80.84,Female,All,South Ayrshire
+2001,78.88,Female,All,South Ayrshire
+1997,73.3,Male,All,South Ayrshire
+2015,80.76,Female,All,South Ayrshire
+2010,77.05,Male,All,South Ayrshire
+2006,80.55,Female,All,South Ayrshire
+1999,78.59,Female,All,South Ayrshire
+2013,78.15,Male,All,South Ayrshire
+2011,81.09,Female,All,South Ayrshire
+1998,78.58,Female,All,South Ayrshire
+2017,77.3,Male,All,South Ayrshire
+2012,80.85,Female,All,South Ayrshire
+2003,79.65,Female,All,South Ayrshire
+2000,78.7,Female,All,South Ayrshire
+2008,80.8,Female,All,South Ayrshire
+2013,80.91,Female,All,South Ayrshire
+2010,80.84,Female,All,South Ayrshire
+2005,80.45,Female,All,South Ayrshire
+2015,77.54,Male,All,South Ayrshire
+2014,77.74,Male,All,South Ayrshire
+1996,78.17,Female,All,South Ayrshire
+2009,81.01,Female,All,South Ayrshire
+2001,73.87,Male,All,South Ayrshire
+2012,76.47,Male,All,South Lanarkshire
+1995,77.33,Female,All,South Lanarkshire
+1992,76.73,Female,All,South Lanarkshire
+2006,79.45,Female,All,South Lanarkshire
+1995,72.12,Male,All,South Lanarkshire
+1999,72.83,Male,All,South Lanarkshire
+2007,74.44,Male,All,South Lanarkshire
+2003,73.89,Male,All,South Lanarkshire
+1998,77.68,Female,All,South Lanarkshire
+1994,71.66,Male,All,South Lanarkshire
+2017,76.83,Male,All,South Lanarkshire
+2000,78.01,Female,All,South Lanarkshire
+2005,74.38,Male,All,South Lanarkshire
+2011,76.31,Male,All,South Lanarkshire
+2011,80.44,Female,All,South Lanarkshire
+2006,74.32,Male,All,South Lanarkshire
+2017,80.63,Female,All,South Lanarkshire
+1996,77.41,Female,All,South Lanarkshire
+2016,80.7,Female,All,South Lanarkshire
+2008,79.81,Female,All,South Lanarkshire
+2014,80.81,Female,All,South Lanarkshire
+1993,76.86,Female,All,South Lanarkshire
+2010,80.35,Female,All,South Lanarkshire
+2010,76.23,Male,All,South Lanarkshire
+2002,74.01,Male,All,South Lanarkshire
+2009,75.67,Male,All,South Lanarkshire
+2005,79.31,Female,All,South Lanarkshire
+2016,76.8,Male,All,South Lanarkshire
+2013,80.81,Female,All,South Lanarkshire
+2002,78.57,Female,All,South Lanarkshire
+1999,77.88,Female,All,South Lanarkshire
+2009,80.1,Female,All,South Lanarkshire
+2015,80.67,Female,All,South Lanarkshire
+2014,76.97,Male,All,South Lanarkshire
+1997,77.68,Female,All,South Lanarkshire
+2008,74.83,Male,All,South Lanarkshire
+2007,79.47,Female,All,South Lanarkshire
+1993,71.67,Male,All,South Lanarkshire
+1992,71.63,Male,All,South Lanarkshire
+2004,79.14,Female,All,South Lanarkshire
+2015,76.81,Male,All,South Lanarkshire
+1994,76.97,Female,All,South Lanarkshire
+2013,76.61,Male,All,South Lanarkshire
+1997,72.57,Male,All,South Lanarkshire
+2012,80.6,Female,All,South Lanarkshire
+2004,74.25,Male,All,South Lanarkshire
+2003,78.71,Female,All,South Lanarkshire
+2000,73.42,Male,All,South Lanarkshire
+1996,72.32,Male,All,South Lanarkshire
+2001,73.83,Male,All,South Lanarkshire
+2001,78.39,Female,All,South Lanarkshire
+1998,72.52,Male,All,South Lanarkshire
+2009,77.84,Male,All,Stirling
+2006,80.84,Female,All,Stirling
+1994,78.56,Female,All,Stirling
+2005,80.58,Female,All,Stirling
+1996,73.67,Male,All,Stirling
+1992,77.7,Female,All,Stirling
+2011,81.79,Female,All,Stirling
+2002,79.33,Female,All,Stirling
+2002,75.54,Male,All,Stirling
+1999,79.6,Female,All,Stirling
+2016,78.83,Male,All,Stirling
+2010,82.02,Female,All,Stirling
+2005,76.69,Male,All,Stirling
+2014,78.54,Male,All,Stirling
+2001,79.62,Female,All,Stirling
+2007,81.12,Female,All,Stirling
+1996,78.42,Female,All,Stirling
+1997,73.7,Male,All,Stirling
+2014,82.03,Female,All,Stirling
+2007,77.08,Male,All,Stirling
+2012,78.49,Male,All,Stirling
+2016,82.57,Female,All,Stirling
+1998,79.18,Female,All,Stirling
+1993,78.05,Female,All,Stirling
+2004,76.39,Male,All,Stirling
+2017,82.83,Female,All,Stirling
+2012,82.04,Female,All,Stirling
+2009,81.66,Female,All,Stirling
+2006,76.89,Male,All,Stirling
+2003,75.74,Male,All,Stirling
+1993,72.15,Male,All,Stirling
+2008,77.35,Male,All,Stirling
+2003,79.88,Female,All,Stirling
+2013,81.92,Female,All,Stirling
+1999,74.54,Male,All,Stirling
+2015,78.65,Male,All,Stirling
+2004,80.17,Female,All,Stirling
+1992,71.65,Male,All,Stirling
+2011,78.34,Male,All,Stirling
+2000,79.42,Female,All,Stirling
+1998,74.4,Male,All,Stirling
+2000,74.98,Male,All,Stirling
+2017,78.68,Male,All,Stirling
+2008,81.61,Female,All,Stirling
+2001,75.15,Male,All,Stirling
+1997,78.45,Female,All,Stirling
+2010,78.31,Male,All,Stirling
+1995,73.16,Male,All,Stirling
+1994,72.85,Male,All,Stirling
+2015,82.25,Female,All,Stirling
+1995,78.14,Female,All,Stirling
+2013,78.32,Male,All,Stirling
+2017,81.14,Female,All,Aberdeen City
+2010,81.07,Female,All,Aberdeen City
+2015,80.84,Female,All,Aberdeen City
+2008,80.55,Female,All,Aberdeen City
+1997,79.28,Female,All,Aberdeen City
+2008,75.6,Male,All,Aberdeen City
+2002,74.14,Male,All,Aberdeen City
+2003,79.99,Female,All,Aberdeen City
+2010,76.55,Male,All,Aberdeen City
+1995,72.86,Male,All,Aberdeen City
+2014,80.95,Female,All,Aberdeen City
+2016,76.9,Male,All,Aberdeen City
+2007,80.3,Female,All,Aberdeen City
+2009,76.14,Male,All,Aberdeen City
+2014,76.57,Male,All,Aberdeen City
+2012,81.24,Female,All,Aberdeen City
+2000,73.7,Male,All,Aberdeen City
+1999,79.12,Female,All,Aberdeen City
+1995,78.65,Female,All,Aberdeen City
+1994,77.94,Female,All,Aberdeen City
+2015,76.4,Male,All,Aberdeen City
+2003,74.41,Male,All,Aberdeen City
+2016,81.05,Female,All,Aberdeen City
+2001,79.59,Female,All,Aberdeen City
+1996,72.8,Male,All,Aberdeen City
+1997,73.2,Male,All,Aberdeen City
+2004,74.91,Male,All,Aberdeen City
+2005,80.14,Female,All,Aberdeen City
+1999,73.8,Male,All,Aberdeen City
+2013,76.73,Male,All,Aberdeen City
+2000,79.3,Female,All,Aberdeen City
+2017,76.9,Male,All,Aberdeen City
+2006,75.13,Male,All,Aberdeen City
+2007,75.3,Male,All,Aberdeen City
+1994,73.18,Male,All,Aberdeen City
+1998,73.64,Male,All,Aberdeen City
+2004,80.01,Female,All,Aberdeen City
+1992,72.64,Male,All,Aberdeen City
+2012,77.03,Male,All,Aberdeen City
+1993,77.93,Female,All,Aberdeen City
+1993,73.2,Male,All,Aberdeen City
+2006,80.18,Female,All,Aberdeen City
+2013,81,Female,All,Aberdeen City
+2011,77.01,Male,All,Aberdeen City
+2002,80,Female,All,Aberdeen City
+2011,81.07,Female,All,Aberdeen City
+2005,74.86,Male,All,Aberdeen City
+2009,80.79,Female,All,Aberdeen City
+1992,77.99,Female,All,Aberdeen City
+1998,79.27,Female,All,Aberdeen City
+1996,78.91,Female,All,Aberdeen City
+2001,73.84,Male,All,Aberdeen City
+2006,77.49,Male,All,Aberdeenshire
+2003,80.84,Female,All,Aberdeenshire
+2009,78,Male,All,Aberdeenshire
+2015,79.24,Male,All,Aberdeenshire
+1997,80.22,Female,All,Aberdeenshire
+2014,79.15,Male,All,Aberdeenshire
+2012,82.09,Female,All,Aberdeenshire
+2008,77.91,Male,All,Aberdeenshire
+2014,82.24,Female,All,Aberdeenshire
+2017,79.23,Male,All,Aberdeenshire
+2006,81.29,Female,All,Aberdeenshire
+2007,77.45,Male,All,Aberdeenshire
+2005,76.97,Male,All,Aberdeenshire
+2012,79.13,Male,All,Aberdeenshire
+1993,73.89,Male,All,Aberdeenshire
+2017,82.9,Female,All,Aberdeenshire
+1999,80.19,Female,All,Aberdeenshire
+2016,82.57,Female,All,Aberdeenshire
+2004,81.02,Female,All,Aberdeenshire
+2013,82.18,Female,All,Aberdeenshire
+2002,76.13,Male,All,Aberdeenshire
+2000,80.36,Female,All,Aberdeenshire
+1996,80.12,Female,All,Aberdeenshire
+2003,76.3,Male,All,Aberdeenshire
+2009,81.55,Female,All,Aberdeenshire
+2016,79.14,Male,All,Aberdeenshire
+1995,79.78,Female,All,Aberdeenshire
+2000,75.53,Male,All,Aberdeenshire
+2001,80.73,Female,All,Aberdeenshire
+2007,81.13,Female,All,Aberdeenshire
+1996,75.12,Male,All,Aberdeenshire
+1993,78.6,Female,All,Aberdeenshire
+2008,81.33,Female,All,Aberdeenshire
+1994,74.31,Male,All,Aberdeenshire
+1999,75.16,Male,All,Aberdeenshire
+1995,74.86,Male,All,Aberdeenshire
+2010,78.41,Male,All,Aberdeenshire
+1998,75.03,Male,All,Aberdeenshire
+2001,75.97,Male,All,Aberdeenshire
+1994,78.95,Female,All,Aberdeenshire
+2004,76.7,Male,All,Aberdeenshire
+1997,75.07,Male,All,Aberdeenshire
+2002,80.79,Female,All,Aberdeenshire
+2010,81.95,Female,All,Aberdeenshire
+2013,79.34,Male,All,Aberdeenshire
+2015,82.45,Female,All,Aberdeenshire
+1992,78.44,Female,All,Aberdeenshire
+1998,79.95,Female,All,Aberdeenshire
+2005,81.15,Female,All,Aberdeenshire
+2011,78.8,Male,All,Aberdeenshire
+1992,73.84,Male,All,Aberdeenshire
+2011,81.95,Female,All,Aberdeenshire
+2013,81.88,Female,All,Argyll and Bute
+2012,78.13,Male,All,Argyll and Bute
+1996,78.48,Female,All,Argyll and Bute
+2011,77.2,Male,All,Argyll and Bute
+2015,82.45,Female,All,Argyll and Bute
+2006,76,Male,All,Argyll and Bute
+1999,78.64,Female,All,Argyll and Bute
+2001,74.43,Male,All,Argyll and Bute
+1998,78.83,Female,All,Argyll and Bute
+1994,77.91,Female,All,Argyll and Bute
+2009,76.71,Male,All,Argyll and Bute
+1997,72.92,Male,All,Argyll and Bute
+2014,78.21,Male,All,Argyll and Bute
+2004,74.96,Male,All,Argyll and Bute
+2000,73.53,Male,All,Argyll and Bute
+1999,73.09,Male,All,Argyll and Bute
+2010,77.24,Male,All,Argyll and Bute
+2011,81.14,Female,All,Argyll and Bute
+1994,71.58,Male,All,Argyll and Bute
+2010,81.21,Female,All,Argyll and Bute
+2006,79.96,Female,All,Argyll and Bute
+2012,81.45,Female,All,Argyll and Bute
+2002,79.66,Female,All,Argyll and Bute
+2017,81.84,Female,All,Argyll and Bute
+2000,79.17,Female,All,Argyll and Bute
+1996,72.86,Male,All,Argyll and Bute
+2013,78.22,Male,All,Argyll and Bute
+1998,72.75,Male,All,Argyll and Bute
+1995,78.34,Female,All,Argyll and Bute
+1993,77.89,Female,All,Argyll and Bute
+2003,80.03,Female,All,Argyll and Bute
+1992,77.62,Female,All,Argyll and Bute
+2003,74.69,Male,All,Argyll and Bute
+2016,82.24,Female,All,Argyll and Bute
+2008,76.27,Male,All,Argyll and Bute
+2005,75.59,Male,All,Argyll and Bute
+2007,79.77,Female,All,Argyll and Bute
+2016,77.36,Male,All,Argyll and Bute
+2015,77.37,Male,All,Argyll and Bute
+1992,71.93,Male,All,Argyll and Bute
+2014,82.23,Female,All,Argyll and Bute
+1997,78.28,Female,All,Argyll and Bute
+2008,80.29,Female,All,Argyll and Bute
+2004,80.65,Female,All,Argyll and Bute
+2001,79.03,Female,All,Argyll and Bute
+2005,80.48,Female,All,Argyll and Bute
+1995,72.14,Male,All,Argyll and Bute
+2007,76.05,Male,All,Argyll and Bute
+2002,74.78,Male,All,Argyll and Bute
+2017,77.88,Male,All,Argyll and Bute
+2009,80.76,Female,All,Argyll and Bute
+1993,71.43,Male,All,Argyll and Bute
+2001,79.64,Female,All,City of Edinburgh
+1994,72.44,Male,All,City of Edinburgh
+2006,80.76,Female,All,City of Edinburgh
+1997,73.19,Male,All,City of Edinburgh
+2011,77.28,Male,All,City of Edinburgh
+1992,77.87,Female,All,City of Edinburgh
+2009,76.79,Male,All,City of Edinburgh
+1999,73.88,Male,All,City of Edinburgh
+2008,76.49,Male,All,City of Edinburgh
+2012,77.48,Male,All,City of Edinburgh
+2005,80.74,Female,All,City of Edinburgh
+1992,71.7,Male,All,City of Edinburgh
+2013,77.81,Male,All,City of Edinburgh
+1995,72.6,Male,All,City of Edinburgh
+2005,75.61,Male,All,City of Edinburgh
+2017,78.08,Male,All,City of Edinburgh
+1998,73.6,Male,All,City of Edinburgh
+2010,77.22,Male,All,City of Edinburgh
+2001,74.36,Male,All,City of Edinburgh
+2004,80.5,Female,All,City of Edinburgh
+2016,82.33,Female,All,City of Edinburgh
+2003,80.35,Female,All,City of Edinburgh
+2014,82.19,Female,All,City of Edinburgh
+2017,82.29,Female,All,City of Edinburgh
+1993,78.01,Female,All,City of Edinburgh
+2011,81.76,Female,All,City of Edinburgh
+1999,78.95,Female,All,City of Edinburgh
+2009,81.36,Female,All,City of Edinburgh
+2000,73.89,Male,All,City of Edinburgh
+1996,78.69,Female,All,City of Edinburgh
+1995,78.43,Female,All,City of Edinburgh
+2016,77.97,Male,All,City of Edinburgh
+2010,81.53,Female,All,City of Edinburgh
+2008,81.06,Female,All,City of Edinburgh
+2006,75.91,Male,All,City of Edinburgh
+1996,72.78,Male,All,City of Edinburgh
+2014,77.96,Male,All,City of Edinburgh
+2000,79.26,Female,All,City of Edinburgh
+2004,75.34,Male,All,City of Edinburgh
+2015,77.99,Male,All,City of Edinburgh
+1993,72.05,Male,All,City of Edinburgh
+2015,82.24,Female,All,City of Edinburgh
+1998,78.89,Female,All,City of Edinburgh
+2007,81.02,Female,All,City of Edinburgh
+2003,75.24,Male,All,City of Edinburgh
+2007,76.14,Male,All,City of Edinburgh
+1997,78.67,Female,All,City of Edinburgh
+2002,74.8,Male,All,City of Edinburgh
+2012,81.87,Female,All,City of Edinburgh
+2013,82.1,Female,All,City of Edinburgh
+2002,80.09,Female,All,City of Edinburgh
+1994,78.35,Female,All,City of Edinburgh
+1999,77.56,Female,All,Renfrewshire
+2006,78.89,Female,All,Renfrewshire
+2002,71.92,Male,All,Renfrewshire
+2012,80.58,Female,All,Renfrewshire
+2001,78.12,Female,All,Renfrewshire
+2003,71.86,Male,All,Renfrewshire
+1996,77.36,Female,All,Renfrewshire
+2011,75.23,Male,All,Renfrewshire
+2008,73.77,Male,All,Renfrewshire
+2006,73.71,Male,All,Renfrewshire
+1997,77.21,Female,All,Renfrewshire
+2013,75.85,Male,All,Renfrewshire
+1998,77.45,Female,All,Renfrewshire
+2005,78.53,Female,All,Renfrewshire
+2010,80.28,Female,All,Renfrewshire
+2014,80.6,Female,All,Renfrewshire
+2002,78.07,Female,All,Renfrewshire
+2013,80.62,Female,All,Renfrewshire
+1995,71.49,Male,All,Renfrewshire
+2003,78.24,Female,All,Renfrewshire
+2011,80.37,Female,All,Renfrewshire
+2001,71.93,Male,All,Renfrewshire
+2017,80.41,Female,All,Renfrewshire
+1999,71.07,Male,All,Renfrewshire
+1993,70.68,Male,All,Renfrewshire
+2009,79.66,Female,All,Renfrewshire
+2008,79.32,Female,All,Renfrewshire
+1994,71.37,Male,All,Renfrewshire
+1992,70.54,Male,All,Renfrewshire
+1995,77.19,Female,All,Renfrewshire
+2000,77.67,Female,All,Renfrewshire
+2015,76.4,Male,All,Renfrewshire
+1994,77.11,Female,All,Renfrewshire
+2007,73.71,Male,All,Renfrewshire
+1998,70.97,Male,All,Renfrewshire
+2007,78.85,Female,All,Renfrewshire
+1996,71.56,Male,All,Renfrewshire
+1993,76.9,Female,All,Renfrewshire
+2009,73.95,Male,All,Renfrewshire
+1997,71.29,Male,All,Renfrewshire
+2016,76.17,Male,All,Renfrewshire
+2017,75.82,Male,All,Renfrewshire
+2010,74.73,Male,All,Renfrewshire
+2004,72.65,Male,All,Renfrewshire
+2015,80.17,Female,All,Renfrewshire
+2000,71.68,Male,All,Renfrewshire
+1992,76.91,Female,All,Renfrewshire
+2004,78.26,Female,All,Renfrewshire
+2005,73.43,Male,All,Renfrewshire
+2016,80.22,Female,All,Renfrewshire
+2014,76.3,Male,All,Renfrewshire
+2012,75.7,Male,All,Renfrewshire
+2001,79.88,Female,All,Angus
+1996,78.73,Female,All,Angus
+2011,80.94,Female,All,Angus
+2016,81.63,Female,All,Angus
+2005,76.25,Male,All,Angus
+2005,79.93,Female,All,Angus
+2014,81.94,Female,All,Angus
+2002,80.03,Female,All,Angus
+2013,78.58,Male,All,Angus
+1999,78.69,Female,All,Angus
+2000,78.99,Female,All,Angus
+2010,78.05,Male,All,Angus
+2011,78.15,Male,All,Angus
+2003,79.57,Female,All,Angus
+1997,79.09,Female,All,Angus
+1995,78.47,Female,All,Angus
+2015,78.51,Male,All,Angus
+1994,78.1,Female,All,Angus
+2006,80.69,Female,All,Angus
+2010,80.75,Female,All,Angus
+2003,75.8,Male,All,Angus
+2001,74.71,Male,All,Angus
+2004,75.82,Male,All,Angus
+2009,77.61,Male,All,Angus
+2004,79.59,Female,All,Angus
+2008,80.87,Female,All,Angus
+1994,73.52,Male,All,Angus
+2012,78.43,Male,All,Angus
+1992,73.39,Male,All,Angus
+2008,76.98,Male,All,Angus
+1993,73.29,Male,All,Angus
+1993,77.77,Female,All,Angus
+1998,74.98,Male,All,Angus
+2014,78.57,Male,All,Angus
+2013,81.74,Female,All,Angus
+2017,78.35,Male,All,Angus
+2015,81.78,Female,All,Angus
+1997,74.58,Male,All,Angus
+2016,78.16,Male,All,Angus
+1998,78.66,Female,All,Angus
+2007,76.86,Male,All,Angus
+2007,80.86,Female,All,Angus
+2000,74.65,Male,All,Angus
+1995,73.46,Male,All,Angus
+1999,74.72,Male,All,Angus
+1992,77.71,Female,All,Angus
+1996,74.1,Male,All,Angus
+2002,75.31,Male,All,Angus
+2012,81.43,Female,All,Angus
+2006,76.07,Male,All,Angus
+2017,81.76,Female,All,Angus
+2009,80.49,Female,All,Angus
+1992,71.07,Male,All,Dundee City
+1998,77.69,Female,All,Dundee City
+2009,73.6,Male,All,Dundee City
+2005,79.02,Female,All,Dundee City
+2015,79.63,Female,All,Dundee City
+2016,73.94,Male,All,Dundee City
+2012,75.06,Male,All,Dundee City
+2001,72,Male,All,Dundee City
+2011,79.11,Female,All,Dundee City
+1997,77.16,Female,All,Dundee City
+1999,77.85,Female,All,Dundee City
+2002,77.73,Female,All,Dundee City
+2012,79.57,Female,All,Dundee City
+2011,74.27,Male,All,Dundee City
+1995,77.66,Female,All,Dundee City
+2001,77.88,Female,All,Dundee City
+2004,72.92,Male,All,Dundee City
+1999,71.79,Male,All,Dundee City
+2010,78.9,Female,All,Dundee City
+1995,71.29,Male,All,Dundee City
+1993,70.9,Male,All,Dundee City
+2010,73.92,Male,All,Dundee City
+2007,73.52,Male,All,Dundee City
+2000,71.69,Male,All,Dundee City
+1993,77.06,Female,All,Dundee City
+1994,77.45,Female,All,Dundee City
+2003,72.41,Male,All,Dundee City
+1996,71.49,Male,All,Dundee City
+2017,79.23,Female,All,Dundee City
+2002,71.94,Male,All,Dundee City
+2014,80.06,Female,All,Dundee City
+2000,77.92,Female,All,Dundee City
+1996,77.37,Female,All,Dundee City
+2007,79.4,Female,All,Dundee City
+2015,74.5,Male,All,Dundee City
+2017,73.95,Male,All,Dundee City
+2009,78.82,Female,All,Dundee City
+1998,71.65,Male,All,Dundee City
+2004,78.29,Female,All,Dundee City
+1994,71.05,Male,All,Dundee City
+2008,79.04,Female,All,Dundee City
+1997,71.68,Male,All,Dundee City
+2006,73.57,Male,All,Dundee City
+2003,78.36,Female,All,Dundee City
+2005,73.48,Male,All,Dundee City
+2013,80.05,Female,All,Dundee City
+2013,75.26,Male,All,Dundee City
+2014,75.12,Male,All,Dundee City
+2008,73.5,Male,All,Dundee City
+1992,76.72,Female,All,Dundee City
+2006,79.14,Female,All,Dundee City
+2016,79.36,Female,All,Dundee City
+2007,77.94,Male,All,East Dunbartonshire
+2015,80.08,Male,All,East Dunbartonshire
+1994,74.88,Male,All,East Dunbartonshire
+1994,78.75,Female,All,East Dunbartonshire
+2006,77.93,Male,All,East Dunbartonshire
+1993,74.25,Male,All,East Dunbartonshire
+1999,80.01,Female,All,East Dunbartonshire
+2010,82.8,Female,All,East Dunbartonshire
+2017,83.38,Female,All,East Dunbartonshire
+2008,82.62,Female,All,East Dunbartonshire
+1995,78.9,Female,All,East Dunbartonshire
+2002,77.11,Male,All,East Dunbartonshire
+2015,83.48,Female,All,East Dunbartonshire
+2001,80.48,Female,All,East Dunbartonshire
+1998,79.44,Female,All,East Dunbartonshire
+1996,79.04,Female,All,East Dunbartonshire
+2014,83.53,Female,All,East Dunbartonshire
+2007,82.24,Female,All,East Dunbartonshire
+1997,74.78,Male,All,East Dunbartonshire
+2003,80.37,Female,All,East Dunbartonshire
+2014,80.48,Male,All,East Dunbartonshire
+2005,81.51,Female,All,East Dunbartonshire
+2006,82.21,Female,All,East Dunbartonshire
+2009,79.27,Male,All,East Dunbartonshire
+2002,80.43,Female,All,East Dunbartonshire
+2016,83.33,Female,All,East Dunbartonshire
+2003,76.94,Male,All,East Dunbartonshire
+2004,77.58,Male,All,East Dunbartonshire
+1992,74.01,Male,All,East Dunbartonshire
+2013,83.53,Female,All,East Dunbartonshire
+2005,77.86,Male,All,East Dunbartonshire
+2011,79.79,Male,All,East Dunbartonshire
+1998,75.73,Male,All,East Dunbartonshire
+1993,78.67,Female,All,East Dunbartonshire
+2012,83.45,Female,All,East Dunbartonshire
+2008,78.25,Male,All,East Dunbartonshire
+1995,74.75,Male,All,East Dunbartonshire
+2016,80.08,Male,All,East Dunbartonshire
+2010,79.55,Male,All,East Dunbartonshire
+1996,75,Male,All,East Dunbartonshire
+2013,80.52,Male,All,East Dunbartonshire
+2004,81.03,Female,All,East Dunbartonshire
+2011,83.1,Female,All,East Dunbartonshire
+2017,80.37,Male,All,East Dunbartonshire
+2012,80.27,Male,All,East Dunbartonshire
+2009,82.23,Female,All,East Dunbartonshire
+2001,76.48,Male,All,East Dunbartonshire
+1992,78.8,Female,All,East Dunbartonshire
+2000,80.24,Female,All,East Dunbartonshire
+1997,79.4,Female,All,East Dunbartonshire
+1999,75.81,Male,All,East Dunbartonshire
+2000,76.45,Male,All,East Dunbartonshire
+2016,80.81,Female,All,Fife
+2004,75.36,Male,All,Fife
+1999,74,Male,All,Fife
+2007,75.81,Male,All,Fife
+2006,80.09,Female,All,Fife
+2001,74.32,Male,All,Fife
+1995,73.12,Male,All,Fife
+2017,81,Female,All,Fife
+1995,78.53,Female,All,Fife
+2013,77.58,Male,All,Fife
+2016,77.19,Male,All,Fife
+2012,81.14,Female,All,Fife
+1993,77.88,Female,All,Fife
+2008,80,Female,All,Fife
+1994,78.21,Female,All,Fife
+1992,77.37,Female,All,Fife
+1997,78.86,Female,All,Fife
+2013,81.37,Female,All,Fife
+2007,80.06,Female,All,Fife
+1997,73.32,Male,All,Fife
+2001,79.46,Female,All,Fife
+2009,76.28,Male,All,Fife
+2014,77.66,Male,All,Fife
+2002,79.38,Female,All,Fife
+2014,81.46,Female,All,Fife
+1999,79.25,Female,All,Fife
+1998,79.09,Female,All,Fife
+2000,74.45,Male,All,Fife
+2005,75.44,Male,All,Fife
+2017,77.23,Male,All,Fife
+2003,74.68,Male,All,Fife
+2003,79.48,Female,All,Fife
+2004,79.62,Female,All,Fife
+2000,79.5,Female,All,Fife
+2002,74.55,Male,All,Fife
+2008,76.06,Male,All,Fife
+2015,77.61,Male,All,Fife
+1993,72.7,Male,All,Fife
+2006,75.76,Male,All,Fife
+1992,72.51,Male,All,Fife
+1996,78.79,Female,All,Fife
+2010,76.64,Male,All,Fife
+2010,80.87,Female,All,Fife
+2005,79.92,Female,All,Fife
+2012,77.13,Male,All,Fife
+2011,81.05,Female,All,Fife
+1994,72.96,Male,All,Fife
+1996,73.31,Male,All,Fife
+2015,81.21,Female,All,Fife
+1998,73.72,Male,All,Fife
+2009,80.28,Female,All,Fife
+2011,76.95,Male,All,Fife
+2006,76.71,Male,All,Perth and Kinross
+1992,77.92,Female,All,Perth and Kinross
+2005,76.4,Male,All,Perth and Kinross
+1998,79.45,Female,All,Perth and Kinross
+2003,80.24,Female,All,Perth and Kinross
+2004,76.35,Male,All,Perth and Kinross
+2002,80.05,Female,All,Perth and Kinross
+2017,82.81,Female,All,Perth and Kinross
+1997,79.15,Female,All,Perth and Kinross
+2014,82.64,Female,All,Perth and Kinross
+2009,82.1,Female,All,Perth and Kinross
+2007,77.35,Male,All,Perth and Kinross
+1994,77.95,Female,All,Perth and Kinross
+2016,82.46,Female,All,Perth and Kinross
+2015,82.59,Female,All,Perth and Kinross
+2011,82.66,Female,All,Perth and Kinross
+2010,79.15,Male,All,Perth and Kinross
+2001,80.66,Female,All,Perth and Kinross
+1999,80.15,Female,All,Perth and Kinross
+2011,79.4,Male,All,Perth and Kinross
+1996,78.97,Female,All,Perth and Kinross
+2000,75.41,Male,All,Perth and Kinross
+1996,73.84,Male,All,Perth and Kinross
+2002,75.97,Male,All,Perth and Kinross
+2016,79.33,Male,All,Perth and Kinross
+2009,78.83,Male,All,Perth and Kinross
+1997,74.45,Male,All,Perth and Kinross
+2012,82.62,Female,All,Perth and Kinross
+1993,73.21,Male,All,Perth and Kinross
+1999,75.25,Male,All,Perth and Kinross
+2013,79.39,Male,All,Perth and Kinross
+2007,81.33,Female,All,Perth and Kinross
+2012,79.18,Male,All,Perth and Kinross
+1993,77.7,Female,All,Perth and Kinross
+2014,79.76,Male,All,Perth and Kinross
+1998,74.78,Male,All,Perth and Kinross
+2008,81.59,Female,All,Perth and Kinross
+1995,78.53,Female,All,Perth and Kinross
+2008,77.98,Male,All,Perth and Kinross
+2005,81.13,Female,All,Perth and Kinross
+2010,82.47,Female,All,Perth and Kinross
+1992,72.74,Male,All,Perth and Kinross
+1994,73.16,Male,All,Perth and Kinross
+2001,75.9,Male,All,Perth and Kinross
+1995,73.59,Male,All,Perth and Kinross
+2003,76.2,Male,All,Perth and Kinross
+2000,80.67,Female,All,Perth and Kinross
+2015,79.9,Male,All,Perth and Kinross
+2004,80.61,Female,All,Perth and Kinross
+2006,81.1,Female,All,Perth and Kinross
+2017,79.13,Male,All,Perth and Kinross
+2013,82.82,Female,All,Perth and Kinross
+2013,78.7,Female,All,Glasgow City
+2002,76.41,Female,All,Glasgow City
+2012,78.49,Female,All,Glasgow City
+2016,73.35,Male,All,Glasgow City
+2006,76.98,Female,All,Glasgow City
+2001,68.94,Male,All,Glasgow City
+2007,77.13,Female,All,Glasgow City
+1996,75.32,Female,All,Glasgow City
+2010,78.25,Female,All,Glasgow City
+2003,69.26,Male,All,Glasgow City
+2014,73.36,Male,All,Glasgow City
+1998,68.53,Male,All,Glasgow City
+2016,78.73,Female,All,Glasgow City
+1997,75.37,Female,All,Glasgow City
+2000,68.65,Male,All,Glasgow City
+2004,69.89,Male,All,Glasgow City
+1994,75.2,Female,All,Glasgow City
+2011,78.47,Female,All,Glasgow City
+1993,68.24,Male,All,Glasgow City
+2008,77.37,Female,All,Glasgow City
+2017,73.36,Male,All,Glasgow City
+2005,70.38,Male,All,Glasgow City
+1996,68.21,Male,All,Glasgow City
+1997,68.45,Male,All,Glasgow City
+2014,78.85,Female,All,Glasgow City
+1992,74.97,Female,All,Glasgow City
+2009,77.87,Female,All,Glasgow City
+2003,76.4,Female,All,Glasgow City
+1999,68.43,Male,All,Glasgow City
+2005,76.87,Female,All,Glasgow City
+1995,75.36,Female,All,Glasgow City
+1995,67.96,Male,All,Glasgow City
+2000,76.14,Female,All,Glasgow City
+2015,78.93,Female,All,Glasgow City
+1998,75.48,Female,All,Glasgow City
+1993,74.99,Female,All,Glasgow City
+2004,76.65,Female,All,Glasgow City
+1994,67.88,Male,All,Glasgow City
+2012,72.98,Male,All,Glasgow City
+2013,73.35,Male,All,Glasgow City
+2009,71.71,Male,All,Glasgow City
+2010,72.15,Male,All,Glasgow City
+1992,68.22,Male,All,Glasgow City
+2017,78.66,Female,All,Glasgow City
+1999,75.72,Female,All,Glasgow City
+2008,71.13,Male,All,Glasgow City
+2006,70.7,Male,All,Glasgow City
+2001,76.33,Female,All,Glasgow City
+2007,70.7,Male,All,Glasgow City
+2015,73.37,Male,All,Glasgow City
+2002,69.05,Male,All,Glasgow City
+2011,72.58,Male,All,Glasgow City
+2009,74.43,Male,All,North Lanarkshire
+2008,73.88,Male,All,North Lanarkshire
+2001,77.56,Female,All,North Lanarkshire
+2004,72.77,Male,All,North Lanarkshire
+2003,72.41,Male,All,North Lanarkshire
+2010,74.7,Male,All,North Lanarkshire
+2004,77.61,Female,All,North Lanarkshire
+2016,75.29,Male,All,North Lanarkshire
+2015,75.37,Male,All,North Lanarkshire
+2013,79.62,Female,All,North Lanarkshire
+2016,79.42,Female,All,North Lanarkshire
+1993,76.22,Female,All,North Lanarkshire
+2000,71.82,Male,All,North Lanarkshire
+2014,75.34,Male,All,North Lanarkshire
+1994,70.84,Male,All,North Lanarkshire
+1999,77.3,Female,All,North Lanarkshire
+2008,78.49,Female,All,North Lanarkshire
+2012,75.05,Male,All,North Lanarkshire
+2006,78.36,Female,All,North Lanarkshire
+2000,77.48,Female,All,North Lanarkshire
+1997,76.59,Female,All,North Lanarkshire
+1995,76.23,Female,All,North Lanarkshire
+2010,78.97,Female,All,North Lanarkshire
+2015,79.6,Female,All,North Lanarkshire
+1993,70.62,Male,All,North Lanarkshire
+1996,76.19,Female,All,North Lanarkshire
+1997,71.23,Male,All,North Lanarkshire
+1996,71.09,Male,All,North Lanarkshire
+1998,71.42,Male,All,North Lanarkshire
+1999,71.78,Male,All,North Lanarkshire
+1992,75.82,Female,All,North Lanarkshire
+2003,77.41,Female,All,North Lanarkshire
+2013,75.37,Male,All,North Lanarkshire
+1998,76.99,Female,All,North Lanarkshire
+2006,72.82,Male,All,North Lanarkshire
+2011,79.06,Female,All,North Lanarkshire
+2005,73.04,Male,All,North Lanarkshire
+2007,78.41,Female,All,North Lanarkshire
+1994,76.07,Female,All,North Lanarkshire
+2001,71.95,Male,All,North Lanarkshire
+2005,78.17,Female,All,North Lanarkshire
+2002,77.34,Female,All,North Lanarkshire
+2007,73.21,Male,All,North Lanarkshire
+2011,74.88,Male,All,North Lanarkshire
+2014,79.58,Female,All,North Lanarkshire
+2017,75.23,Male,All,North Lanarkshire
+2017,79.61,Female,All,North Lanarkshire
+1995,71.15,Male,All,North Lanarkshire
+1992,70.24,Male,All,North Lanarkshire
+2002,71.94,Male,All,North Lanarkshire
+2012,79.35,Female,All,North Lanarkshire
+2009,78.68,Female,All,North Lanarkshire
+1992,75.31,Both,All,Aberdeen City
+1992,76.14,Both,All,Aberdeenshire
+1992,75.55,Both,All,Angus
+1992,74.78,Both,All,Argyll and Bute
+1992,74.78,Both,All,City of Edinburgh
+1992,74.52,Both,All,Clackmannanshire
+1992,74.81,Both,All,Dumfries and Galloway
+1992,73.89,Both,All,Dundee City
+1992,74.09,Both,All,East Ayrshire
+1992,76.41,Both,All,East Dunbartonshire
+1992,76,Both,All,East Lothian
+1992,76.92,Both,All,East Renfrewshire
+1992,74.47,Both,All,Falkirk
+1992,74.94,Both,All,Fife
+1992,71.59,Both,All,Glasgow City
+1992,74.92,Both,All,Highland
+1992,72.51,Both,All,Inverclyde
+1992,74.99,Both,All,Midlothian
+1992,75.75,Both,All,Moray
+1992,74.69,Both,All,Na h-Eileanan Siar
+1992,73.77,Both,All,North Ayrshire
+1992,73.03,Both,All,North Lanarkshire
+1992,75.62,Both,All,Orkney Islands
+1992,75.33,Both,All,Perth and Kinross
+1992,73.72,Both,All,Renfrewshire
+1992,74.28,Both,All,Scotland Wide
+1992,76,Both,All,Scottish Borders
+1992,75.22,Both,All,Shetland Islands
+1992,74.74,Both,All,South Ayrshire
+1992,74.18,Both,All,South Lanarkshire
+1992,74.68,Both,All,Stirling
+1992,73.25,Both,All,West Dunbartonshire
+1992,74.12,Both,All,West Lothian
+1993,75.56,Both,All,Aberdeen City
+1993,76.25,Both,All,Aberdeenshire
+1993,75.53,Both,All,Angus
+1993,74.66,Both,All,Argyll and Bute
+1993,75.03,Both,All,City of Edinburgh
+1993,74.71,Both,All,Clackmannanshire
+1993,75.19,Both,All,Dumfries and Galloway
+1993,73.98,Both,All,Dundee City
+1993,74.13,Both,All,East Ayrshire
+1993,76.46,Both,All,East Dunbartonshire
+1993,76.08,Both,All,East Lothian
+1993,77.23,Both,All,East Renfrewshire
+1993,74.38,Both,All,Falkirk
+1993,75.29,Both,All,Fife
+1993,71.61,Both,All,Glasgow City
+1993,75.36,Both,All,Highland
+1993,72.56,Both,All,Inverclyde
+1993,75.49,Both,All,Midlothian
+1993,75.5,Both,All,Moray
+1993,74.87,Both,All,Na h-Eileanan Siar
+1993,74.22,Both,All,North Ayrshire
+1993,73.42,Both,All,North Lanarkshire
+1993,75.59,Both,All,Orkney Islands
+1993,75.45,Both,All,Perth and Kinross
+1993,73.79,Both,All,Renfrewshire
+1993,74.49,Both,All,Scotland Wide
+1993,76.47,Both,All,Scottish Borders
+1993,74.44,Both,All,Shetland Islands
+1993,75.37,Both,All,South Ayrshire
+1993,74.27,Both,All,South Lanarkshire
+1993,75.1,Both,All,Stirling
+1993,73.65,Both,All,West Dunbartonshire
+1993,74.58,Both,All,West Lothian
+1994,75.56,Both,All,Aberdeen City
+1994,76.63,Both,All,Aberdeenshire
+1994,75.81,Both,All,Angus
+1994,74.75,Both,All,Argyll and Bute
+1994,75.39,Both,All,City of Edinburgh
+1994,75.11,Both,All,Clackmannanshire
+1994,75.69,Both,All,Dumfries and Galloway
+1994,74.25,Both,All,Dundee City
+1994,74.31,Both,All,East Ayrshire
+1994,76.81,Both,All,East Dunbartonshire
+1994,76,Both,All,East Lothian
+1994,77.13,Both,All,East Renfrewshire
+1994,74.72,Both,All,Falkirk
+1994,75.58,Both,All,Fife
+1994,71.54,Both,All,Glasgow City
+1994,75.31,Both,All,Highland
+1994,72.4,Both,All,Inverclyde
+1994,75.2,Both,All,Midlothian
+1994,75.44,Both,All,Moray
+1994,74.75,Both,All,Na h-Eileanan Siar
+1994,74.25,Both,All,North Ayrshire
+1994,73.45,Both,All,North Lanarkshire
+1994,76.31,Both,All,Orkney Islands
+1994,75.56,Both,All,Perth and Kinross
+1994,74.24,Both,All,Renfrewshire
+1994,74.64,Both,All,Scotland Wide
+1994,76.66,Both,All,Scottish Borders
+1994,74.76,Both,All,Shetland Islands
+1994,75.48,Both,All,South Ayrshire
+1994,74.31,Both,All,South Lanarkshire
+1994,75.7,Both,All,Stirling
+1994,73.66,Both,All,West Dunbartonshire
+1994,74.69,Both,All,West Lothian
+1995,75.75,Both,All,Aberdeen City
+1995,77.32,Both,All,Aberdeenshire
+1995,75.97,Both,All,Angus
+1995,75.24,Both,All,Argyll and Bute
+1995,75.52,Both,All,City of Edinburgh
+1995,75.17,Both,All,Clackmannanshire
+1995,76.16,Both,All,Dumfries and Galloway
+1995,74.47,Both,All,Dundee City
+1995,74.75,Both,All,East Ayrshire
+1995,76.83,Both,All,East Dunbartonshire
+1995,76.16,Both,All,East Lothian
+1995,77.45,Both,All,East Renfrewshire
+1995,75,Both,All,Falkirk
+1995,75.83,Both,All,Fife
+1995,71.66,Both,All,Glasgow City
+1995,75.59,Both,All,Highland
+1995,72.56,Both,All,Inverclyde
+1995,75.41,Both,All,Midlothian
+1995,75.83,Both,All,Moray
+1995,74.79,Both,All,Na h-Eileanan Siar
+1995,74.8,Both,All,North Ayrshire
+1995,73.69,Both,All,North Lanarkshire
+1995,76.57,Both,All,Orkney Islands
+1995,76.06,Both,All,Perth and Kinross
+1995,74.34,Both,All,Renfrewshire
+1995,74.89,Both,All,Scotland Wide
+1995,76.94,Both,All,Scottish Borders
+1995,75.39,Both,All,Shetland Islands
+1995,75.96,Both,All,South Ayrshire
+1995,74.72,Both,All,South Lanarkshire
+1995,75.65,Both,All,Stirling
+1995,73.36,Both,All,West Dunbartonshire
+1995,74.94,Both,All,West Lothian
+1996,75.85,Both,All,Aberdeen City
+1996,77.62,Both,All,Aberdeenshire
+1996,76.41,Both,All,Angus
+1996,75.67,Both,All,Argyll and Bute
+1996,75.73,Both,All,City of Edinburgh
+1996,75.19,Both,All,Clackmannanshire
+1996,76.44,Both,All,Dumfries and Galloway
+1996,74.43,Both,All,Dundee City
+1996,74.87,Both,All,East Ayrshire
+1996,77.02,Both,All,East Dunbartonshire
+1996,76.33,Both,All,East Lothian
+1996,77.65,Both,All,East Renfrewshire
+1996,75.45,Both,All,Falkirk
+1996,76.05,Both,All,Fife
+1996,71.76,Both,All,Glasgow City
+1996,75.62,Both,All,Highland
+1996,72.91,Both,All,Inverclyde
+1996,75.3,Both,All,Midlothian
+1996,76.55,Both,All,Moray
+1996,74.5,Both,All,Na h-Eileanan Siar
+1996,74.75,Both,All,North Ayrshire
+1996,73.64,Both,All,North Lanarkshire
+1996,76.35,Both,All,Orkney Islands
+1996,76.41,Both,All,Perth and Kinross
+1996,74.46,Both,All,Renfrewshire
+1996,75.04,Both,All,Scotland Wide
+1996,77,Both,All,Scottish Borders
+1996,76.09,Both,All,Shetland Islands
+1996,75.8,Both,All,South Ayrshire
+1996,74.86,Both,All,South Lanarkshire
+1996,76.05,Both,All,Stirling
+1996,72.8,Both,All,West Dunbartonshire
+1996,74.68,Both,All,West Lothian
+1997,76.24,Both,All,Aberdeen City
+1997,77.64,Both,All,Aberdeenshire
+1997,76.84,Both,All,Angus
+1997,75.6,Both,All,Argyll and Bute
+1997,75.93,Both,All,City of Edinburgh
+1997,75.4,Both,All,Clackmannanshire
+1997,76.53,Both,All,Dumfries and Galloway
+1997,74.42,Both,All,Dundee City
+1997,75.16,Both,All,East Ayrshire
+1997,77.09,Both,All,East Dunbartonshire
+1997,76.46,Both,All,East Lothian
+1997,78.02,Both,All,East Renfrewshire
+1997,75.52,Both,All,Falkirk
+1997,76.09,Both,All,Fife
+1997,71.91,Both,All,Glasgow City
+1997,75.93,Both,All,Highland
+1997,73.19,Both,All,Inverclyde
+1997,75.55,Both,All,Midlothian
+1997,77.08,Both,All,Moray
+1997,74.63,Both,All,Na h-Eileanan Siar
+1997,75.04,Both,All,North Ayrshire
+1997,73.91,Both,All,North Lanarkshire
+1997,76.13,Both,All,Orkney Islands
+1997,76.8,Both,All,Perth and Kinross
+1997,74.25,Both,All,Renfrewshire
+1997,75.22,Both,All,Scotland Wide
+1997,77.16,Both,All,Scottish Borders
+1997,75.86,Both,All,Shetland Islands
+1997,76,Both,All,South Ayrshire
+1997,75.12,Both,All,South Lanarkshire
+1997,76.08,Both,All,Stirling
+1997,73.03,Both,All,West Dunbartonshire
+1997,74.45,Both,All,West Lothian
+1998,76.45,Both,All,Aberdeen City
+1998,77.49,Both,All,Aberdeenshire
+1998,76.82,Both,All,Angus
+1998,75.79,Both,All,Argyll and Bute
+1998,76.25,Both,All,City of Edinburgh
+1998,75.85,Both,All,Clackmannanshire
+1998,76.68,Both,All,Dumfries and Galloway
+1998,74.67,Both,All,Dundee City
+1998,74.7,Both,All,East Ayrshire
+1998,77.59,Both,All,East Dunbartonshire
+1998,76.84,Both,All,East Lothian
+1998,78.45,Both,All,East Renfrewshire
+1998,75.65,Both,All,Falkirk
+1998,76.41,Both,All,Fife
+1998,72,Both,All,Glasgow City
+1998,76.03,Both,All,Highland
+1998,73.66,Both,All,Inverclyde
+1998,76.03,Both,All,Midlothian
+1998,76.97,Both,All,Moray
+1998,75.2,Both,All,Na h-Eileanan Siar
+1998,75.14,Both,All,North Ayrshire
+1998,74.2,Both,All,North Lanarkshire
+1998,76.45,Both,All,Orkney Islands
+1998,77.12,Both,All,Perth and Kinross
+1998,74.21,Both,All,Renfrewshire
+1998,75.4,Both,All,Scotland Wide
+1998,77.22,Both,All,Scottish Borders
+1998,76.41,Both,All,Shetland Islands
+1998,76.2,Both,All,South Ayrshire
+1998,75.1,Both,All,South Lanarkshire
+1998,76.79,Both,All,Stirling
+1998,73.22,Both,All,West Dunbartonshire
+1998,74.45,Both,All,West Lothian
+1999,76.46,Both,All,Aberdeen City
+1999,77.67,Both,All,Aberdeenshire
+1999,76.7,Both,All,Angus
+1999,75.87,Both,All,Argyll and Bute
+1999,76.41,Both,All,City of Edinburgh
+1999,75.81,Both,All,Clackmannanshire
+1999,77,Both,All,Dumfries and Galloway
+1999,74.82,Both,All,Dundee City
+1999,74.91,Both,All,East Ayrshire
+1999,77.91,Both,All,East Dunbartonshire
+1999,77.02,Both,All,East Lothian
+1999,78.29,Both,All,East Renfrewshire
+1999,75.78,Both,All,Falkirk
+1999,76.62,Both,All,Fife
+1999,72.08,Both,All,Glasgow City
+1999,76.08,Both,All,Highland
+1999,73.64,Both,All,Inverclyde
+1999,76.25,Both,All,Midlothian
+1999,76.86,Both,All,Moray
+1999,76.04,Both,All,Na h-Eileanan Siar
+1999,75.3,Both,All,North Ayrshire
+1999,74.54,Both,All,North Lanarkshire
+1999,77.74,Both,All,Orkney Islands
+1999,77.7,Both,All,Perth and Kinross
+1999,74.31,Both,All,Renfrewshire
+1999,75.59,Both,All,Scotland Wide
+1999,77.48,Both,All,Scottish Borders
+1999,77.48,Both,All,Shetland Islands
+1999,76.35,Both,All,South Ayrshire
+1999,75.35,Both,All,South Lanarkshire
+1999,77.07,Both,All,Stirling
+1999,73.74,Both,All,West Dunbartonshire
+1999,74.84,Both,All,West Lothian
+2000,76.5,Both,All,Aberdeen City
+2000,77.94,Both,All,Aberdeenshire
+2000,76.82,Both,All,Angus
+2000,76.35,Both,All,Argyll and Bute
+2000,76.58,Both,All,City of Edinburgh
+2000,75.75,Both,All,Clackmannanshire
+2000,77.22,Both,All,Dumfries and Galloway
+2000,74.81,Both,All,Dundee City
+2000,74.57,Both,All,East Ayrshire
+2000,78.34,Both,All,East Dunbartonshire
+2000,77.66,Both,All,East Lothian
+2000,78.57,Both,All,East Renfrewshire
+2000,75.93,Both,All,Falkirk
+2000,76.97,Both,All,Fife
+2000,72.4,Both,All,Glasgow City
+2000,76.28,Both,All,Highland
+2000,73.76,Both,All,Inverclyde
+2000,76.53,Both,All,Midlothian
+2000,76.81,Both,All,Moray
+2000,76.25,Both,All,Na h-Eileanan Siar
+2000,75.09,Both,All,North Ayrshire
+2000,74.65,Both,All,North Lanarkshire
+2000,78.08,Both,All,Orkney Islands
+2000,78.04,Both,All,Perth and Kinross
+2000,74.68,Both,All,Renfrewshire
+2000,75.82,Both,All,Scotland Wide
+2000,77.9,Both,All,Scottish Borders
+2000,78,Both,All,Shetland Islands
+2000,76.44,Both,All,South Ayrshire
+2000,75.72,Both,All,South Lanarkshire
+2000,77.2,Both,All,Stirling
+2000,73.97,Both,All,West Dunbartonshire
+2000,75.35,Both,All,West Lothian
+2001,76.72,Both,All,Aberdeen City
+2001,78.35,Both,All,Aberdeenshire
+2001,77.29,Both,All,Angus
+2001,76.73,Both,All,Argyll and Bute
+2001,77,Both,All,City of Edinburgh
+2001,75.74,Both,All,Clackmannanshire
+2001,77.48,Both,All,Dumfries and Galloway
+2001,74.94,Both,All,Dundee City
+2001,75.13,Both,All,East Ayrshire
+2001,78.48,Both,All,East Dunbartonshire
+2001,77.78,Both,All,East Lothian
+2001,78.49,Both,All,East Renfrewshire
+2001,76.09,Both,All,Falkirk
+2001,76.89,Both,All,Fife
+2001,72.63,Both,All,Glasgow City
+2001,76.51,Both,All,Highland
+2001,73.92,Both,All,Inverclyde
+2001,76.37,Both,All,Midlothian
+2001,76.99,Both,All,Moray
+2001,76.22,Both,All,Na h-Eileanan Siar
+2001,75.25,Both,All,North Ayrshire
+2001,74.75,Both,All,North Lanarkshire
+2001,78.49,Both,All,Orkney Islands
+2001,78.28,Both,All,Perth and Kinross
+2001,75.03,Both,All,Renfrewshire
+2001,76.06,Both,All,Scotland Wide
+2001,77.84,Both,All,Scottish Borders
+2001,78.15,Both,All,Shetland Islands
+2001,76.38,Both,All,South Ayrshire
+2001,76.11,Both,All,South Lanarkshire
+2001,77.39,Both,All,Stirling
+2001,74.16,Both,All,West Dunbartonshire
+2001,75.71,Both,All,West Lothian
+2002,71.64,Both,1 - most deprived,Scotland Wide
+2002,74.75,Both,2,Scotland Wide
+2002,76.78,Both,3,Scotland Wide
+2002,78.22,Both,4,Scotland Wide
+2002,80.34,Both,5 - least deprived,Scotland Wide
+2002,77.07,Both,All,Aberdeen City
+2002,78.46,Both,All,Aberdeenshire
+2002,77.67,Both,All,Angus
+2002,77.22,Both,All,Argyll and Bute
+2002,77.44,Both,All,City of Edinburgh
+2002,76.07,Both,All,Clackmannanshire
+2002,77.25,Both,All,Dumfries and Galloway
+2002,74.84,Both,All,Dundee City
+2002,75.25,Both,All,East Ayrshire
+2002,78.77,Both,All,East Dunbartonshire
+2002,77.89,Both,All,East Lothian
+2002,78.52,Both,All,East Renfrewshire
+2002,76.18,Both,All,Falkirk
+2002,76.97,Both,All,Fife
+2002,72.73,Both,All,Glasgow City
+2002,76.92,Both,All,Highland
+2002,73.97,Both,All,Inverclyde
+2002,76.66,Both,All,Midlothian
+2002,77.19,Both,All,Moray
+2002,75.76,Both,All,Na h-Eileanan Siar
+2002,75.57,Both,All,North Ayrshire
+2002,74.64,Both,All,North Lanarkshire
+2002,78.47,Both,All,Orkney Islands
+2002,78.01,Both,All,Perth and Kinross
+2002,75,Both,All,Renfrewshire
+2002,76.18,Both,All,Scotland Wide
+2002,77.62,Both,All,Scottish Borders
+2002,77.11,Both,All,Shetland Islands
+2002,76.62,Both,All,South Ayrshire
+2002,76.29,Both,All,South Lanarkshire
+2002,77.44,Both,All,Stirling
+2002,74.1,Both,All,West Dunbartonshire
+2002,75.59,Both,All,West Lothian
+2003,71.72,Both,1 - most deprived,Scotland Wide
+2003,75,Both,2,Scotland Wide
+2003,76.91,Both,3,Scotland Wide
+2003,78.62,Both,4,Scotland Wide
+2003,80.5,Both,5 - least deprived,Scotland Wide
+2003,77.2,Both,All,Aberdeen City
+2003,78.57,Both,All,Aberdeenshire
+2003,77.69,Both,All,Angus
+2003,77.36,Both,All,Argyll and Bute
+2003,77.79,Both,All,City of Edinburgh
+2003,76.19,Both,All,Clackmannanshire
+2003,77.5,Both,All,Dumfries and Galloway
+2003,75.38,Both,All,Dundee City
+2003,75.97,Both,All,East Ayrshire
+2003,78.66,Both,All,East Dunbartonshire
+2003,77.88,Both,All,East Lothian
+2003,78.53,Both,All,East Renfrewshire
+2003,76.41,Both,All,Falkirk
+2003,77.08,Both,All,Fife
+2003,72.83,Both,All,Glasgow City
+2003,77.19,Both,All,Highland
+2003,74.16,Both,All,Inverclyde
+2003,77.05,Both,All,Midlothian
+2003,77.58,Both,All,Moray
+2003,76.23,Both,All,Na h-Eileanan Siar
+2003,76.18,Both,All,North Ayrshire
+2003,74.91,Both,All,North Lanarkshire
+2003,78.53,Both,All,Orkney Islands
+2003,78.22,Both,All,Perth and Kinross
+2003,75.05,Both,All,Renfrewshire
+2003,76.41,Both,All,Scotland Wide
+2003,77.6,Both,All,Scottish Borders
+2003,77.19,Both,All,Shetland Islands
+2003,77.03,Both,All,South Ayrshire
+2003,76.3,Both,All,South Lanarkshire
+2003,77.81,Both,All,Stirling
+2003,74.16,Both,All,West Dunbartonshire
+2003,76.15,Both,All,West Lothian
+2004,72.1,Both,1 - most deprived,Scotland Wide
+2004,75.33,Both,2,Scotland Wide
+2004,77.18,Both,3,Scotland Wide
+2004,78.86,Both,4,Scotland Wide
+2004,80.75,Both,5 - least deprived,Scotland Wide
+2004,77.46,Both,All,Aberdeen City
+2004,78.86,Both,All,Aberdeenshire
+2004,77.7,Both,All,Angus
+2004,77.81,Both,All,Argyll and Bute
+2004,77.92,Both,All,City of Edinburgh
+2004,75.98,Both,All,Clackmannanshire
+2004,77.75,Both,All,Dumfries and Galloway
+2004,75.61,Both,All,Dundee City
+2004,75.85,Both,All,East Ayrshire
+2004,79.31,Both,All,East Dunbartonshire
+2004,78.14,Both,All,East Lothian
+2004,79,Both,All,East Renfrewshire
+2004,76.83,Both,All,Falkirk
+2004,77.49,Both,All,Fife
+2004,73.27,Both,All,Glasgow City
+2004,77.69,Both,All,Highland
+2004,74.48,Both,All,Inverclyde
+2004,77.35,Both,All,Midlothian
+2004,77.9,Both,All,Moray
+2004,76.06,Both,All,Na h-Eileanan Siar
+2004,76.37,Both,All,North Ayrshire
+2004,75.19,Both,All,North Lanarkshire
+2004,78.92,Both,All,Orkney Islands
+2004,78.48,Both,All,Perth and Kinross
+2004,75.46,Both,All,Renfrewshire
+2004,76.72,Both,All,Scotland Wide
+2004,78,Both,All,Scottish Borders
+2004,78.05,Both,All,Shetland Islands
+2004,77.51,Both,All,South Ayrshire
+2004,76.69,Both,All,South Lanarkshire
+2004,78.28,Both,All,Stirling
+2004,74.23,Both,All,West Dunbartonshire
+2004,76.34,Both,All,West Lothian
+2005,72.38,Both,1 - most deprived,Scotland Wide
+2005,75.63,Both,2,Scotland Wide
+2005,77.49,Both,3,Scotland Wide
+2005,79.2,Both,4,Scotland Wide
+2005,81.17,Both,5 - least deprived,Scotland Wide
+2005,77.5,Both,All,Aberdeen City
+2005,79.06,Both,All,Aberdeenshire
+2005,78.09,Both,All,Angus
+2005,78.03,Both,All,Argyll and Bute
+2005,78.17,Both,All,City of Edinburgh
+2005,75.99,Both,All,Clackmannanshire
+2005,78.22,Both,All,Dumfries and Galloway
+2005,76.25,Both,All,Dundee City
+2005,76.31,Both,All,East Ayrshire
+2005,79.69,Both,All,East Dunbartonshire
+2005,78.52,Both,All,East Lothian
+2005,79.61,Both,All,East Renfrewshire
+2005,77.02,Both,All,Falkirk
+2005,77.68,Both,All,Fife
+2005,73.62,Both,All,Glasgow City
+2005,77.92,Both,All,Highland
+2005,75.02,Both,All,Inverclyde
+2005,77.4,Both,All,Midlothian
+2005,77.96,Both,All,Moray
+2005,76.7,Both,All,Na h-Eileanan Siar
+2005,76.48,Both,All,North Ayrshire
+2005,75.61,Both,All,North Lanarkshire
+2005,78.69,Both,All,Orkney Islands
+2005,78.77,Both,All,Perth and Kinross
+2005,75.98,Both,All,Renfrewshire
+2005,77.07,Both,All,Scotland Wide
+2005,78.61,Both,All,Scottish Borders
+2005,78.81,Both,All,Shetland Islands
+2005,78.09,Both,All,South Ayrshire
+2005,76.84,Both,All,South Lanarkshire
+2005,78.63,Both,All,Stirling
+2005,74.7,Both,All,West Dunbartonshire
+2005,77.06,Both,All,West Lothian
+2006,72.51,Both,1 - most deprived,Scotland Wide
+2006,75.75,Both,2,Scotland Wide
+2006,77.69,Both,3,Scotland Wide
+2006,79.31,Both,4,Scotland Wide
+2006,81.44,Both,5 - least deprived,Scotland Wide
+2006,77.66,Both,All,Aberdeen City
+2006,79.39,Both,All,Aberdeenshire
+2006,78.38,Both,All,Angus
+2006,77.98,Both,All,Argyll and Bute
+2006,78.34,Both,All,City of Edinburgh
+2006,76.72,Both,All,Clackmannanshire
+2006,78.21,Both,All,Dumfries and Galloway
+2006,76.35,Both,All,Dundee City
+2006,75.93,Both,All,East Ayrshire
+2006,80.07,Both,All,East Dunbartonshire
+2006,78.57,Both,All,East Lothian
+2006,79.91,Both,All,East Renfrewshire
+2006,77.18,Both,All,Falkirk
+2006,77.93,Both,All,Fife
+2006,73.84,Both,All,Glasgow City
+2006,78.25,Both,All,Highland
+2006,75.37,Both,All,Inverclyde
+2006,77.86,Both,All,Midlothian
+2006,78.18,Both,All,Moray
+2006,76.8,Both,All,Na h-Eileanan Siar
+2006,76.41,Both,All,North Ayrshire
+2006,75.59,Both,All,North Lanarkshire
+2006,78.44,Both,All,Orkney Islands
+2006,78.91,Both,All,Perth and Kinross
+2006,76.3,Both,All,Renfrewshire
+2006,77.24,Both,All,Scotland Wide
+2006,78.78,Both,All,Scottish Borders
+2006,79.1,Both,All,Shetland Islands
+2006,78.07,Both,All,South Ayrshire
+2006,76.88,Both,All,South Lanarkshire
+2006,78.87,Both,All,Stirling
+2006,74.91,Both,All,West Dunbartonshire
+2006,77.13,Both,All,West Lothian
+2007,72.6,Both,1 - most deprived,Scotland Wide
+2007,75.84,Both,2,Scotland Wide
+2007,77.81,Both,3,Scotland Wide
+2007,79.59,Both,4,Scotland Wide
+2007,81.69,Both,5 - least deprived,Scotland Wide
+2007,77.8,Both,All,Aberdeen City
+2007,79.29,Both,All,Aberdeenshire
+2007,78.86,Both,All,Angus
+2007,77.91,Both,All,Argyll and Bute
+2007,78.58,Both,All,City of Edinburgh
+2007,77.41,Both,All,Clackmannanshire
+2007,78.46,Both,All,Dumfries and Galloway
+2007,76.46,Both,All,Dundee City
+2007,76.45,Both,All,East Ayrshire
+2007,80.09,Both,All,East Dunbartonshire
+2007,78.91,Both,All,East Lothian
+2007,79.66,Both,All,East Renfrewshire
+2007,77.36,Both,All,Falkirk
+2007,77.94,Both,All,Fife
+2007,73.91,Both,All,Glasgow City
+2007,78.4,Both,All,Highland
+2007,75.76,Both,All,Inverclyde
+2007,78.46,Both,All,Midlothian
+2007,78.54,Both,All,Moray
+2007,77.64,Both,All,Na h-Eileanan Siar
+2007,76.47,Both,All,North Ayrshire
+2007,75.81,Both,All,North Lanarkshire
+2007,78.23,Both,All,Orkney Islands
+2007,79.34,Both,All,Perth and Kinross
+2007,76.28,Both,All,Renfrewshire
+2007,77.41,Both,All,Scotland Wide
+2007,79.08,Both,All,Scottish Borders
+2007,78.09,Both,All,Shetland Islands
+2007,78.14,Both,All,South Ayrshire
+2007,76.95,Both,All,South Lanarkshire
+2007,79.1,Both,All,Stirling
+2007,75.06,Both,All,West Dunbartonshire
+2007,77.52,Both,All,West Lothian
+2008,72.96,Both,1 - most deprived,Scotland Wide
+2008,76.06,Both,2,Scotland Wide
+2008,78.02,Both,3,Scotland Wide
+2008,79.9,Both,4,Scotland Wide
+2008,81.91,Both,5 - least deprived,Scotland Wide
+2008,78.07,Both,All,Aberdeen City
+2008,79.62,Both,All,Aberdeenshire
+2008,78.93,Both,All,Angus
+2008,78.28,Both,All,Argyll and Bute
+2008,78.78,Both,All,City of Edinburgh
+2008,77.89,Both,All,Clackmannanshire
+2008,78.66,Both,All,Dumfries and Galloway
+2008,76.27,Both,All,Dundee City
+2008,76.59,Both,All,East Ayrshire
+2008,80.44,Both,All,East Dunbartonshire
+2008,78.93,Both,All,East Lothian
+2008,79.85,Both,All,East Renfrewshire
+2008,77.82,Both,All,Falkirk
+2008,78.03,Both,All,Fife
+2008,74.25,Both,All,Glasgow City
+2008,78.76,Both,All,Highland
+2008,76.12,Both,All,Inverclyde
+2008,78.91,Both,All,Midlothian
+2008,79,Both,All,Moray
+2008,77.99,Both,All,Na h-Eileanan Siar
+2008,76.65,Both,All,North Ayrshire
+2008,76.19,Both,All,North Lanarkshire
+2008,78.95,Both,All,Orkney Islands
+2008,79.78,Both,All,Perth and Kinross
+2008,76.54,Both,All,Renfrewshire
+2008,77.69,Both,All,Scotland Wide
+2008,79.28,Both,All,Scottish Borders
+2008,78.85,Both,All,Shetland Islands
+2008,78.25,Both,All,South Ayrshire
+2008,77.32,Both,All,South Lanarkshire
+2008,79.48,Both,All,Stirling
+2008,75.46,Both,All,West Dunbartonshire
+2008,77.72,Both,All,West Lothian
+2009,73.39,Both,1 - most deprived,Scotland Wide
+2009,76.42,Both,2,Scotland Wide
+2009,78.33,Both,3,Scotland Wide
+2009,80.26,Both,4,Scotland Wide
+2009,82.19,Both,5 - least deprived,Scotland Wide
+2009,78.47,Both,All,Aberdeen City
+2009,79.78,Both,All,Aberdeenshire
+2009,79.05,Both,All,Angus
+2009,78.73,Both,All,Argyll and Bute
+2009,79.08,Both,All,City of Edinburgh
+2009,78.07,Both,All,Clackmannanshire
+2009,79.05,Both,All,Dumfries and Galloway
+2009,76.21,Both,All,Dundee City
+2009,77.39,Both,All,East Ayrshire
+2009,80.75,Both,All,East Dunbartonshire
+2009,79.19,Both,All,East Lothian
+2009,80.23,Both,All,East Renfrewshire
+2009,78.31,Both,All,Falkirk
+2009,78.28,Both,All,Fife
+2009,74.79,Both,All,Glasgow City
+2009,78.97,Both,All,Highland
+2009,76.2,Both,All,Inverclyde
+2009,78.98,Both,All,Midlothian
+2009,79.29,Both,All,Moray
+2009,78.3,Both,All,Na h-Eileanan Siar
+2009,77.34,Both,All,North Ayrshire
+2009,76.56,Both,All,North Lanarkshire
+2009,79.77,Both,All,Orkney Islands
+2009,80.47,Both,All,Perth and Kinross
+2009,76.81,Both,All,Renfrewshire
+2009,78.04,Both,All,Scotland Wide
+2009,79.54,Both,All,Scottish Borders
+2009,78.78,Both,All,Shetland Islands
+2009,78.64,Both,All,South Ayrshire
+2009,77.88,Both,All,South Lanarkshire
+2009,79.75,Both,All,Stirling
+2009,75.95,Both,All,West Dunbartonshire
+2009,77.96,Both,All,West Lothian
+2010,73.75,Both,1 - most deprived,Scotland Wide
+2010,76.81,Both,2,Scotland Wide
+2010,78.75,Both,3,Scotland Wide
+2010,80.65,Both,4,Scotland Wide
+2010,82.45,Both,5 - least deprived,Scotland Wide
+2010,78.81,Both,All,Aberdeen City
+2010,80.18,Both,All,Aberdeenshire
+2010,79.4,Both,All,Angus
+2010,79.22,Both,All,Argyll and Bute
+2010,79.38,Both,All,City of Edinburgh
+2010,78.53,Both,All,Clackmannanshire
+2010,79.36,Both,All,Dumfries and Galloway
+2010,76.41,Both,All,Dundee City
+2010,77.75,Both,All,East Ayrshire
+2010,81.17,Both,All,East Dunbartonshire
+2010,79.33,Both,All,East Lothian
+2010,80.9,Both,All,East Renfrewshire
+2010,78.59,Both,All,Falkirk
+2010,78.75,Both,All,Fife
+2010,75.2,Both,All,Glasgow City
+2010,79.06,Both,All,Highland
+2010,76.39,Both,All,Inverclyde
+2010,79.18,Both,All,Midlothian
+2010,79.45,Both,All,Moray
+2010,78.12,Both,All,Na h-Eileanan Siar
+2010,77.7,Both,All,North Ayrshire
+2010,76.84,Both,All,North Lanarkshire
+2010,80.47,Both,All,Orkney Islands
+2010,80.81,Both,All,Perth and Kinross
+2010,77.5,Both,All,Renfrewshire
+2010,78.41,Both,All,Scotland Wide
+2010,79.97,Both,All,Scottish Borders
+2010,79.5,Both,All,Shetland Islands
+2010,78.94,Both,All,South Ayrshire
+2010,78.29,Both,All,South Lanarkshire
+2010,80.16,Both,All,Stirling
+2010,76.56,Both,All,West Dunbartonshire
+2010,78.35,Both,All,West Lothian
+2011,74.01,Both,1 - most deprived,Scotland Wide
+2011,77.03,Both,2,Scotland Wide
+2011,79.03,Both,3,Scotland Wide
+2011,80.84,Both,4,Scotland Wide
+2011,82.59,Both,5 - least deprived,Scotland Wide
+2011,79.04,Both,All,Aberdeen City
+2011,80.38,Both,All,Aberdeenshire
+2011,79.55,Both,All,Angus
+2011,79.17,Both,All,Argyll and Bute
+2011,79.52,Both,All,City of Edinburgh
+2011,78.72,Both,All,Clackmannanshire
+2011,79.63,Both,All,Dumfries and Galloway
+2011,76.69,Both,All,Dundee City
+2011,78.12,Both,All,East Ayrshire
+2011,81.44,Both,All,East Dunbartonshire
+2011,79.75,Both,All,East Lothian
+2011,81.23,Both,All,East Renfrewshire
+2011,78.69,Both,All,Falkirk
+2011,79,Both,All,Fife
+2011,75.53,Both,All,Glasgow City
+2011,79.47,Both,All,Highland
+2011,76.79,Both,All,Inverclyde
+2011,79.33,Both,All,Midlothian
+2011,79.48,Both,All,Moray
+2011,78.27,Both,All,Na h-Eileanan Siar
+2011,78.3,Both,All,North Ayrshire
+2011,76.97,Both,All,North Lanarkshire
+2011,80.64,Both,All,Orkney Islands
+2011,81.03,Both,All,Perth and Kinross
+2011,77.8,Both,All,Renfrewshire
+2011,78.63,Both,All,Scotland Wide
+2011,80.25,Both,All,Scottish Borders
+2011,79.39,Both,All,Shetland Islands
+2011,79.17,Both,All,South Ayrshire
+2011,78.38,Both,All,South Lanarkshire
+2011,80.06,Both,All,Stirling
+2011,76.42,Both,All,West Dunbartonshire
+2011,78.5,Both,All,West Lothian
+2012,74.25,Both,1 - most deprived,Scotland Wide
+2012,77.23,Both,2,Scotland Wide
+2012,79.31,Both,3,Scotland Wide
+2012,81.09,Both,4,Scotland Wide
+2012,82.72,Both,5 - least deprived,Scotland Wide
+2012,79.13,Both,All,Aberdeen City
+2012,80.61,Both,All,Aberdeenshire
+2012,79.93,Both,All,Angus
+2012,79.79,Both,All,Argyll and Bute
+2012,79.68,Both,All,City of Edinburgh
+2012,78.42,Both,All,Clackmannanshire
+2012,79.72,Both,All,Dumfries and Galloway
+2012,77.31,Both,All,Dundee City
+2012,77.69,Both,All,East Ayrshire
+2012,81.86,Both,All,East Dunbartonshire
+2012,80,Both,All,East Lothian
+2012,81.18,Both,All,East Renfrewshire
+2012,78.67,Both,All,Falkirk
+2012,79.13,Both,All,Fife
+2012,75.73,Both,All,Glasgow City
+2012,79.85,Both,All,Highland
+2012,77.62,Both,All,Inverclyde
+2012,79.42,Both,All,Midlothian
+2012,79.7,Both,All,Moray
+2012,78.77,Both,All,Na h-Eileanan Siar
+2012,78.41,Both,All,North Ayrshire
+2012,77.2,Both,All,North Lanarkshire
+2012,80.59,Both,All,Orkney Islands
+2012,80.9,Both,All,Perth and Kinross
+2012,78.14,Both,All,Renfrewshire
+2012,78.85,Both,All,Scotland Wide
+2012,80.77,Both,All,Scottish Borders
+2012,80.18,Both,All,Shetland Islands
+2012,79.23,Both,All,South Ayrshire
+2012,78.53,Both,All,South Lanarkshire
+2012,80.27,Both,All,Stirling
+2012,76.62,Both,All,West Dunbartonshire
+2012,78.78,Both,All,West Lothian
+2013,74.41,Both,1 - most deprived,Scotland Wide
+2013,77.53,Both,2,Scotland Wide
+2013,79.6,Both,3,Scotland Wide
+2013,81.21,Both,4,Scotland Wide
+2013,83.03,Both,5 - least deprived,Scotland Wide
+2013,78.87,Both,All,Aberdeen City
+2013,80.76,Both,All,Aberdeenshire
+2013,80.16,Both,All,Angus
+2013,80.05,Both,All,Argyll and Bute
+2013,79.95,Both,All,City of Edinburgh
+2013,78.66,Both,All,Clackmannanshire
+2013,79.7,Both,All,Dumfries and Galloway
+2013,77.66,Both,All,Dundee City
+2013,77.72,Both,All,East Ayrshire
+2013,82.03,Both,All,East Dunbartonshire
+2013,80.25,Both,All,East Lothian
+2013,81.16,Both,All,East Renfrewshire
+2013,79.09,Both,All,Falkirk
+2013,79.47,Both,All,Fife
+2013,76.03,Both,All,Glasgow City
+2013,80.47,Both,All,Highland
+2013,78.1,Both,All,Inverclyde
+2013,79.44,Both,All,Midlothian
+2013,80.1,Both,All,Moray
+2013,79.5,Both,All,Na h-Eileanan Siar
+2013,78.69,Both,All,North Ayrshire
+2013,77.5,Both,All,North Lanarkshire
+2013,80.76,Both,All,Orkney Islands
+2013,81.1,Both,All,Perth and Kinross
+2013,78.23,Both,All,Renfrewshire
+2013,79.07,Both,All,Scotland Wide
+2013,80.84,Both,All,Scottish Borders
+2013,80.11,Both,All,Shetland Islands
+2013,79.53,Both,All,South Ayrshire
+2013,78.71,Both,All,South Lanarkshire
+2013,80.12,Both,All,Stirling
+2013,76.62,Both,All,West Dunbartonshire
+2013,79.14,Both,All,West Lothian
+2014,74.33,Both,1 - most deprived,Scotland Wide
+2014,77.67,Both,2,Scotland Wide
+2014,79.66,Both,3,Scotland Wide
+2014,81.26,Both,4,Scotland Wide
+2014,83.14,Both,5 - least deprived,Scotland Wide
+2014,78.76,Both,All,Aberdeen City
+2014,80.69,Both,All,Aberdeenshire
+2014,80.25,Both,All,Angus
+2014,80.22,Both,All,Argyll and Bute
+2014,80.07,Both,All,City of Edinburgh
+2014,78.53,Both,All,Clackmannanshire
+2014,79.73,Both,All,Dumfries and Galloway
+2014,77.59,Both,All,Dundee City
+2014,77.77,Both,All,East Ayrshire
+2014,82,Both,All,East Dunbartonshire
+2014,80.46,Both,All,East Lothian
+2014,81.36,Both,All,East Renfrewshire
+2014,79.17,Both,All,Falkirk
+2014,79.56,Both,All,Fife
+2014,76.1,Both,All,Glasgow City
+2014,80.25,Both,All,Highland
+2014,77.93,Both,All,Inverclyde
+2014,79.41,Both,All,Midlothian
+2014,80.22,Both,All,Moray
+2014,79.82,Both,All,Na h-Eileanan Siar
+2014,78.46,Both,All,North Ayrshire
+2014,77.46,Both,All,North Lanarkshire
+2014,80.8,Both,All,Orkney Islands
+2014,81.2,Both,All,Perth and Kinross
+2014,78.45,Both,All,Renfrewshire
+2014,79.12,Both,All,Scotland Wide
+2014,80.67,Both,All,Scottish Borders
+2014,79.78,Both,All,Shetland Islands
+2014,79.38,Both,All,South Ayrshire
+2014,78.89,Both,All,South Lanarkshire
+2014,80.28,Both,All,Stirling
+2014,76.75,Both,All,West Dunbartonshire
+2014,79.5,Both,All,West Lothian
+2015,74.17,Both,1 - most deprived,Scotland Wide
+2015,77.55,Both,2,Scotland Wide
+2015,79.64,Both,3,Scotland Wide
+2015,81.34,Both,4,Scotland Wide
+2015,83.28,Both,5 - least deprived,Scotland Wide
+2015,78.62,Both,All,Aberdeen City
+2015,80.84,Both,All,Aberdeenshire
+2015,80.15,Both,All,Angus
+2015,79.91,Both,All,Argyll and Bute
+2015,80.11,Both,All,City of Edinburgh
+2015,78.66,Both,All,Clackmannanshire
+2015,79.83,Both,All,Dumfries and Galloway
+2015,77.06,Both,All,Dundee City
+2015,78.16,Both,All,East Ayrshire
+2015,81.78,Both,All,East Dunbartonshire
+2015,80.47,Both,All,East Lothian
+2015,81.83,Both,All,East Renfrewshire
+2015,78.93,Both,All,Falkirk
+2015,79.41,Both,All,Fife
+2015,76.15,Both,All,Glasgow City
+2015,80.41,Both,All,Highland
+2015,77.86,Both,All,Inverclyde
+2015,79.64,Both,All,Midlothian
+2015,80.41,Both,All,Moray
+2015,79.66,Both,All,Na h-Eileanan Siar
+2015,78.22,Both,All,North Ayrshire
+2015,77.48,Both,All,North Lanarkshire
+2015,81.53,Both,All,Orkney Islands
+2015,81.25,Both,All,Perth and Kinross
+2015,78.28,Both,All,Renfrewshire
+2015,79.12,Both,All,Scotland Wide
+2015,80.62,Both,All,Scottish Borders
+2015,79.81,Both,All,Shetland Islands
+2015,79.15,Both,All,South Ayrshire
+2015,78.74,Both,All,South Lanarkshire
+2015,80.45,Both,All,Stirling
+2015,76.79,Both,All,West Dunbartonshire
+2015,79.53,Both,All,West Lothian
+2016,73.97,Both,1 - most deprived,Scotland Wide
+2016,77.41,Both,2,Scotland Wide
+2016,79.59,Both,3,Scotland Wide
+2016,81.38,Both,4,Scotland Wide
+2016,83.31,Both,5 - least deprived,Scotland Wide
+2016,78.97,Both,All,Aberdeen City
+2016,80.85,Both,All,Aberdeenshire
+2016,79.89,Both,All,Angus
+2016,79.8,Both,All,Argyll and Bute
+2016,80.15,Both,All,City of Edinburgh
+2016,78.44,Both,All,Clackmannanshire
+2016,79.81,Both,All,Dumfries and Galloway
+2016,76.65,Both,All,Dundee City
+2016,78.19,Both,All,East Ayrshire
+2016,81.7,Both,All,East Dunbartonshire
+2016,80.4,Both,All,East Lothian
+2016,82.12,Both,All,East Renfrewshire
+2016,78.85,Both,All,Falkirk
+2016,79,Both,All,Fife
+2016,76.04,Both,All,Glasgow City
+2016,80.18,Both,All,Highland
+2016,77.42,Both,All,Inverclyde
+2016,79.75,Both,All,Midlothian
+2016,80.31,Both,All,Moray
+2016,79.79,Both,All,Na h-Eileanan Siar
+2016,78.11,Both,All,North Ayrshire
+2016,77.36,Both,All,North Lanarkshire
+2016,80.6,Both,All,Orkney Islands
+2016,80.89,Both,All,Perth and Kinross
+2016,78.19,Both,All,Renfrewshire
+2016,79.05,Both,All,Scotland Wide
+2016,80.66,Both,All,Scottish Borders
+2016,80.74,Both,All,Shetland Islands
+2016,79.16,Both,All,South Ayrshire
+2016,78.75,Both,All,South Lanarkshire
+2016,80.7,Both,All,Stirling
+2016,77.06,Both,All,West Dunbartonshire
+2016,79.53,Both,All,West Lothian
+2017,73.8,Both,1 - most deprived,Scotland Wide
+2017,77.25,Both,2,Scotland Wide
+2017,79.65,Both,3,Scotland Wide
+2017,81.55,Both,4,Scotland Wide
+2017,83.45,Both,5 - least deprived,Scotland Wide
+2017,79.02,Both,All,Aberdeen City
+2017,81.06,Both,All,Aberdeenshire
+2017,80.06,Both,All,Angus
+2017,79.86,Both,All,Argyll and Bute
+2017,80.19,Both,All,City of Edinburgh
+2017,78.78,Both,All,Clackmannanshire
+2017,79.84,Both,All,Dumfries and Galloway
+2017,76.59,Both,All,Dundee City
+2017,77.98,Both,All,East Ayrshire
+2017,81.88,Both,All,East Dunbartonshire
+2017,80.5,Both,All,East Lothian
+2017,82.12,Both,All,East Renfrewshire
+2017,78.7,Both,All,Falkirk
+2017,79.12,Both,All,Fife
+2017,76.01,Both,All,Glasgow City
+2017,80.05,Both,All,Highland
+2017,77.38,Both,All,Inverclyde
+2017,79.8,Both,All,Midlothian
+2017,80.33,Both,All,Moray
+2017,80.09,Both,All,Na h-Eileanan Siar
+2017,78.11,Both,All,North Ayrshire
+2017,77.42,Both,All,North Lanarkshire
+2017,80.58,Both,All,Orkney Islands
+2017,80.97,Both,All,Perth and Kinross
+2017,78.11,Both,All,Renfrewshire
+2017,79.07,Both,All,Scotland Wide
+2017,80.46,Both,All,Scottish Borders
+2017,81.43,Both,All,Shetland Islands
+2017,79.28,Both,All,South Ayrshire
+2017,78.73,Both,All,South Lanarkshire
+2017,80.75,Both,All,Stirling
+2017,77.09,Both,All,West Dunbartonshire
+2017,79.28,Both,All,West Lothian
