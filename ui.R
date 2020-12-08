@@ -33,7 +33,10 @@ dashboardPage(
             ),
             fluidRow(
               box(title = "Life Expectancy Over Time",
-                  width = 6),
+                  width = 6,
+                  plotOutput(
+                    'life_expectancy_time'
+                  )),
               box(title = "Difference From Mean",
                   width = 6)
               ),
