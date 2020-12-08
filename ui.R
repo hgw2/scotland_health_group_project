@@ -12,7 +12,7 @@ dashboardPage(
             fluidRow(
               box(title = "Map", 
                   width = 8,
-                  leafletOutput("map", width = "100%", height = "100%")),
+                  leafletOutput("map")),
               box(title = "Select Variable", width = 4,
                   "inputs")
             ),
