@@ -32,15 +32,22 @@ dashboardPage(
               
             ),
             fluidRow(
-              box(title = "Difference From Mean",
-                  width = 6),
               box(title = "Life Expectancy Over Time",
+                  width = 6),
+              box(title = "Difference From Mean",
                   width = 6)
               ),
             fluidRow(box(title = "Top 5 Councils",
-                         width = 6),
+                         width = 6,
+                         dataTableOutput(
+                           'top_five'
+                         )
+                         ),
                      box(title = "Bottom 5 Councils",
-                         width = 6))
+                         width = 6,
+                         dataTableOutput(
+                           'bottom_five'
+                         )))
             )
   )
   )

@@ -62,11 +62,11 @@ life_expectancy_comparrison_plot
 
 ## plot 3 top 5 councils with highest life expectancy 2018
 
-life_expectancy %>% 
+top_five <- life_expectancy %>% 
   select(council_name, sex, life_expectancy, year) %>% 
   filter(year == 2017,
-         sex == input$reactive,
-         council_name == input$) %>% 
+         sex == "Female",
+         council_name == "Scotland Wide") %>% 
   slice_max(life_expectancy, n = 5)
 
 ## plot 4 bottom 4 councils with lowest life expectancy in 2018
