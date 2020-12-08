@@ -1,10 +1,3 @@
-library(tidyverse)
-library(shiny)
-library(shinydashboard)
-library(plotly)
-library(sf)
-library(esquisse)
-library(DT)
 
 life_expectancy <- read_csv("clean_data/life_expectancy_clean.csv" )
 
