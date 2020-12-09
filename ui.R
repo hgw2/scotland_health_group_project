@@ -26,46 +26,34 @@ dashboardPage(
     #Second Tab
     tabItem(tabName = "life_expectancy",
             fluidRow(
-
               box(title = "Select Variables", 
                   width = 12,
-                  pickerInput(inputId = "select_sex",
+                  column(4,
+                         pickerInput(inputId = "select_sex",
                                label = "Sex",
                                choices = c("Male", "Female", "Both"),
                                selected = "Both",
                                options = list(`actions-box` = TRUE),
-                               multiple = T
-                  )),
-                  #selectInput('council_name_choices', 'Councils', choices = c()),
-            
-
-              box(title = "Select Variables",
-                  width = 12,
-                  sliderInput(inputId = "select_year",
-                              label = "Year",
-                              min = 1992,
-                              max = 2017,
-                              value = 2000,
-                              dragRange = TRUE)
-
+                               multiple = T)
+                  ), 
+                  column(4,
+                         pickerInput(inputId = "select_year",
+                                  label = "Year",
+                                  1992:2017) 
                   ),
-              box(title = "Select Variables",
-                  width = 12,
-                  pickerInput(inputId = "select_council",
-                              label = "Councils in Scotland",
-                              choices = c(unique(life_expectancy$council_name)),
-                              selected = "Scotland Wide",
-                              options = list(`actions-box` = TRUE),
-                              multiple = T
+                  column(4, 
+                         pickerInput(inputId = "select_council",
+                                      label = "Councils in Scotland",
+                                      choices = c(unique(life_expectancy$council_name)),
+                                      selected = "Scotland Wide",
+                                      options = list(`actions-box` = TRUE),
+                                      multiple = T)
+                          )
+                    
                   )
 
-            )),
-
-            # box(title = "Histogram box title",
-            #     status = "warning", solidHeader = TRUE, collapsible = TRUE,
-            #     plotOutput("plot", height = 250)
-            # )
-
+                  ),
+            
             fluidRow(
               box(title = "Life Expectancy Over Time",
                   width = 6,

@@ -1,26 +1,22 @@
+source("life_ex_function/1_time_data.R")
+source("life_ex_function/2_create_time_plot.R")
+source("life_ex_function/3_get_scotland_le.R")
+source("life_ex_function/4_get_council_le.R")
+source("life_ex_function/5_get_le_mereged_data.R")
+source("life_ex_function/6_get_le_comparison_plot.R")
+
 server <- function(input, output) {
-reactive_plot_time <- reactive({life_expectancy %>%
-      filter(simd_quintiles == "All",
-             council_name == "Scotland Wide",
-             sex == input$select_sex)
-})
+
+time_data <- get_time_data(data = life_expectancy, input = input)
+output$life_expectancy_time <- create_time_plot(time_data)
+scotland <- get_scotland_le(data = life_expectancy, input = input)
+council <- get_council_le(data = life_expectancy, input = input)
+le_comparison_data <- get_le_merge_data(council, scotland)
+output$life_expectancy_comparison <- get_le_comparison_plot(le_comparison_data)
 
 
-  output$life_expectancy_time <- renderPlot(
-    reactive_plot_time() %>% 
-        ggplot() +
-        aes(x = year, y = life_expectancy, colour = sex) + 
-        geom_point(size = 1.5) +
-        scale_color_viridis_d(option = "viridis") +
-        labs(x = "Year", y = "Life expectancy (years)", title = "Life Expectancy Over Time") +
-        theme_linedraw()+
-        geom_line()+
-        scale_x_continuous(breaks = c(1992,1996,2000,2004,2008,2012,2016))
-  )
 
-  output$life_expectancy_comparison <- renderPlot(
-    life_expectancy_comparison_plot
-  )
+
 
 
   output$top_five <- renderDataTable(
