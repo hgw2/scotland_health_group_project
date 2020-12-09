@@ -13,13 +13,31 @@ dashboardPage(
               box(title = "Map", 
                   width = 8,
                   leafletOutput("map")),
-              box(title = "Select Variable", width = 4,
-                  "inputs")
+              box( width = 4,
+                  selectInput("variable",
+                              "Select Variable",
+                              choices = c("Life Expectancy", "Alcohol Related Hospital Admission"),
+                              selected = "Life Expectancy"))
             ),
             fluidRow(
-              box(title = "Select Year", 
+              box( 
                   width = 12,
-                  "year select")
+                  tags$style(".irs-bar {",
+                             "  border-color: transparent;",
+                             "  background-color: transparent;",
+                             "}",
+                             ".irs-bar-edge {",
+                             "  border-color: transparent;",
+                             "  background-color: transparent;",
+                             "}"),
+                  sliderInput("year",
+                              "Select year",
+                              value = 2017,
+                              max = 2017, min = 1993,
+                              sep = "", 
+                              ticks = TRUE
+                  )
+              )
             )
       
     ),
