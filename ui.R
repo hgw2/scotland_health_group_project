@@ -66,7 +66,8 @@ dashboardPage(
               )
             ),
 
-            fluidRow(box(title = "Top 5 Councils",
+            fluidRow(box(
+              title = "Top 5 Councils",
                          width = 6,
                          DTOutput(
                            "top_five"
