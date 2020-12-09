@@ -1,7 +1,7 @@
-source("le_functions/1_get_scotland_le.R")
-source("le_functions/2_get_council_le.R")
-source("le_functions/3_get_spatial.R")
-source("le_functions/4_leaflet_basemap.R")
+source("le_map_functions/1_get_scotland_le.R")
+source("le_map_functions/2_get_council_le.R")
+source("le_map_functions/3_get_spatial.R")
+source("le_map_functions/4_leaflet_basemap.R")
 
 
 server <- function(input, output) { 
