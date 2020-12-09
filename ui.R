@@ -27,7 +27,10 @@ dashboardPage(
     tabItem(tabName = "life_expectancy",
             fluidRow(
               box(title = "Select Variables", 
-                  width = 12
+                  width = 12,
+                  radioButtons(choices_sex, choices = c("Male", "Female", "Both")),
+                  selectInput(council_name_choices, choices = ),
+                  selectInput(deprivation_input, choices = )
                   )
               
             ),
