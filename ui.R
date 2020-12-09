@@ -10,35 +10,37 @@ dashboardPage(
     #First tab
     tabItem(tabName = "overview",
             fluidRow(
-              box(title = "Map", 
-                  width = 8,
-                  leafletOutput("map")),
-              box( width = 4,
+              box( 
+                tags$style(type = "text/css", "#map {height: calc(100vh - 80px) !important;}"),
+                  width = 12,
+                  leafletOutput("map"),
+              fixedPanel(top = 100, right = 50, left = 900,
                   selectInput("variable",
                               "Select Variable",
                               choices = c("Life Expectancy", "Alcohol Related Hospital Admission"),
-                              selected = "Life Expectancy"))
-            ),
-            fluidRow(
-              box( 
-                  width = 12,
-                  tags$style(".irs-bar {",
-                             "  border-color: transparent;",
-                             "  background-color: transparent;",
-                             "}",
-                             ".irs-bar-edge {",
-                             "  border-color: transparent;",
-                             "  background-color: transparent;",
-                             "}"),
-                  sliderInput("year",
-                              "Select year",
-                              value = 2017,
-                              max = 2017, min = 1993,
-                              sep = "", 
-                              ticks = TRUE
-                  )
-              )
-            )
+                              selected = "Life Expectancy")),
+             absolutePanel(
+                        bottom = 0,
+                        right = 20,
+                        left = 20,
+                            tags$style(".irs-bar {",
+                                               "  border-color: transparent;",
+                                               "  background-color: transparent;",
+                                               "}",
+                                               ".irs-bar-edge {",
+                                               "  border-color: transparent;",
+                                               "  background-color: transparent;",
+                                               "}"),
+                            sliderInput("year",
+                                        "Select year",
+                                        value = 2017,
+                                        max = 2017, min = 1993,
+                                        sep = "", 
+                                        ticks = TRUE
+                            )
+                            )
+            )),
+           
       
     ),
     #Second Tab

@@ -6,7 +6,7 @@ createMap <- function(data) {
  
    pal<- colorNumeric("YlOrRd",data$difference_from_mean)
   
-   label <- paste(data$council_name,"=", data$life_expectancy)
+   label <- paste(data$council_name,"=", data$life_expectancy, .sep = "")
  
    renderLeaflet(
     data %>% 
