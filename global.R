@@ -5,6 +5,7 @@ library(shiny)
 library(shinydashboard)
 library(plotly)
 library(leaflet)
+library(RColorBrewer)
 
 life_expectancy <- read_csv("clean_data/life_expectancy_clean.csv")
 council_locs <- st_read("clean_data/council_code_shape_files/council_codes_geom.shp")
