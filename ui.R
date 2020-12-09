@@ -14,7 +14,7 @@ dashboardPage(
                 tags$style(type = "text/css", "#map {height: calc(100vh - 80px) !important;}"),
                   width = 12,
                   leafletOutput("map"),
-              fixedPanel(top = 100, right = 50, left = 900,
+              fixedPanel(top = 100, right = 50, left = 700,
                   selectInput("variable",
                               "Select Variable",
                               choices = c("Life Expectancy", "Alcohol Related Hospital Admission"),
