@@ -1,4 +1,3 @@
-
 source("life_ex_function/1_time_data.R")
 source("life_ex_function/2_create_time_plot.R")
 source("life_ex_function/3_get_scotland_le.R")
@@ -22,7 +21,8 @@ council <- get_council_le(data = life_expectancy, input = input)
 le_comparison_data <- get_le_merge_data(council, scotland)
 output$life_expectancy_comparison <- get_le_comparison_plot(le_comparison_data)
 
-time_data_three_filters <- get_time_data_three_filters(data = life_expectancy, input = input)
+time_data_three_filters <- get_time_data_three_filters(data = life_expectancy, 
+                                                       input = input)
 output$top_five <-create_slice_max(time_data_three_filters)
 output$bottom_five <- create_slice_min(time_data_three_filters)
 
@@ -33,8 +33,11 @@ output$map <- leaflet_basemap(spatial_data)
 
   
   observe({
-    pal <- colorFactor(c("#008000", "#FF0000"), domain = spatial_data()$over_mean)
-    label <- paste(spatial_data()$council_name,"=", spatial_data()$life_expectancy)
+    pal <- colorFactor(c("#008000", "#FF0000"), 
+                       domain = spatial_data()$over_mean)
+    label <- paste(spatial_data()$council_name,
+                   "=", 
+                   spatial_data()$life_expectancy)
     leafletProxy("map", data = spatial_data()) %>% 
       clearControls() %>% 
       addPolygons(fillColor = ~pal(over_mean),
@@ -57,7 +60,8 @@ output$map <- leaflet_basemap(spatial_data)
   })
   
   observe({
-    pal <- colorFactor(c("#008000", "#FF0000"), domain = spatial_data()$over_mean)
+    pal <- colorFactor(c("#008000", "#FF0000"), 
+                       domain = spatial_data()$over_mean)
     leafletProxy("map", data = spatial_data()) %>%
       clearControls() %>% 
       addLegend(position = "topleft",

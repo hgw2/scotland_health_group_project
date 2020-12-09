@@ -62,7 +62,7 @@ dashboardPage(
                   column(4,
                          pickerInput(inputId = "select_year",
                                   label = "Year",
-                                  1992:2017) 
+                                  1992:2017, selected = 2017) 
                   ),
                   column(4, 
                          pickerInput(inputId = "select_council",
@@ -80,12 +80,12 @@ dashboardPage(
             fluidRow(
               box(title = "Life Expectancy Over Time",
                   width = 6,
-                  plotOutput("life_expectancy_time")
+                  plotlyOutput("life_expectancy_time")
               ),
 
               box(title = "Difference From Mean",
                   width = 6,
-                  plotOutput("life_expectancy_comparison")
+                  plotlyOutput("life_expectancy_comparison")
               )
             ),
 
