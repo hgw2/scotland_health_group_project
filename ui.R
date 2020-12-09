@@ -26,19 +26,40 @@ dashboardPage(
     #Second Tab
     tabItem(tabName = "life_expectancy",
             fluidRow(
-<<<<<<< HEAD
+
               box(title = "Select Variables", 
                   width = 12,
-                  radioButtons(choices_sex, choices = c("Male", "Female", "Both")),
-                  selectInput(council_name_choices, choices = ),
-                  selectInput(deprivation_input, choices = )
-=======
+                  pickerInput(inputId = "select_sex",
+                               label = "Sex",
+                               choices = c("Male", "Female", "Both"),
+                               selected = "Both",
+                               options = list(`actions-box` = TRUE),
+                               multiple = T
+                  )),
+                  #selectInput('council_name_choices', 'Councils', choices = c()),
+            
+
               box(title = "Select Variables",
-                  width = 12
->>>>>>> 85b9bc8392e59e5fb77043d61a95a1203c711ee3
+                  width = 12,
+                  sliderInput(inputId = "select_year",
+                              label = "Year",
+                              min = 1992,
+                              max = 2017,
+                              value = 2000,
+                              dragRange = TRUE)
+
+                  ),
+              box(title = "Select Variables",
+                  width = 12,
+                  pickerInput(inputId = "select_council",
+                              label = "Councils in Scotland",
+                              choices = c(unique(life_expectancy$council_name)),
+                              selected = "Scotland Wide",
+                              options = list(`actions-box` = TRUE),
+                              multiple = T
                   )
 
-            ),
+            )),
 
             # box(title = "Histogram box title",
             #     status = "warning", solidHeader = TRUE, collapsible = TRUE,

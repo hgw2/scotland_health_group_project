@@ -4,7 +4,7 @@ life_expectancy <- read_csv("clean_data/life_expectancy_clean.csv" )
 ## plot 1 life expectancy over time
 life_expectancy_over_time_plot <- life_expectancy %>%
   filter(simd_quintiles == "All",
-         council_name == "Scotland Wide") %>% #replace with reactive tag
+         council_name == "Scotland Wide") %>% 
   ggplot() +
   aes(x = year, y = life_expectancy, colour = sex) + # replace with reactive label
   geom_point(size = 1.5) +
@@ -26,7 +26,7 @@ scotland_expectancy <- life_expectancy %>%
 
 life_expectancy_comparrison <- life_expectancy %>%
   filter(year == 2017,
-         sex == "Female", #reactive input here
+         sex == "Both", #reactive input here
          simd_quintiles =="All", #reactive input here
          council_name != "Scotland Wide") %>%
          #council_name %in% ) %>% #reactive input here
@@ -59,7 +59,8 @@ life_expectancy_comparison_plot
 
 top_five <- life_expectancy %>%
   select(council_name, sex, life_expectancy, year) %>%
-  filter(year == 2017, council_name != "Scotland Wide") %>%
+  filter(year == 2017, 
+         council_name != "Scotland Wide") %>%
   arrange(desc(life_expectancy), council_name) %>%
   head(life_expectancy, n = 5)
 
@@ -73,4 +74,3 @@ bottom_five <- life_expectancy %>%
   arrange(life_expectancy, council_name) %>%
   head(life_expectancy, n = 5)
 
-bottom_five

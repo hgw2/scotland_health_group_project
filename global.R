@@ -6,6 +6,7 @@ library(shinydashboard)
 library(plotly)
 library(leaflet)
 library(DT)
+library(shinyWidgets)
 
 # load module functions
 source("life_ex_function/life_expectancy_graphs.R")
