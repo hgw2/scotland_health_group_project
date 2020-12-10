@@ -9,6 +9,7 @@ source("le_map_functions/6_get_le_map_legend.R")
 # Read in Alcohol map functions ----
 source("alcohol_map_functions/1_get_alcohol_year_data.R")
 source("alcohol_map_functions/2_get_alcohol_spatial.R")
+source("alcohol_map_functions/3_get_alcohol_map_colours.R")
 
 # Read in life expectancy tab functions ----
 source("life_ex_tab_functions/1_time_data.R")
@@ -34,20 +35,31 @@ server <- function(input, output) {
   # Get Alcohol Map Data ----
   
   alcohol_year_diff <- get_alcohol_year_data(alcohol_hopitals)
+  alcohol_spatial <- get_alcohol_spatial(data =alcohol_year_diff, 
+                                         input= input)
 
   # Produce Base Map ----
 
   output$map <- leaflet_basemap()
   
   # Produce Life Expectancy Colours ----
+observe({
+  if(input$variable == "Life Expectancy"){
 
-  observe(
-    get_le_map_colours(map = "map", spatial_data = spatial_data)
-  )
-
-  observe(
+   get_le_map_colours(map = "map", spatial_data = spatial_data)
+ 
+  
+  
     get_le_map_legend(map = "map", spatial_data = spatial_data)
-  )
+  
+  
+} else {
+ 
+  get_alcohol_map_colours(map = "map", spatial_data = alcohol_spatial)
+  get_alcohol_map_legend(map = "map", spatial_data = alcohol_spatial)
+  
+}
+})
 
   # Get Life Expectancy UI
   output$council_select <- get_council_ui_select(

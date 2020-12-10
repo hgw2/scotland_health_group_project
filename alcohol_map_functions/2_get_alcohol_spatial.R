@@ -10,7 +10,7 @@ get_alcohol_spatial <- function(data, input){
       increase_decrease == "TRUE" ~ "Increase",
       increase_decrease == "FALSE" ~ "Decrease")) %>% 
     mutate(increase_decrease = factor(increase_decrease, 
-                                      levels = c("increase", "decrease"))) %>% 
+                                      levels = c("Increase", "Decrease"))) %>% 
     filter(year == input$year) %>% 
     st_as_sf() %>% 
     st_transform("+init=epsg:4326")
