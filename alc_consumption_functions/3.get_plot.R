@@ -7,11 +7,13 @@ renderPlotly(
     aes(x = reorder(council_name, percentage_increase),
         y = percentage_increase, 
         fill = factor(council_name), 
-        text = paste("Number of Patients:", number_of_patients) ) +
+        text = paste("\nNumber of Patients in ",year,": ", number_of_patients,
+                     "\nNumber of Patients in ", year - 1,": ", year_before,
+                     "\nPercentage Change: ", percentage_increase, "%", sep ="") ) +
     geom_col()+ 
     guides(fill = FALSE) +
     coord_flip()+
-    labs(y = "Pecentage Increase (%)")+
+    labs(y = "Pecentage Change (%)")+
     theme(
       axis.line = element_blank(),
       axis.ticks = element_blank(),

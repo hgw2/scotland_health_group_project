@@ -3,7 +3,7 @@ dashboardPage(
   dashboardSidebar(sidebarMenu(
     menuItem("Overview", tabName = "overview", icon = icon("dashboard")),
     menuItem("Life Expectancy", tabName = "life_expectancy", icon = icon("th")),
-    menuItem("Alcohol consumption", tabName = "alcohol_consumption", icon = icon("th"))
+    menuItem("Alcohol Consumption", tabName = "alcohol_consumption", icon = icon("th"))
   )),
   dashboardBody(
     tabItems(
@@ -89,7 +89,7 @@ dashboardPage(
           ),
 
           box(
-            title = "Difference From Mean",
+            title = "Difference From National Average",
             width = 6,
             plotlyOutput("life_expectancy_comparison")
           )
@@ -114,7 +114,7 @@ dashboardPage(
               box(title = "Number of Alcohol Related Hsopital Admissions",
                   width = 6,
                   plotlyOutput("alcohol_time_plot")),
-              box(title = "Alcohol consumption by percentage difference compared to the previous year",
+              box(title = "Percentage Increase in Alcohol Related Hospital Admissions",
                   width = 6,
                   plotlyOutput("alcohol_consumption_percentage_diff") )
             

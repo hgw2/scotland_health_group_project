@@ -6,7 +6,11 @@ renderPlotly(
   aes(x = reorder(council_name, difference_from_mean), 
       y = difference_from_mean, 
       fill = factor(council_name),
-      text = paste("Life Expectancy:", life_expectancy)) +
+      fill = sex,
+      text = paste("Sex:", sex,
+                   "\nLife Expectancy:", life_expectancy,
+                   "\nNational Average", national_life_expectancy,
+                   "\nDifference From Mean:", round(difference_from_mean, 2), "Years")) +
   geom_col()+
   guides(fill = FALSE) +
   coord_flip()+

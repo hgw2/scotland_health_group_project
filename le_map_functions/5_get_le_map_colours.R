@@ -15,10 +15,10 @@ get_le_map_colours <- function(map, spatial_data) {
       addPolygons(
         fillColor = ~ pal(over_mean),
         weight = 2,
-        opacity = 1,
+        opacity = 10,
         color = "white",
         dashArray = "3",
-        fillOpacity = 10,
+        fillOpacity = 1.5,
         highlight = highlightOptions(
           weight = 5,
           color = "#666",
