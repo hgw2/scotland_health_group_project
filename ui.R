@@ -10,17 +10,40 @@ dashboardPage(
     #First tab
     tabItem(tabName = "overview",
             fluidRow(
-              box(title = "Map",
-                  width = 8,
-                  leafletOutput("map", width = "100%", height = "100%")),
-              box(title = "Select Variable", width = 4,
-                  "inputs")
-            ),
-            fluidRow(
-              box(title = "Select Year",
+              
+
+              box( 
+                tags$style(type = "text/css", "#map {height: calc(100vh - 80px) !important;}"),
                   width = 12,
-                  "year select")
-            )
+                  leafletOutput("map"),
+              fixedPanel(top = 100, right = 50, left = 700,
+                  selectInput("variable",
+                              "Select Variable",
+                              choices = c("Life Expectancy", "Alcohol Related Hospital Admission"),
+                              selected = "Life Expectancy")),
+             absolutePanel(
+                        bottom = 0,
+                        right = 20,
+                        left = 20,
+                            tags$style(".irs-bar {",
+                                               "  border-color: transparent;",
+                                               "  background-color: transparent;",
+                                               "}",
+                                               ".irs-bar-edge {",
+                                               "  border-color: transparent;",
+                                               "  background-color: transparent;",
+                                               "}"),
+                            sliderInput("year",
+                                        "Select year",
+                                        value = 2017,
+                                        max = 2017, min = 1993,
+                                        sep = "", 
+                                        ticks = TRUE
+                            )
+                            )
+            )),
+           
+      
 
     ),
     #Second Tab
@@ -39,15 +62,10 @@ dashboardPage(
                   column(4,
                          pickerInput(inputId = "select_year",
                                   label = "Year",
-                                  1992:2017) 
+                                  1992:2017, selected = 2017) 
                   ),
                   column(4, 
-                         pickerInput(inputId = "select_council",
-                                      label = "Councils in Scotland",
-                                      choices = c(unique(life_expectancy$council_name)),
-                                      selected = "Scotland Wide",
-                                      options = list(`actions-box` = TRUE),
-                                      multiple = T)
+                        uiOutput("council_select")
                           )
                     
                   )
@@ -57,12 +75,12 @@ dashboardPage(
             fluidRow(
               box(title = "Life Expectancy Over Time",
                   width = 6,
-                  plotOutput("life_expectancy_time")
+                  plotlyOutput("life_expectancy_time")
               ),
 
               box(title = "Difference From Mean",
                   width = 6,
-                  plotOutput("life_expectancy_comparison")
+                  plotlyOutput("life_expectancy_comparison")
               )
             ),
 
