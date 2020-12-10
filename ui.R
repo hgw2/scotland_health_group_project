@@ -111,13 +111,13 @@ dashboardPage(
                   )
             ),
             fluidRow(
+              box(title = "Number of Alcohol Related Hsopital Admissions",
+                  width = 6,
+                  plotlyOutput("alcohol_time_plot")),
               box(title = "Alcohol consumption by percentage difference compared to the previous year",
                   width = 6,
-                  plotlyOutput("alcohol_consumption_percentage_diff")
-              ),
-              box(title = "Units of alcohol consumed",
-                  width = 6,
-                  plotlyOutput("alcohol_time_plot"))
+                  plotlyOutput("alcohol_consumption_percentage_diff") )
+            
             
             )
         

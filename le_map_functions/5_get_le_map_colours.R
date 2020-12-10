@@ -1,4 +1,4 @@
-get_le_map_colours <- function(map, spatial_data, label, pal) {
+get_le_map_colours <- function(map, spatial_data) {
 
   pal <- colorFactor(c("#008000", "#FF0000"),
     domain = spatial_data()$over_mean)

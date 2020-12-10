@@ -9,6 +9,6 @@ get_le_map_legend <- function(map, spatial_data){
       clearControls() %>% 
       addLegend(position = "topleft",
                 pal = pal, values = ~over_mean, 
-                title = "Over Mean Life Expectancy")
+                title = "Life Expectancy")
   
 }

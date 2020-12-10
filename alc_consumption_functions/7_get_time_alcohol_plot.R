@@ -1,13 +1,26 @@
 get_time_alcohol_plot  <- function(data) {
   
   renderPlotly(
+    ggplotly(
     data() %>% 
       ggplot() +
-      aes(x = year, y = value, colour = council_name) +
-      geom_line(size = 1L) +
-      scale_color_hue() +
-      labs(x = "Year", y = "Number of hospital admissions", title = "Alcohol Related Hospital Admissions") +
-      theme_minimal()
+      aes(x = year, 
+          y = value, 
+          colour = factor(council_name), 
+          grp = factor(council_name), group = 1,
+                       text = paste("Council:", council_name,
+                                    "\nNumber of Patients:", value)) +
+      geom_point(size = 1.5) +
+      labs(x = "Year", y = "Life expectancy (years)") +
+      theme_linedraw()+
+      geom_line()+
+      scale_x_continuous(breaks = c(1998,2002,2004,2008, 2012,2016)),
+    
+    tooltip = "text"
+    ) %>% 
+      hide_legend()
+    
+                         
   )
   
 }

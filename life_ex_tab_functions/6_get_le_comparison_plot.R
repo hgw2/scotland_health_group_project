@@ -6,7 +6,7 @@ renderPlotly(
   aes(x = reorder(council_name, difference_from_mean), 
       y = difference_from_mean, 
       fill = factor(council_name),
-      label = life_expectancy) +
+      text = paste("Life Expectancy:", life_expectancy)) +
   geom_col()+
   guides(fill = FALSE) +
   coord_flip()+
@@ -20,7 +20,7 @@ renderPlotly(
     panel.grid.major = element_blank(),
     panel.grid.minor = element_blank(),
     plot.background = element_blank()
-  ), tooltip = "label"
+  ), tooltip = "text"
   ) %>% 
  hide_legend()
  )

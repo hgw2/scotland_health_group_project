@@ -6,6 +6,12 @@ source("le_map_functions/4_leaflet_basemap.R")
 source("le_map_functions/5_get_le_map_colours.R")
 source("le_map_functions/6_get_le_map_legend.R")
 
+# Read in Alcohol map functions ----
+source("alcohol_map_functions/1_get_alcohol_year_data.R")
+source("alcohol_map_functions/2_get_alcohol_spatial.R")
+source("alcohol_map_functions/3_get_alcohol_map_colours.R")
+source("alcohol_map_functions/4_get_alcohol_map_legend.R")
+
 # Read in life expectancy tab functions ----
 source("life_ex_tab_functions/1_time_data.R")
 source("life_ex_tab_functions/2_create_time_plot.R")
@@ -35,18 +41,35 @@ server <- function(input, output) {
   scotland_map <- get_scotland_le_map(data = life_expectancy, input = input)
   council_map <- get_council_le_map(data = life_expectancy, input = input)
   spatial_data <- get_spatial(council = council_map, scotland = scotland_map)
+  
+  # Get Alcohol Map Data ----
+  
+  alcohol_year_diff <- get_alcohol_year_data(alcohol_hospitals)
+  alcohol_spatial <- get_alcohol_spatial(data =alcohol_year_diff, 
+                                         input= input)
 
-  # Produce Life Expectancy Map ----
+  # Produce Base Map ----
 
   output$map <- leaflet_basemap()
+  
+  # Produce Life Expectancy Colours ----
+observe({
+  if(input$variable == "Life Expectancy"){
 
-  observe(
-    get_le_map_colours(map = "map", spatial_data = spatial_data)
-  )
-
-  observe(
+   get_le_map_colours(map = "map", spatial_data = spatial_data)
+ 
+  
+  
     get_le_map_legend(map = "map", spatial_data = spatial_data)
-  )
+  
+  
+} else {
+ 
+  get_alcohol_map_colours(map = "map", spatial_data = alcohol_spatial)
+  get_alcohol_map_legend(map = "map", spatial_data = alcohol_spatial)
+  
+}
+})
 
   # Get Life Expectancy UI
   output$council_select <- get_council_ui_select(
@@ -90,11 +113,12 @@ server <- function(input, output) {
   
   
   # Get Alcohol UI
-  reactive
-  output$council_alcohol_select <- get_alcohol_council_ui_select(
-    data = patients
-  )
  
+  output$council_alcohol_select <- get_alcohol_council_ui_select(
+    data = patients,
+    top_and_bottom = alcohol_top_and_bottom5
+  )
+
   alcohol_top_and_bottom5 <- get_alcohol_top_and_bottom5(data = alcohol_hospitals,
                                                      input = input)
   
