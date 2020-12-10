@@ -3,6 +3,7 @@ source("le_map_functions/1_get_scotland_le_map.R")
 source("le_map_functions/2_get_council_le_map.R")
 source("le_map_functions/3_get_spatial.R")
 source("le_map_functions/4_leaflet_basemap.R")
+source("le_map_functions/5_get_le_map_colours.R")
 source("le_map_functions/6_get_le_map_legend.R")
 
 # Read in life expectancy tab functions ----
