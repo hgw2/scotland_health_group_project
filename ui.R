@@ -2,7 +2,8 @@ dashboardPage(
   dashboardHeader(title = "Scotland Health"),
   dashboardSidebar( sidebarMenu(
     menuItem("Overview", tabName = "overview", icon = icon("dashboard")),
-    menuItem("Life Expectancy", tabName = "life_expectancy", icon = icon("th"))
+    menuItem("Life Expectancy", tabName = "life_expectancy", icon = icon("th")),
+    menuItem("Alcohol consumption", tabName = "alcohol_consumption", icon = icon("th"))
   )
   ),
   dashboardBody(
@@ -41,10 +42,8 @@ dashboardPage(
                                         ticks = TRUE
                             )
                             )
-            )),
+            ))
            
-      
-
     ),
     #Second Tab
     tabItem(tabName = "life_expectancy",
@@ -67,9 +66,7 @@ dashboardPage(
                   column(4, 
                         uiOutput("council_select")
                           )
-                    
-                  )
-
+              )
                   ),
             
             fluidRow(
@@ -77,26 +74,39 @@ dashboardPage(
                   width = 6,
                   plotlyOutput("life_expectancy_time")
               ),
-
-              box(title = "Difference From Mean",
+              box(title = "Life Expectancy Over Time",
                   width = 6,
                   plotlyOutput("life_expectancy_comparison")
+)
+    )
+  ),
+  #Third tab
+tabItem(tabName = "alcohol_consumption",
+        fluidRow(
+          box(title = "Select Variables", 
+              width = 12,
+              column(6,
+                     pickerInput(inputId = "select_year",
+                                 label = "Year",
+                                 1999:2018, selected = 2017) 
+              ),
+              column(6, 
+                     uiOutput("council_select")
               )
-            ),
-
-            fluidRow(box(
-              title = "Top 5 Councils",
-                         width = 6,
-                         DTOutput(
-                           "top_five"
-                         )
-                         ),
-                     box(title = "Bottom 5 Councils",
-                         width = 6,
-                         DTOutput(
-                           "bottom_five"
-                         )))
-            )
-  )
+              
+          )
+          
+        ),
+        
+        fluidRow(
+          box(title = "Alcohol consumption by percentage difference compared to the previous year",
+              width = 6,
+              plotlyOutput("alcohol_consumption_percentage_diff")
+          ),
+          box(title = "Units of alcohol consumed",
+              width = 6)
+          )
+        )
+)
   )
 )

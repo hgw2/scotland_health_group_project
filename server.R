@@ -19,6 +19,11 @@ source("life_ex_tab_functions/9_slice_min.R")
 source("life_ex_tab_functions/10_council_ui_select.R")
 source("life_ex_tab_functions/11_top_and_bottom5.R")
 
+# Read in alcohol consumption functions
+source("alc_consumption_functions/1.patients_from_last_year.R")
+source("alc_consumption_functions/2.filtered_reactive.R")
+source("alc_consumption_functions/3.get_plot.R")
+
 # Server ----
 server <- function(input, output) {
 
@@ -78,4 +83,11 @@ server <- function(input, output) {
   output$top_five <- create_slice_max(time_data_three_filters)
   
   output$bottom_five <- create_slice_min(time_data_three_filters)
+  
+  #Get data for percentage diff in alcohol hospital admissions
+  patients <- get_patient_data(data = alcohol_hospitals)
+  
+  get_filtered_plot <- filter_comparison_plot (data = patients, input = input)
+  
+  output$alcohol_consumption_percentage_diff<- plot_alcohol_data(data = get_filtered_plot)
 }
