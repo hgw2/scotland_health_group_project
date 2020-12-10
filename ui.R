@@ -1,112 +1,127 @@
 dashboardPage(
   dashboardHeader(title = "Scotland Health"),
-  dashboardSidebar( sidebarMenu(
+  dashboardSidebar(sidebarMenu(
     menuItem("Overview", tabName = "overview", icon = icon("dashboard")),
     menuItem("Life Expectancy", tabName = "life_expectancy", icon = icon("th")),
     menuItem("Alcohol consumption", tabName = "alcohol_consumption", icon = icon("th"))
-  )
-  ),
+  )),
   dashboardBody(
     tabItems(
-    #First tab
-    tabItem(tabName = "overview",
-            fluidRow(
-              
+      # First tab
+      tabItem(
+        tabName = "overview",
+        fluidRow(
+          box(
+            tags$style(type = "text/css", "#map {height: calc(100vh - 80px) !important;}"),
+            width = 12,
+            leafletOutput("map"),
+            fixedPanel(
+              top = 100, right = 50, left = 700,
+              selectInput("variable",
+                "Select Variable",
+                choices = c("Life Expectancy", "Alcohol Related Hospital Admission"),
+                selected = "Life Expectancy"
+              )
+            ),
+            absolutePanel(
+              bottom = 0,
+              right = 20,
+              left = 20,
+              tags$style(
+                ".irs-bar {",
+                "  border-color: transparent;",
+                "  background-color: transparent;",
+                "}",
+                ".irs-bar-edge {",
+                "  border-color: transparent;",
+                "  background-color: transparent;",
+                "}"
+              ),
+              sliderInput("year",
+                "Select year",
+                value = 2017,
+                max = 2017, min = 1993,
+                sep = "",
+                ticks = TRUE
+              )
+            )
+          )
+        ),
+      ),
+      # Second Tab
+      tabItem(
+        tabName = "life_expectancy",
+        fluidRow(
+          box(
+            title = "Select Variables",
+            width = 12,
+            column(
+              4,
+              pickerInput(
+                inputId = "select_sex",
+                label = "Sex",
+                choices = c("Male", "Female", "Both"),
+                selected = "Both",
+                options = list(`actions-box` = TRUE),
+                multiple = T
+              )
+            ),
+            column(
+              4,
+              pickerInput(
+                inputId = "select_year",
+                label = "Year",
+                1992:2017, selected = 2017
+              )
+            ),
+            column(
+              4,
+              uiOutput("council_select")
+            )
+          )
+        ),
 
-              box( 
-                tags$style(type = "text/css", "#map {height: calc(100vh - 80px) !important;}"),
-                  width = 12,
-                  leafletOutput("map"),
-              fixedPanel(top = 100, right = 50, left = 700,
-                  selectInput("variable",
-                              "Select Variable",
-                              choices = c("Life Expectancy", "Alcohol Related Hospital Admission"),
-                              selected = "Life Expectancy")),
-             absolutePanel(
-                        bottom = 0,
-                        right = 20,
-                        left = 20,
-                            tags$style(".irs-bar {",
-                                               "  border-color: transparent;",
-                                               "  background-color: transparent;",
-                                               "}",
-                                               ".irs-bar-edge {",
-                                               "  border-color: transparent;",
-                                               "  background-color: transparent;",
-                                               "}"),
-                            sliderInput("year",
-                                        "Select year",
-                                        value = 2017,
-                                        max = 2017, min = 1993,
-                                        sep = "", 
-                                        ticks = TRUE
-                            )
-                            )
-            ))
-           
-    ),
-    #Second Tab
-    tabItem(tabName = "life_expectancy",
+        fluidRow(
+          box(
+            title = "Life Expectancy Over Time",
+            width = 6,
+            plotlyOutput("life_expectancy_time")
+          ),
+
+          box(
+            title = "Difference From Mean",
+            width = 6,
+            plotlyOutput("life_expectancy_comparison")
+          )
+        )
+      ),
+      tabItem(tabName = "alcohol_consumption",
             fluidRow(
               box(title = "Select Variables", 
                   width = 12,
-                  column(4,
-                         pickerInput(inputId = "select_sex",
-                               label = "Sex",
-                               choices = c("Male", "Female", "Both"),
-                               selected = "Both",
-                               options = list(`actions-box` = TRUE),
-                               multiple = T)
-                  ), 
-                  column(4,
-                         pickerInput(inputId = "select_year",
-                                  label = "Year",
-                                  1992:2017, selected = 2017) 
-                  ),
-                  column(4, 
-                        uiOutput("council_select")
-                          )
-              )
-                  ),
-            
+                  column(6,
+                        pickerInput(inputId = "select_alcohol_year",
+                                    label = "Year",
+                                    1999:2018, 
+                                    selected = 2017) 
+                         ),
+                  column(6,
+                         uiOutput("council_alcohol_select")
+                         )
+                  )
+            ),
             fluidRow(
-              box(title = "Life Expectancy Over Time",
+              box(title = "Alcohol consumption by percentage difference compared to the previous year",
                   width = 6,
-                  plotlyOutput("life_expectancy_time")
+                  plotlyOutput("alcohol_consumption_percentage_diff")
               ),
-              box(title = "Life Expectancy Over Time",
+              box(title = "Units of alcohol consumed",
                   width = 6,
-                  plotlyOutput("life_expectancy_comparison")
-)
-    )
-  ),
-  #Third tab
-tabItem(tabName = "alcohol_consumption",
-        fluidRow(
-          box(title = "Select Variables", 
-              width = 12,
-              column(6,
-                     pickerInput(inputId = "select_year",
-                                 label = "Year",
-                                 1999:2018, selected = 2017) 
-              ),
-              column(6, 
-                     uiOutput("council_select")
-              )
-              
-          )
-          
-        ),
+                  plotlyOutput("alcohol_time_plot"))
+            
+            )
         
-        fluidRow(
-          box(title = "Alcohol consumption by percentage difference compared to the previous year",
-              width = 6,
-              plotlyOutput("alcohol_consumption_percentage_diff")
-          ),
-          box(title = "Units of alcohol consumed",
-              width = 6)
-          )
-        )
-)
+      )
+    )
   )
 )

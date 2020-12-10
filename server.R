@@ -19,10 +19,14 @@ source("life_ex_tab_functions/9_slice_min.R")
 source("life_ex_tab_functions/10_council_ui_select.R")
 source("life_ex_tab_functions/11_top_and_bottom5.R")
 
-# Read in alcohol consumption functions
-source("alc_consumption_functions/1.patients_from_last_year.R")
-source("alc_consumption_functions/2.filtered_reactive.R")
+# Read in alcohol consumption functions ----
+source("alc_consumption_functions/1. patients_from_last_year.R")
+source("alc_consumption_functions/2.filtered_reacttive.R")
 source("alc_consumption_functions/3.get_plot.R")
+source("alc_consumption_functions/4_council_alcohol_ui_select.R")
+source("alc_consumption_functions/5_alcohol_top_and_bottom5.R")
+source("alc_consumption_functions/6_time_alcohol_data.R")
+source("alc_consumption_functions/7_get_time_alcohol_plot.R")
 
 # Server ----
 server <- function(input, output) {
@@ -84,10 +88,30 @@ server <- function(input, output) {
   
   output$bottom_five <- create_slice_min(time_data_three_filters)
   
+  
+  # Get Alcohol UI
+  output$council_alcohol_select <- get_alcohol_council_ui_select(
+    data = patients,
+    top_and_bottom = top_and_bottom5_alcohol
+  )
+  
+  
+  top_and_bottom5_alcohol <- get_alcohol_top_and_bottom5(
+    data = patients,
+    input = input
+  )
   #Get data for percentage diff in alcohol hospital admissions
   patients <- get_patient_data(data = alcohol_hospitals)
   
-  get_filtered_plot <- filter_comparison_plot (data = patients, input = input)
+  get_filtered_plot <- filter_comparison_plot(data = patients, input = input)
   
-  output$alcohol_consumption_percentage_diff<- plot_alcohol_data(data = get_filtered_plot)
+  
+  
+  # Get Alcohol Time data 
+ alcohol_time_data <- get_alcohol_time_data(alcohol_hospitals, input)
+ 
+ # Get Alcohol tabs
+ 
+ output$alcohol_consumption_percentage_diff<- plot_alcohol_data(data = get_filtered_plot)
+ output$alcohol_time_plot <- get_time_alcohol_plot(data = alcohol_time_data)
 }
