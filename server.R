@@ -6,6 +6,10 @@ source("le_map_functions/4_leaflet_basemap.R")
 source("le_map_functions/5_get_le_map_colours.R")
 source("le_map_functions/6_get_le_map_legend.R")
 
+# Read in Alcohol map functions ----
+source("alcohol_map_functions/1_get_alcohol_year_data.R")
+source("alcohol_map_functions/2_get_alcohol_spatial.R")
+
 # Read in life expectancy tab functions ----
 source("life_ex_tab_functions/1_time_data.R")
 source("life_ex_tab_functions/2_create_time_plot.R")
@@ -26,10 +30,16 @@ server <- function(input, output) {
   scotland_map <- get_scotland_le_map(data = life_expectancy, input = input)
   council_map <- get_council_le_map(data = life_expectancy, input = input)
   spatial_data <- get_spatial(council = council_map, scotland = scotland_map)
+  
+  # Get Alcohol Map Data ----
+  
+  alcohol_year_diff <- get_alcohol_year_data(alcohol_hopitals)
 
-  # Produce Life Expectancy Map ----
+  # Produce Base Map ----
 
   output$map <- leaflet_basemap()
+  
+  # Produce Life Expectancy Colours ----
 
   observe(
     get_le_map_colours(map = "map", spatial_data = spatial_data)
