@@ -24,7 +24,7 @@ source("alc_consumption_functions/1. patients_from_last_year.R")
 source("alc_consumption_functions/2.filtered_reacttive.R")
 source("alc_consumption_functions/3.get_plot.R")
 source("alc_consumption_functions/4_council_alcohol_ui_select.R")
-source("alc_consumption_functions/5_alcohol_top_and_bottom5.R")
+source("alc_consumption_functions/5_alcohol_top_and_bottom_5.R")
 source("alc_consumption_functions/6_time_alcohol_data.R")
 source("alc_consumption_functions/7_get_time_alcohol_plot.R")
 
@@ -90,16 +90,14 @@ server <- function(input, output) {
   
   
   # Get Alcohol UI
+  reactive
   output$council_alcohol_select <- get_alcohol_council_ui_select(
-    data = patients,
-    top_and_bottom = top_and_bottom5_alcohol
+    data = patients
   )
+ 
+  alcohol_top_and_bottom5 <- get_alcohol_top_and_bottom5(data = alcohol_hospitals,
+                                                     input = input)
   
-  
-  top_and_bottom5_alcohol <- get_alcohol_top_and_bottom5(
-    data = patients,
-    input = input
-  )
   #Get data for percentage diff in alcohol hospital admissions
   patients <- get_patient_data(data = alcohol_hospitals)
   

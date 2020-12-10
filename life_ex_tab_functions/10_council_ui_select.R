@@ -3,7 +3,7 @@ renderUI(pickerInput(
   inputId = "select_council",
   label = "Councils in Scotland",
   choices = c(unique(data$council_name)),
-  selected = top_and_bottom(),
+  selected = top_and_bottom,
   options = list(`actions-box` = TRUE),
   multiple = T
 ))
