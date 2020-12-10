@@ -3,9 +3,8 @@ create_time_plot <- function(data){
     ggplotly(
     data() %>% 
     ggplot() +
-    aes(x = year, y = life_expectancy, colour = council_name, grp = council_name) + 
+    aes(x = year, y = life_expectancy, colour = factor(council_name), grp = factor(council_name)) + 
     geom_point(size = 1.5) +
-    scale_color_viridis_d(option = "viridis") +
     labs(x = "Year", y = "Life expectancy (years)") +
     theme_linedraw()+
     geom_line()+

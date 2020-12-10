@@ -65,12 +65,7 @@ dashboardPage(
                                   1992:2017, selected = 2017) 
                   ),
                   column(4, 
-                         pickerInput(inputId = "select_council",
-                                      label = "Councils in Scotland",
-                                      choices = c(unique(life_expectancy$council_name)),
-                                      selected = c(unique(life_expectancy$council_name)),
-                                      options = list(`actions-box` = TRUE),
-                                      multiple = T)
+                        uiOutput("council_select")
                           )
                     
                   )

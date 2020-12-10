@@ -5,7 +5,7 @@ renderPlotly(
   ggplot() +
   aes(x = reorder(council_name, difference_from_mean), 
       y = difference_from_mean, 
-      fill = life_expectancy > national_life_expectancy,
+      fill = factor(council_name),
       label = life_expectancy) +
   geom_col()+
   guides(fill = FALSE) +
@@ -21,7 +21,8 @@ renderPlotly(
     panel.grid.minor = element_blank(),
     plot.background = element_blank()
   ), tooltip = "label"
-  )
+  ) %>% 
+ hide_legend()
  )
   
 

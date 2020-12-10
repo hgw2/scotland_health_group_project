@@ -2,7 +2,7 @@ source("life_ex_function/1_time_data.R")
 source("life_ex_function/2_create_time_plot.R")
 source("life_ex_function/3_get_scotland_le.R")
 source("life_ex_function/4_get_council_le.R")
-source("life_ex_function/5_get_le_mereged_data.R")
+source("life_ex_function/5_get_le_merged_data.R")
 source("life_ex_function/6_get_le_comparison_plot.R")
 source("life_ex_function/7_time_data.R")
 source("life_ex_function/8_slice_max.R")
@@ -13,6 +13,26 @@ source("le_map_functions/3_get_spatial.R")
 source("le_map_functions/4_leaflet_basemap.R")
 
 server <- function(input, output) {
+  
+output$council_select <- renderUI({ pickerInput(inputId = "select_council",
+                                                  label = "Councils in Scotland",
+                                                  choices = c(unique(life_expectancy$council_name)),
+                                                  selected = top_and_bottom5(),
+                                                  options = list(`actions-box` = TRUE),
+                                                multiple = T)})
+
+
+top_and_bottom5 <- reactive({
+  life_expectancy %>% 
+  filter(council_name != "Scotland Wide",
+                          sex %in% input$select_sex,
+                          year %in% input$select_year) %>% 
+  arrange(life_expectancy) %>% 
+  dplyr::slice(c(1:5,(n()-4): n())) %>% 
+    distinct(council_name) %>% 
+    pull()
+}) 
+                                                                                                
 
 time_data <- get_time_data(data = life_expectancy, input = input)
 output$life_expectancy_time <- create_time_plot(time_data)
