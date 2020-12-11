@@ -89,36 +89,53 @@ dashboardPage(
           box(
             title = "Difference From National Average",
             width = 6,
-            plotlyOutput("life_expectancy_comparison")
+            plotlyOutput("life_expectancy_comparison"),
+            tags$style(
+              type = "text/css",
+              ".shiny-output-error { visibility: hidden; }",
+              ".shiny-output-error:before { visibility: hidden; }"
+            )
           )
         )
       ),
-      tabItem(tabName = "alcohol_consumption",
-            fluidRow(
-              box(title = "Select Variables", 
-                  width = 12,
-                  column(6,
-                        pickerInput(inputId = "select_alcohol_year",
-                                    label = "Year",
-                                    1999:2018, 
-                                    selected = 2018) 
-                         ),
-                  column(6,
-                         uiOutput("council_alcohol_select")
-                         )
-                  )
+      tabItem(
+        tabName = "alcohol_consumption",
+        fluidRow(
+          box(
+            title = "Select Variables",
+            width = 12,
+            column(
+              6,
+              pickerInput(
+                inputId = "select_alcohol_year",
+                label = "Year",
+                1999:2018,
+                selected = 2018
+              )
             ),
-            fluidRow(
-              box(title = "Number of Alcohol Related Hsopital Admissions",
-                  width = 6,
-                  plotlyOutput("alcohol_time_plot")),
-              box(title = "Percentage Increase in Alcohol Related Hospital Admissions",
-                  width = 6,
-                  plotlyOutput("alcohol_consumption_percentage_diff") )
-            
-            
+            column(
+              6,
+              uiOutput("council_alcohol_select")
             )
-        
+          )
+        ),
+        fluidRow(
+          box(
+            title = "Number of Alcohol Related Hsopital Admissions",
+            width = 6,
+            plotlyOutput("alcohol_time_plot")
+          ),
+          box(
+            title = "Percentage Increase in Alcohol Related Hospital Admissions",
+            width = 6,
+            plotlyOutput("alcohol_consumption_percentage_diff"),
+            tags$style(
+              type = "text/css",
+              ".shiny-output-error { visibility: hidden; }",
+              ".shiny-output-error:before { visibility: hidden; }"
+            )
+          )
+        )
       )
     )
   )
