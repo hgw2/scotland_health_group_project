@@ -11,7 +11,7 @@ get_time_alcohol_plot  <- function(data) {
                        text = paste("Council:", council_name,
                                     "\nNumber of Patients:", value)) +
       geom_point(size = 1.5) +
-      labs(x = "Year", y = "Life expectancy (years)") +
+      labs(x = "Year", y = "Number of Patients") +
       theme_linedraw()+
       geom_line()+
       scale_x_continuous(breaks = c(1998,2002,2004,2008, 2012,2016)),

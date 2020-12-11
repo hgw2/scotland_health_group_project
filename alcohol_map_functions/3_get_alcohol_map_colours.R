@@ -5,14 +5,24 @@ get_alcohol_map_colours <- function(map, spatial_data) {
   
   label <- paste(spatial_data()$council_name,"=", spatial_data()$percentage_increase)
   
+  label <-  sprintf(
+    "<strong>%s</strong><br/>Percentage Change: %g&#37 <br/>Number of Patients (%g): %g<br/> Number of Patients (Previous Year): %g",
+    spatial_data()$council_name, 
+    spatial_data()$percentage_increase,
+    spatial_data()$year,
+    spatial_data()$number_of_patients,
+    spatial_data()$year_before
+    
+  ) %>% lapply(htmltools::HTML)
+  
   leafletProxy(map, data = spatial_data()) %>%
     clearControls() %>%
     addPolygons(fillColor = ~pal(increase_decrease),
-                weight = 1,
-                opacity = 1,
+                weight = 2,
+                opacity = 10,
                 color = "white",
                 dashArray = "3",
-                fillOpacity = 0.8,
+                fillOpacity = 1.5,
                 highlight = highlightOptions(
                   weight = 5,
                   color = "#666",
