@@ -40,7 +40,7 @@ dashboardPage(
               sliderInput("year",
                 "Select year",
                 value = 2017,
-                max = 2017, min = 1993,
+                max = 2017, min = 1999,
                 sep = "",
                 ticks = TRUE
               )
@@ -61,9 +61,7 @@ dashboardPage(
                 inputId = "select_sex",
                 label = "Sex",
                 choices = c("Male", "Female", "Both"),
-                selected = "Both",
-                options = list(`actions-box` = TRUE),
-                multiple = T
+                selected = "Both"
               )
             ),
             column(
@@ -103,7 +101,7 @@ dashboardPage(
                         pickerInput(inputId = "select_alcohol_year",
                                     label = "Year",
                                     1999:2018, 
-                                    selected = 2017) 
+                                    selected = 2018) 
                          ),
                   column(6,
                          uiOutput("council_alcohol_select")

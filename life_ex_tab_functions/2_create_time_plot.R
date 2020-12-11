@@ -4,8 +4,8 @@ create_time_plot <- function(data){
     data() %>% 
     ggplot() +
      aes( text = paste(
-       "Council:", council_name,
-       "\nLife Expectancy:", life_expectancy))+
+       "Council: ", council_name,
+       "\nLife Expectancy (", year,"): " , life_expectancy, " years", sep =""))+
     geom_point(aes(x = year,
                    y = life_expectancy,
                    colour = factor(council_name)),
@@ -17,7 +17,7 @@ create_time_plot <- function(data){
       geom_line(aes(x= year,
                     y =national_life_expectancy,
                     fill = "black", group = 1, 
-                    text = paste("National Average", national_life_expectancy))
+                    text = paste("National Average", national_life_expectancy, "years"))
                 )+
     labs(x = "Year", y = "Life expectancy (years)") +
     theme_linedraw() +

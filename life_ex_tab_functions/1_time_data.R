@@ -5,7 +5,7 @@ get_time_data <- function(data, input){
   scotland <-  data %>%
       filter(simd_quintiles == "All",
              council_name == "Scotland Wide",
-             sex == "Both") %>% 
+             sex == input$select_sex) %>% 
       select(sex, life_expectancy, year) %>%
       rename(national_life_expectancy = life_expectancy)
   
@@ -13,7 +13,7 @@ get_time_data <- function(data, input){
      filter(simd_quintiles == "All",
             council_name != "Scotland Wide",
             council_name %in% input$select_council,
-            sex == "Both") 
+            sex == input$select_sex) 
   
   council %>% 
      left_join(scotland) %>%

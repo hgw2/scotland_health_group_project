@@ -5,10 +5,9 @@ renderPlotly(
      filter(council_name != "Scotland Wide") %>%
   ggplot() +
   aes(
-      text = paste("Sex:", sex,
-                   "\nLife Expectancy:", life_expectancy,
-                   "\nNational Average", national_life_expectancy,
-                   "\nDifference From Mean:", round(difference_from_mean, 2), "Years")) +
+      text = paste("Life Expectancy:", life_expectancy, "years",
+                   "\nNational Average", national_life_expectancy, "years",
+                   "\nDifference From Mean:", round(difference_from_mean, 2), "years")) +
   geom_col(aes(x = reorder(council_name, difference_from_mean), 
            y = difference_from_mean, 
            fill = factor(council_name)))+
