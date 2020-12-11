@@ -3,13 +3,17 @@ get_le_map_colours <- function(map, spatial_data) {
   pal <- colorFactor(c("#008000", "#FF0000"),
     domain = spatial_data()$over_mean)
   
-   label <- paste(
-    spatial_data()$council_name,
-    "=",
-    spatial_data()$life_expectancy)
+   label <-  sprintf(
+     "<strong>%s</strong><br/>Life Expectancy: %g years <br/> National Average: %g years <br/> Difference From National Average: %g years",
+     spatial_data()$council_name, 
+     spatial_data()$life_expectancy, 
+     spatial_data()$national_life_expectancy,
+     spatial_data()$difference_from_mean
+   ) %>% lapply(htmltools::HTML)
 
 
-    
+                   
+                   
     leafletProxy(map, data = spatial_data()) %>%
       clearControls() %>%
       addPolygons(

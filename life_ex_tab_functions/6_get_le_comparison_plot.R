@@ -2,16 +2,16 @@ get_le_comparison_plot <- function(data){
 renderPlotly(
  ggplotly(
    data() %>% 
+     filter(council_name != "Scotland Wide") %>%
   ggplot() +
-  aes(x = reorder(council_name, difference_from_mean), 
-      y = difference_from_mean, 
-      fill = factor(council_name),
-      fill = sex,
+  aes(
       text = paste("Sex:", sex,
                    "\nLife Expectancy:", life_expectancy,
                    "\nNational Average", national_life_expectancy,
                    "\nDifference From Mean:", round(difference_from_mean, 2), "Years")) +
-  geom_col()+
+  geom_col(aes(x = reorder(council_name, difference_from_mean), 
+           y = difference_from_mean, 
+           fill = factor(council_name)))+
   guides(fill = FALSE) +
   coord_flip()+
   labs(x = "Difference from mean", y = "Life expectancy (years)")+

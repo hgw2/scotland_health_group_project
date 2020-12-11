@@ -41,35 +41,34 @@ server <- function(input, output) {
   scotland_map <- get_scotland_le_map(data = life_expectancy, input = input)
   council_map <- get_council_le_map(data = life_expectancy, input = input)
   spatial_data <- get_spatial(council = council_map, scotland = scotland_map)
-  
+
   # Get Alcohol Map Data ----
-  
+
   alcohol_year_diff <- get_alcohol_year_data(alcohol_hospitals)
-  alcohol_spatial <- get_alcohol_spatial(data =alcohol_year_diff, 
-                                         input= input)
+  alcohol_spatial <- get_alcohol_spatial(
+    data = alcohol_year_diff,
+    input = input
+  )
 
   # Produce Base Map ----
 
   output$map <- leaflet_basemap()
-  
-  # Produce Life Expectancy Colours ----
-observe({
-  if(input$variable == "Life Expectancy"){
 
-   get_le_map_colours(map = "map", spatial_data = spatial_data)
- 
-  
-  
-    get_le_map_legend(map = "map", spatial_data = spatial_data)
-  
-  
-} else {
- 
-  get_alcohol_map_colours(map = "map", spatial_data = alcohol_spatial)
-  get_alcohol_map_legend(map = "map", spatial_data = alcohol_spatial)
-  
-}
-})
+  # Produce Life Expectancy Colours ----
+  observe({
+    if (input$variable == "Life Expectancy") {
+      
+      get_le_map_colours(map = "map", spatial_data = spatial_data)
+      
+      get_le_map_legend(map = "map", spatial_data = spatial_data)
+    
+      } else {
+      
+      get_alcohol_map_colours(map = "map", spatial_data = alcohol_spatial)
+
+      get_alcohol_map_legend(map = "map", spatial_data = alcohol_spatial)
+    }
+  })
 
   # Get Life Expectancy UI
   output$council_select <- get_council_ui_select(
@@ -108,32 +107,34 @@ observe({
   output$life_expectancy_comparison <- get_le_comparison_plot(le_comparison_data)
 
   output$top_five <- create_slice_max(time_data_three_filters)
-  
+
   output$bottom_five <- create_slice_min(time_data_three_filters)
-  
-  
+
+
   # Get Alcohol UI
- 
+
   output$council_alcohol_select <- get_alcohol_council_ui_select(
     data = patients,
     top_and_bottom = alcohol_top_and_bottom5
   )
 
-  alcohol_top_and_bottom5 <- get_alcohol_top_and_bottom5(data = alcohol_hospitals,
-                                                     input = input)
-  
-  #Get data for percentage diff in alcohol hospital admissions
+  alcohol_top_and_bottom5 <- get_alcohol_top_and_bottom5(
+    data = alcohol_hospitals,
+    input = input
+  )
+
+  # Get data for percentage diff in alcohol hospital admissions
   patients <- get_patient_data(data = alcohol_hospitals)
-  
+
   get_filtered_plot <- filter_comparison_plot(data = patients, input = input)
-  
-  
-  
-  # Get Alcohol Time data 
- alcohol_time_data <- get_alcohol_time_data(alcohol_hospitals, input)
- 
- # Get Alcohol tabs
- 
- output$alcohol_consumption_percentage_diff<- plot_alcohol_data(data = get_filtered_plot)
- output$alcohol_time_plot <- get_time_alcohol_plot(data = alcohol_time_data)
+
+
+
+  # Get Alcohol Time data
+  alcohol_time_data <- get_alcohol_time_data(alcohol_hospitals, input)
+
+  # Get Alcohol tabs
+
+  output$alcohol_consumption_percentage_diff <- plot_alcohol_data(data = get_filtered_plot)
+  output$alcohol_time_plot <- get_time_alcohol_plot(data = alcohol_time_data)
 }
