@@ -5,9 +5,9 @@ library(sf)
 library(lubridate)
 
 
-life_expectancy <- read_csv("../raw_data/life_expectancy.csv") %>%
+  life_expectancy <- read_csv("raw_data/life_expectancy.csv") %>%
   clean_names()
-council_codes <- read_csv("../clean_data/council_codes_clean.csv")
+council_codes <- read_csv("clean_data/council_codes_clean.csv")
 
 life_expectancy <- life_expectancy %>%
   left_join(council_codes, by = c("feature_code" = "council_code")) %>%
@@ -40,7 +40,8 @@ life_expectancy_sex_all <- life_expectancy %>%
   summarise(life_expectancy = round(mean(life_expectancy), digits = 2)) %>% 
   mutate(sex = "Both")
 
-life_expectancy_bind <- bind_rows(life_expectancy, life_expectancy_sex_all)
+life_expectancy_bind <- bind_rows(life_expectancy, life_expectancy_sex_all) %>% 
+  arrange(council_name)
 
 life_expectancy_bind %>%
-  write_csv("../clean_data/life_expectancy_clean.csv")
+    write_csv("clean_data/life_expectancy_clean.csv")

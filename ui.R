@@ -3,7 +3,7 @@ dashboardPage(
   dashboardSidebar(sidebarMenu(
     menuItem("Overview", tabName = "overview", icon = icon("dashboard")),
     menuItem("Life Expectancy", tabName = "life_expectancy", icon = icon("th")),
-    menuItem("Alcohol Consumption", tabName = "alcohol_consumption", icon = icon("th"))
+    menuItem("Alcohol", tabName = "alcohol_consumption", icon = icon("th"))
   )),
   dashboardBody(
     tabItems(
@@ -19,7 +19,7 @@ dashboardPage(
               top = 100, right = 50, left = 700,
               selectInput("variable",
                 "Select Variable",
-                choices = c("Life Expectancy", "Alcohol Related Hospital Admission"),
+                choices = c("Life Expectancy", "Alcohol Related Hospital Admissions"),
                 selected = "Life Expectancy"
               )
             ),
@@ -121,7 +121,7 @@ dashboardPage(
         ),
         fluidRow(
           box(
-            title = "Number of Alcohol Related Hsopital Admissions",
+            title = "Number of Alcohol Related Hospital Admissions",
             width = 6,
             plotlyOutput("alcohol_time_plot")
           ),

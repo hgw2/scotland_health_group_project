@@ -1,0 +1,12 @@
+name: scotland_health_group_project
+title: scotland_health_group_project
+username:
+account: hgw2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3387906
+bundleId: 3974593
+url: https://hgw2.shinyapps.io/scotland_health_group_project/
+when: 1607678986.26655
+asMultiple: FALSE
+asStatic: FALSE

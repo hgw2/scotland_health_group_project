@@ -8,9 +8,9 @@ get_spatial <- function(council, scotland){
       mutate(over_mean = as.character(over_mean)) %>% 
       mutate(over_mean = case_when( 
         over_mean == "TRUE" ~ "Above National Average",
-        over_mean == "FALSE" ~ "Below Nation Average")) %>% 
+        over_mean == "FALSE" ~ "Below National Average")) %>% 
       mutate(over_mean = factor(over_mean, 
-                                        levels = c("Above National Average", "Below Nation Average"))) %>% 
+                                        levels = c("Above National Average", "Below National Average"))) %>% 
     arrange(council_name) %>% 
     left_join(council_locs, by =  c("council_name" = "cncl_nm" )) %>% 
     st_as_sf() %>% 

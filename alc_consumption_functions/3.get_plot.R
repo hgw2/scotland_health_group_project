@@ -13,7 +13,7 @@ renderPlotly(
     geom_col()+ 
     guides(fill = FALSE) +
     coord_flip()+
-    labs(y = "Pecentage Change (%)")+
+    labs(y = "Percentage Change (%)")+
     theme(
       axis.line = element_blank(),
       axis.ticks = element_blank(),
