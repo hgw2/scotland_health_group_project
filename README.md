@@ -49,7 +49,7 @@ These perspectives are **interactive** and can be used for the majority of our d
 
 -   Mob solve outstanding issues
 
--   Project Documentation\
+-   Project Documentation
 
 ## Contents
  * [Raw data](raw_data) - Raw data sourced from Public Health sites
