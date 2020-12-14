@@ -9,13 +9,17 @@ Grant McGregor
 Project made in R. Open the analysis link to view the analysis for each project. For best use open project in Rstudio and run the cleaning scripts. For projects with multiple scripts run scripts in order. 
 ## Contents
  * [Raw data](raw_data) - Raw data sourced from Public Health sites
+ * 
  * [Cleaning script](cleaning_scripts) 
+
+ * [Cleaning scripts](cleaning_script) 
+
  * [Clean Data] (clean_data) 
  * [Overview Functions] (overview_functions)
  *  [Life Expectancy map functions](Le_map_functions) 
  *   [Alcohol map functions](alcohol_map_functions) 
- *   [Life expectancy tab functions](life_ex_tab functions) 
- *   [Alcohol tab funcitons](alcohol_consumption_functions) 
+ *   [Life expectancy tab functions] (life_ex_tab_functions) 
+ *   [Alcohol tab functions](alcohol_consumption_functions) 
  
 ## Data
 * Task 1 - Decathlon results 
