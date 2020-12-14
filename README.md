@@ -5,7 +5,7 @@
 ### Abbygail Utama    
 ### Grant McGregor 
 
-## App
+## Scotland Health App
 
 The app can be found at this [link](https://hgw2.shinyapps.io/scotland_health_group_project/)
 
