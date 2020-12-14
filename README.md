@@ -60,8 +60,8 @@ Project made in R. Open the analysis link to view the analysis for each project.
 
  * [Cleaning scripts](cleaning_script) 
 
- * [Clean Data] (clean_data) 
- * [Overview Functions] (overview_functions)
+ * [Clean Data](clean_data) 
+ * [Overview Functions](overview_functions)
  *  [Life Expectancy map functions](Le_map_functions) 
  *   [Alcohol map functions](alcohol_map_functions) 
  *   [Life expectancy tab functions] (life_ex_tab_functions) 
@@ -78,14 +78,14 @@ Project made in R. Open the analysis link to view the analysis for each project.
 
  
 ## Data
-####Data was sourced using open source data found at statistics.scotland.gov. 
+#### Data was sourced using open source data found at statistics.scotland.gov. 
 
-###[Life Expectancy](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2FLife-Expectancy)
+### [Life Expectancy](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2FLife-Expectancy)
 Life expectancy in years, at birth and for age groups. Breakdowns are also given for deprivation (SIMD) and Urban Rural classification.
 
 Life expectancy refers to the number of years that a person could expect to survive if the current mortality rates for each age group, sex and geographic area remain constant throughout their life. This is referred to as ‘period life expectancy’ and does not usually reflect the actual number of years that a person will survive. This is because it does not take into account changes in health care and other social factors that may occur through someone’s lifetime. However, life expectancy is a useful statistic as it provides a snapshot of the health of a population and allows the identification of inequalities between populations.
 
-###[Alcohol](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-hospital-statistics) 
+### [Alcohol](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-hospital-statistics) 
  Alcohol-related hospital statistics (ARHS) provide an annual update to figures on the alcohol-related inpatient and day case activity taking place within general acute hospitals and psychiatric hospitals in Scotland. Ratios presented are European Age-sex Standardised Rates (EASR). All publications and supporting material to this topic area can be found on the ISD Scotland - Drug and Alcohol Misuse Website.. Further open data on this topic is available from the NHS Scotland Open Data website.Hospital activity is data routinely drawn from hospital administrative systems across all NHS hospitals in Scotland. SMR01 (Scottish Morbidity Records 01) is the source for general acute inpatient and day case hospital activity for specialties other than mental health, maternity, neonatal and geriatric long-stay. SMR04 (Scottish Morbidity Records 04) is the source for psychiatric inpatient and day case hospital activity.
 
 ## Packages
