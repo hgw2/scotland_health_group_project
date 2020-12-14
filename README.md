@@ -1,9 +1,9 @@
 # Scotland Health Project
 ## Authors
-###Harry Williams    
-###Ilir Mitrushi    
-###Abbygail Utama    
-###Grant McGregor 
+### Harry Williams    
+### Ilir Mitrushi    
+### Abbygail Utama    
+### Grant McGregor 
 
 ## App
 
@@ -113,4 +113,4 @@ Life expectancy refers to the number of years that a person could expect to surv
 
 
 
-       
+       
