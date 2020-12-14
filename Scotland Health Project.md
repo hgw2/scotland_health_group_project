@@ -1,15 +1,56 @@
 # Scotland Health Project
 ## Authors
-Harry Williams    
-Ilir Mitrushi    
-Abbygail Utama    
-Grant McGregor 
+###Harry Williams    
+###Ilir Mitrushi    
+###Abbygail Utama    
+###Grant McGregor 
 
 ## App
 
 The app can be found at this [link](https://hgw2.shinyapps.io/scotland_health_group_project/)
 
- 
+![dashboard_app](images/app_landing_page.png)
+
+## Introduction
+
+Our dashboard landing page displays an [**Interactive map of Scotland**](https://hgw2.shinyapps.io/scotland_health_group_project/) visualising *Life Expectancy at birth* for each Council. In addition, by using colours, it clearly displays if they are below or above Scotland's Life Expectancy at birth.
+
+We use **tabs** to explore **Life Expectancy** and **Alcohol Related Hospital Admissions** dimensions in greater detail. 
+
+The dashboard outlines our health topics from the following perspectives:
+
+**Temporal**: Using Life Expectancy data between 1992 - 2017 we visualise its trend over this period.
+
+**Geographic**: Visualising Life Expectancy at birth  for each council.
+
+**Demographic**: Visualising Life Expectancy at birth by Sex.
+
+These perspectives are **interactive** and can be used for the majority of our dashboard's visual components, i.e. maps, charts, tables etc.
+
+### Stages of the project
+
+-   Assimilating project brief - time spent analysing, discussing and understanding project brief.
+
+-   Data exploration - [<https://statistics.gov.scot>](https://statistics.gov.scot/) the brief specified this site as a primary source but we also conducted a cursory search for other usable relevant sources.
+
+-   Choosing datasets - as a result of our analysis of the brief we focussed on National Records of Scotland (NRS) official Life Expectancy made available publicly. 
+
+-   Planning & dashboard wireframe - Used Trello to help with planning/project management.
+
+-   Git branching & version control-Github - familiarised and explored as the main version control tool for the project.
+
+-   Establish MVP	- Overview of Life Expectancy via geospatial map and drilldown by Life expectancy  and Alcohol related Hosptial Admissions
+
+-   Mob create dashboard skeleton
+
+-   Split into pair groups to work on Overview map, and drill down tabs
+
+-   Regroup to review progress of pair group work
+
+-   Mob solve outstanding issues
+
+-   Project Documentation\
+
 ## Requirements
 Project made in R. Open the analysis link to view the analysis for each project. For best use open project in Rstudio and run the cleaning scripts. For projects with multiple scripts run scripts in order. 
 ## Contents
@@ -25,6 +66,16 @@ Project made in R. Open the analysis link to view the analysis for each project.
  *   [Alcohol map functions](alcohol_map_functions) 
  *   [Life expectancy tab functions] (life_ex_tab_functions) 
  *   [Alcohol tab functions](alcohol_consumption_functions) 
+
+## Images
+![dashboard_app](images/life_expectancy_map.png)
+
+![dashboard_app](images/life_expectancy_tab.png)
+
+![dashboard_app](images/alcohol_map.png)
+
+![dashboard_app](images/alcohol_tab.png)
+
  
 ## Data
 ####Data was sourced using open source data found at statistics.scotland.gov. 
