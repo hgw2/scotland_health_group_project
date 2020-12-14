@@ -7,8 +7,8 @@ renderPlotly(
     aes(x = reorder(council_name, percentage_increase),
         y = percentage_increase, 
         fill = factor(council_name), 
-        text = paste("\nNumber of Patients (",year,")",": ", number_of_patients,
-                     "\nNumber of Patients (", year - 1,")",": ", year_before,
+        text = paste("\nNumber of Patients (",year,")",": ", number_of_patients, " per 100,000",
+                     "\nNumber of Patients (", year - 1,")",": ", year_before, " per 100,000",
                      "\nPercentage Change: ", percentage_increase, "%", sep ="") ) +
     geom_col()+ 
     guides(fill = FALSE) +

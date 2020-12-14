@@ -6,7 +6,7 @@ get_alcohol_map_colours <- function(map, spatial_data) {
   label <- paste(spatial_data()$council_name,"=", spatial_data()$percentage_increase)
   
   label <-  sprintf(
-    "<strong>%s</strong><br/>Percentage Change: %g&#37 <br/>Number of Patients (%g): %g<br/> Number of Patients (Previous Year): %g",
+    "<strong>%s</strong><br/>Percentage Change: %g&#37 <br/>Number of Patients (%g): %g per 100,000<br/> Number of Patients (Previous Year): %g per 100,000",
     spatial_data()$council_name, 
     spatial_data()$percentage_increase,
     spatial_data()$year,

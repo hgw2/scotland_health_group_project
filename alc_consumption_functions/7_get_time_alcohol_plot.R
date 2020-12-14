@@ -9,7 +9,7 @@ get_time_alcohol_plot  <- function(data) {
           colour = factor(council_name), 
           grp = factor(council_name), group = 1,
                        text = paste("Council:", council_name,
-                                    "\nNumber of Patients (", year,"): ", value, sep ="")) +
+                                    "\nNumber of Patients (", year,"): ", value, " per 100,000", sep ="")) +
       geom_point(size = 1.5) +
       labs(x = "Year", y = "Number of Patients") +
       theme_linedraw()+
