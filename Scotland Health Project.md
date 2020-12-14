@@ -9,7 +9,7 @@ Grant McGregor
 Project made in R. Open the analysis link to view the analysis for each project. For best use open project in Rstudio and run the cleaning scripts. For projects with multiple scripts run scripts in order. 
 ## Contents
  * [Raw data](raw_data) - Raw data sourced from Public Health sites
- * [Cleaning script](cleaning_script) 
+ * [Cleaning script](cleaning_scripts) 
  * [Clean Data] (clean_data) 
  * [Overview Functions] (overview_functions)
  *  [Life Expectancy map functions](Le_map_functions) 
@@ -23,11 +23,30 @@ Project made in R. Open the analysis link to view the analysis for each project.
 * Task 4 -  three years (2015 to 2017) of candy surveys collected by the science quarterly 
 * Task 5 -The data was collected through an interactive on-line version of the Right-wing Authoritarianism Scale in 2015.
 * Task 6 - Data collected from a dog oweners survey 
+
 ## Packages
+
 | Package      | Version    
 | :------------- | :----------: 
-|  assertr | 2.7   
-| janitor  | 2.0.1
-|tidyverse |1.3.0
-|testthat | 2.3.2
-Colla
+|dplyr|1.0.2|
+|DT|0.16
+|forcats|0.5.0
+|ggplot2|3.3.2 
+|leaflet|2.0.3  
+|shinyWidgets| 0.5.4  
+|lubridate| 1.7.8  
+|plotly| 4.9.2.1 
+|purrr|0.3.3  
+|readr|1.3.1
+|sf|0.9-6
+|shiny|1.5.0
+|shinydashboard|0.7.1 
+|stringr|1.4.0 
+| tibble|3.0.0 
+|tidyr|1.1.2
+|tidyverse|1.3.0 
+
+
+
+
+       
