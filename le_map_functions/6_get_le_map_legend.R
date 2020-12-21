@@ -1,6 +1,6 @@
 get_le_map_legend <- function(map, spatial_data){
 
-   pal <- colorFactor(c("#008000", "#FF0000"), 
+   pal <- colorFactor(c("#fc8e59", "#feffbf"), 
                                 domain = spatial_data()$over_mean)
              
   

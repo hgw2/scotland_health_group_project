@@ -1,6 +1,6 @@
 get_alcohol_map_colours <- function(map, spatial_data) {
   
-  pal<- colorFactor(c("#FF0000", "#008000"),
+  pal<- colorFactor(c("#fc8e59", "#feffbf"),
                     domain = spatial_data()$increase_decrease)
   
   label <- paste(spatial_data()$council_name,"=", spatial_data()$percentage_increase)
@@ -20,7 +20,7 @@ get_alcohol_map_colours <- function(map, spatial_data) {
     addPolygons(fillColor = ~pal(increase_decrease),
                 weight = 2,
                 opacity = 10,
-                color = "white",
+                color = "black",
                 dashArray = "3",
                 fillOpacity = 1.5,
                 highlight = highlightOptions(

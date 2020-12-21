@@ -1,6 +1,6 @@
 get_le_map_colours <- function(map, spatial_data) {
 
-  pal <- colorFactor(c("#008000", "#FF0000"),
+  pal <- colorFactor(c("#fc8e59", "#feffbf"),
     domain = spatial_data()$over_mean)
   
    label <-  sprintf(
@@ -20,7 +20,7 @@ get_le_map_colours <- function(map, spatial_data) {
         fillColor = ~ pal(over_mean),
         weight = 2,
         opacity = 10,
-        color = "white",
+        color = "black",
         dashArray = "3",
         fillOpacity = 1.5,
         highlight = highlightOptions(

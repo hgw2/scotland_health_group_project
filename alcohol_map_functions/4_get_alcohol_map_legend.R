@@ -1,6 +1,6 @@
 get_alcohol_map_legend <- function(map, spatial_data){
   
-  pal <- colorFactor(c("#FF0000", "#008000" ), 
+  pal <- colorFactor(c("#fc8e59", "#feffbf"), 
                      domain = spatial_data()$increase_decrease)
   
   
